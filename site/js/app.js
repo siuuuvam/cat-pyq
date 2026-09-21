@@ -309,7 +309,6 @@ function renderLanding() {
   document.getElementById('app').innerHTML = `
     <div class="landing-hero">
       <h1>CAT Past Year Questions</h1>
-      <p>Offline clone of AfterGrad CAT PYQs — select a year to begin</p>
     </div>
     <div class="container">
       <div class="year-grid">
