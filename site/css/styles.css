@@ -597,18 +597,31 @@ body {
   .header-nav { display: none; }
   .landing-hero h1 { font-size: 24px; }
   .year-grid { grid-template-columns: repeat(2, 1fr); }
-  .tab-bar { gap: 6px; }
-  .tab { padding: 5px 10px; font-size: 12px; }
+  .tab-bar { gap: 6px; padding: 10px 0 16px; }
+  .tab { padding: 6px 12px; font-size: 12px; }
   .question-card { padding: 14px; }
   .split-layout { flex-direction: column !important; }
   .split-passage { position: static !important; width: 100% !important; max-height: none !important; }
   .split-question { width: 100% !important; }
+  .split-question .question-text { font-size: 15px; }
+  .split-question .option-item { font-size: 14px; padding: 10px 12px; }
+  .split-question .q-number { font-size: 16px; }
+  .split-question .answer-value { font-size: 15px; }
+  .page-title { font-size: 20px; }
+  .container { padding: 0 16px; }
+  .header-inner { padding: 0 16px; }
+  .q-nav-btn { width: 32px; height: 32px; font-size: 12px; }
 }
 
 @media (max-width: 1100px) and (min-width: 769px) {
   .split-layout { gap: 16px; }
   .split-passage { width: 50%; }
   .split-question { width: 50%; }
+}
+
+@media (min-width: 1400px) {
+  .container { max-width: 1400px; }
+  .header-inner { max-width: 1400px; }
 }
 
 /* Split layout for VARC/DILR */
