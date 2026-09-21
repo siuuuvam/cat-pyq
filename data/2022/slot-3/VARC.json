@@ -1,0 +1,935 @@
+{
+  "meta": {
+    "year": 2022,
+    "slot": "slot-3",
+    "section": "VARC",
+    "source_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+    "total_questions": 24,
+    "scraped_at": "2026-09-21T06:13:32Z"
+  },
+  "passages": {
+    "passage_1": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Sociologists working in the Chicago School tradition have focused on how rapid or dramatic social change causes increases in crime. Just as Durkheim, Marx, Toennies, and other European sociologists thought that the rapid changes produced by industrialization and urbanization produced crime and disorder, so too did the Chicago School theorists. The location of the University of Chicago provided an excellent opportunity for Park, Burgess, and McKenzie to study the social ecology of the city. Shaw and McKay found that areas of the city characterized by high levels of social disorganization had higher rates of crime and delinquency.</p>\n<div style=\"height:10px\"></div>\n<p>In the 1920s and 1930s Chicago, like many American cities, experienced considerable immigration. Rapid population growth is a disorganizing influence, but growth resulting from in-migration of very different people is particularly disruptive. Chicago's in-migrants were both native-born whites and blacks from rural areas and small towns, and foreign immigrants. The heavy industry of cities like Chicago, Detroit, and Pittsburgh drew those seeking opportunities and new lives. Farmers and villagers from America's hinterland, like their European cousins of whom Durkheim wrote, moved in large numbers into cities. At the start of the twentieth century, Americans were predominately a rural population, but by the century's mid-point most lived in urban areas. The social lives of these migrants, as well as those already living in the cities they moved to, were disrupted by the differences between urban and rural life.</p>\n<div style=\"height:10px\"></div>\n<p>According to social disorganization theory, until the social ecology of the \"new place\" can adapt, this rapid change is a criminogenic influence. But most rural migrants, and even many of the foreign immigrants to the city, looked like and eventually spoke the same language as the natives of the cities into which they moved. These similarities allowed for more rapid social integration for these migrants than was the case for African Americans and most foreign immigrants.</p>\n<div style=\"height:10px\"></div>\n<p>In these same decades America experienced what has been called, \"The Great Migration\". The massive movement of African Americans out of the rural South and into northern (and some southern) cities. The scale of this migration is one of the most dramatic in human history.</p>\n<div style=\"height:10px\"></div>\n<p>These migrants, unlike their white counterparts, were not integrated into the cities they now called home. In fact, most American cities at the end of the twentieth century were characterized by high levels of racial residential segregation. Failure to integrate these migrants, coupled with other forces of social disorganization such as crowding, poverty, and illness, caused crime rates to climb in the cities, particularly in the segregated wards and neighborhoods where the migrants were forced to live.</p>\n<div style=\"height:10px\"></div>\n<p>Foreign immigrants during this period did not look as dramatically different from the rest of the population as blacks did, but the migrants from eastern and southern Europe who came to American cities did not speak English, and were frequently Catholic, while the native born were mostly Protestant. The combination of rapid population growth with the diversity of those moving into the cities created what the Chicago School sociologists called social disorganization.</p></div>",
+      "images": [],
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "passage_2": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>As software improves, the people using it become less likely to sharpen their own know-how. Applications that offer lots of prompts and tips are often to blame; simpler, less solicitous programs push people harder to think, act and learn.</p>\n<div style=\"height:10px\"></div>\n<p>Ten years ago, information scientists at Utrecht University in the Netherlands had a group of people carry out complicated analytical and planning tasks using either rudimentary software that provided no assistance or sophisticated software that offered a great deal of aid. The researchers found that the people using the simple software developed better strategies, made fewer mistakes and developed a deeper aptitude for the work. The people using the more advanced software, meanwhile, would often \"aimlessly click around\" when confronted with a tricky problem. The supposedly helpful software actually short-circuited their thinking and learning.</p>\n<div style=\"height:10px\"></div>\n<p>According to philosopher Hubert Dreyfus, our skills get sharper only through practice, when we use them regularly to overcome different sorts of difficult challenges. The goal of modern software, by contrast, is to ease our way through such challenges. Arduous, painstaking work is exactly what programmers are most eager to automate. After all, that is where the immediate efficiency gains tend to lie. In other words, a fundamental tension ripples between the interests of the people doing the automation and the interests of the people doing the work.</p>\n<div style=\"height:10px\"></div>\n<p>Nevertheless, automation's scope continues to widen. With the rise of electronic health records, physicians increasingly rely on software templates to guide them through patient exams. The programs incorporate valuable checklists and alerts, but they also make medicine more routinized and formulaic and distance doctors from their patients. Harvard Medical School professor Beth Lown, in a 2012 journal article, warned that when doctors become \"screen-driven,” following a computer's prompts rather than \"the patient's narrative thread,\" their thinking can become constricted. In the worst cases, they may miss important diagnostic signals.</p>\n<div style=\"height:10px\"></div>\n<p>In a recent paper published in the journal Diagnosis, three medical researchers examined the misdiagnosis of Thomas Eric Duncan, the first person to die of Ebola in the U.S., at Texas Health Presbyterian Hospital Dallas. They argue that the digital templates used by the hospital's clinicians to record patient information probably helped to induce a kind of tunnel vision. \"These highly constrained tools,” the researchers write, \"are optimized for data capture but at the expense of sacrificing their utility for appropriate triage and diagnosis, leading users to miss the forest for the trees.” Medical software, they write, is no \"replacement for basic history-taking, examination skills, and critical thinking.\"</p>\n<div style=\"height:10px\"></div>\n<p>There is an alternative. In \"human-centered automation,\" the talents of people take precedence. In this model, software plays an essential but secondary role. It takes over routine functions that a human operator has already mastered, issues alerts when unexpected situations arise, provides fresh information that expands the operator's perspective and counters the biases that often distort human thinking. The technology becomes the expert's partner, not the expert's replacement.</p></div>",
+      "images": [],
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "passage_3": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Nature has all along yielded her flesh to humans. First, we took nature's materials as food, fibers, and shelter. Then we learned to extract raw materials from her biosphere to create our own new synthetic materials. Now Bios is yielding us her mind we are taking her logic.</p>\n<div style=\"height:10px\"></div>\n<p>Clockwork logic—the logic of the machines will only build simple contraptions. Truly complex systems such as a cell, a meadow, an economy, or a brain (natural or artificial) require a rigorous nontechnological logic. We now see that no logic except bio-logic can assemble a thinking device, or even a workable system of any magnitude.</p>\n<div style=\"height:10px\"></div>\n<p>It is an astounding discovery that one can extract the logic of Bios out of biology and have something useful. Although many philosophers in the past have suspected one could abstract the laws of life and apply them elsewhere, it wasn't until the complexity of computers and human-made systems became as complicated as living things, that it was possible to prove this. It's eerie how much of life can be transferred. So far, some of the traits of the living that have successfully been transported to mechanical systems are: self-replication, self- governance, limited self-repair, mild evolution, and partial learning.</p>\n<div style=\"height:10px\"></div>\n<p>We have reason to believe yet more can be synthesized and made into something new. Yet at the same time that the logic of Bios is being imported into machines, the logic of Technos is being imported into life. The root of bioengineering is the desire to control the organic long enough to improve it. Domesticated plants and animals are examples of techno-logics applied to life. The wild aromatic root of the Queen Anne's lace weed has been fine-tuned over generations by selective herb gatherers until it has evolved into a sweet carrot of the garden; the udders of wild bovines have been selectively enlarged in a \"unnatural\" way to satisfy humans rather than calves. Milk cows and carrots, therefore, are human inventions as much as steam engines and gunpowder are. But milk cows and carrots are more indicative of the kind of inventions humans will make in the future: products that are grown rather than manufactured.</p>\n<div style=\"height:10px\"></div>\n<p>Genetic engineering is precisely what cattle breeders do when they select better strains of Holsteins, only bioengineers employ more precise and powerful control. While carrot and milk cow breeders had to rely on diffuse organic evolution, modern genetic engineers can use directed artificial evolution a purposeful design which greatly accelerates improvements.</p>\n<div style=\"height:10px\"></div>\n<p>The overlap of the mechanical and the lifelike increases year by year. Part of this bionic convergence is a matter of words. The meanings of \"mechanical\" and \"life\" are both stretching until all complicated things can be perceived as machines, and all self-sustaining machines can be perceived as alive. Yet beyond semantics, two concrete trends are happening:(1) Human-made things are behaving more lifelike, and (2) Life is becoming more engineered. The apparent veil between the organic and the manufactured has crumpled to reveal that the two really are, and have always been, of one being.</p></div>",
+      "images": [],
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "passage_4": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Interpretations of the Indian past were inevitably influenced by colonial concerns and interests, and also by prevalent European ideas about history, civilization and the Orient. Orientalist scholars studied the languages and the texts with selected Indian scholars, but made little attempt to understand the world-view of those who were teaching them. The readings therefore are something of a disjuncture from the traditional ways of looking at the Indian past.</p>\n<div style=\"height:10px\"></div>\n<p>Orientalism which we can understand broadly as Western perceptions of the Orient fueled the fantasy and the freedom sought by European Romanticism, particularly in its opposition to the more disciplined Neo-Classicism. The cultures of Asia were seen as bringing a new Romantic paradigm. Another Renaissance was anticipated through an acquaintance with the Orient, and this, it was thought, would be different from the earlier Greek Renaissance. It was believed that this Oriental Renaissance would liberate European thought and literature from the increasing focus on discipline and rationality that had followed from the earlier Enlightenment. The Romantic English poets, Wordsworth and Coleridge, were apprehensive of the changes introduced by industrialization and turned to nature and to fantasies of the Orient.</p>\n<div style=\"height:10px\"></div>\n<p>However, this enthusiasm gradually changed, to conform with the emphasis later in the nineteenth century on the innate superiority of European civilization. Oriental civilizations were now seen as having once been great but currently in decline. The various phases of Orientalism tended to mould European understanding of the Indian past into a particular pattern. There was an attempt to formulate Indian culture as uniform, such formulations being derived from texts that were given priority. The so-called 'discovery' of India was largely through selected literature in Sanskrit. This interpretation tended to emphasize non-historical aspects of Indian culture, for example the idea of an unchanging continuity of society and religion over 3,000 years; and it was believed that the Indian pattern of life was so concerned with metaphysics and the subtleties of religious belief that little attention was given to the more tangible aspects.</p>\n<div style=\"height:10px\"></div>\n<p>German Romanticism endorsed this image of India, and it became the mystic land for many Europeans, where even the most ordinary actions were imbued with a complex symbolism. This was the genesis of the idea of the spiritual east, and also, incidentally, the refuge of European intellectuals seeking to distance themselves from the changing patterns of their own societies. A dichotomy in values was maintained, Indian values being described as 'spiritual' and European values as 'materialistic', with little attempt to juxtapose these values with the reality of Indian society. This theme has been even more firmly endorsed by a section of Indian opinion during the last hundred years.</p>\n<div style=\"height:10px\"></div>\n<p>It was a consolation to the Indian intelligentsia for its perceived inability to counter the technical superiority of the west, a superiority viewed as having enabled Europe to colonize Asia and other parts of the world. At the height of anti-colonial nationalism it acted as a salve for having been made a colony of Britain.</p></div>",
+      "images": [],
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    "passage_5": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        17
+      ]
+    },
+    "passage_6": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        18
+      ]
+    },
+    "passage_7": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        19
+      ]
+    },
+    "passage_8": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        20
+      ]
+    },
+    "passage_9": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        21
+      ]
+    },
+    "passage_10": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        22
+      ]
+    },
+    "passage_11": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        23
+      ]
+    },
+    "passage_12": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        24
+      ]
+    }
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following is not a valid inference from the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The differences between urban and rural lifestyles were crucial factors in the disruption experienced by migrants to American cities."
+        },
+        {
+          "label": "B",
+          "text": "The failure to integrate in-migrants, along with social problems like poverty, was a significant reason for the rise in crime in American cities."
+        },
+        {
+          "label": "C",
+          "text": "According to social disorganisation theory, fast-paced social change provides fertile ground for the rapid growth of crime."
+        },
+        {
+          "label": "D",
+          "text": "According to social disorganisation theory, the social integration of African American migrants into Chicago was slower because they were less organised."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"These migrants, unlike their white counterparts, were not integrated into the cities they now called home. In fact, most American cities at the end of the twentieth century were characterized by high levels of racial residential segregation.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage explains <i>why</i> African American integration was slower -&gt; it was due to <b>external barriers</b> (segregation), not internal characteristics.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Elimination process:</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 1 -&gt; <i>directly supported</i> -&gt; passage clearly states \"social lives were disrupted by the differences between urban and rural life\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <i>directly supported</i> -&gt; passage says \"failure to integrate these migrants, coupled with other forces of social disorganization such as crowding, poverty, and illness, caused crime rates to climb\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; <i>directly supported</i> -&gt; passage states \"rapid or dramatic social change causes increases in crime\" and calls rapid change a \"criminogenic influence\"</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <i>not supported</i> -&gt; passage never says African Americans were \"less organised.\" It explains slower integration was due to <b>segregation</b> (external barrier) not their own organization levels. This shifts the blame incorrectly from systemic racism to the migrants themselves.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The key confusion students face: Options 1-3 all sound reasonable and are backed by specific quotes. Option 4 sounds plausible but makes an unsupported claim about African Americans being \"less organised\" -&gt; this reason isn't mentioned anywhere in the passage as the cause of slower integration.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/1",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "2",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following sets of words/phrases best encapsulates the issues discussed in the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Chicago School; Native-born Whites; European immigrants; Poverty"
+        },
+        {
+          "label": "B",
+          "text": "Durkheim; Marx; Toennies; Shaw"
+        },
+        {
+          "label": "C",
+          "text": "Rapid population growth; Heavy industry; Segregation; Crime"
+        },
+        {
+          "label": "D",
+          "text": "Chicago School; Social organisation; Migration; Crime"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage talks about Chicago School sociologists studying how social changes (especially migration) break down social organization and lead to more crime.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Sociologists working in the Chicago School tradition have focused on how rapid or dramatic social change causes increases in crime... Shaw and McKay found that areas of the city characterized by high levels of social disorganization had higher rates of crime and delinquency.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage covers: Chicago School theory -&gt; Social disorganization from migration -&gt; Higher crime rates</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟠 <b>Option 1</b> -&gt; partial-truth -&gt; Has Chicago School and mentions specific migrant groups, but <b>misses</b> the core concept of social organization/disorganization that ties everything together</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; scope-error -&gt; Just lists individual sociologist names but <b>ignores</b> the main theoretical framework (Chicago School) and key concepts like migration and social organization</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3</b> -&gt; partial-truth -&gt; Mentions good specific factors but <b>misses</b> the Chicago School theoretical framework and migration as a broad concept (it has segregation but not the bigger migration theme)</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; correct -&gt; Captures all four main themes: the <b>Chicago School</b> (theoretical approach), <b>Social organisation</b> (core concept being studied), <b>Migration</b> (the big social change causing problems), and <b>Crime</b> (the result they're measuring)</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 hits all the <b>major themes</b> at the right level - not too specific like \"Native-born Whites\" or \"Heavy industry,\" but not too vague either.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/2",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "3",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The author notes that, \"At the start of the twentieth century, Americans were predominately a rural population, but by the century's mid-point most lived in urban areas.\" Which one of the following statements, if true, does not contradict this statement?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Demographic transition in America in the twentieth century is strongly marked by an out-migration from rural areas."
+        },
+        {
+          "label": "B",
+          "text": "Economists have found that throughout the twentieth century, the size of the labour force in America has always been largest in rural areas."
+        },
+        {
+          "label": "C",
+          "text": "A population census conducted in 1952 showed that more Americans lived in rural areas than in urban ones."
+        },
+        {
+          "label": "D",
+          "text": "The estimation of per capita income in America in the mid-twentieth century primarily required data from rural areas."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find which option <b>supports</b> the author's claim about America's population shift from rural to urban areas during the first half of the 20th century.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"At the start of the twentieth century, Americans were predominately a rural population, but by the century's mid-point most lived in urban areas.\"</p>\n<div style=\"height:10px\"></div>\n<p>The author is describing a clear timeline:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Early 1900s → Most people lived in rural areas</li>\n<li node=\"[object Object]\">Mid 1900s (around 1950) → Most people lived in urban areas</li>\n<li node=\"[object Object]\">This means people moved from rural areas to cities over 50 years</li>\n</ul>\n<div style=\"height:10px\"></div>\n<p>Sowe need to find the option that <i>doesn't contradict</i> this rural-to-urban shift.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 <b>Option 2</b> → contradicts timeline → says rural areas \"always\" had largest workforce throughout 20th century, but author says most people lived in cities by mid-century</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> → contradicts timeline → says 1952 census showed more people in rural areas, but 1952 is mid-century when author says most lived in urban areas</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4</b> → contradicts timeline → implies rural areas were more important for data at mid-century, but author says cities had most people by then</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> → supports timeline → \"out-migration from rural areas\" means people left rural areas → this matches the rural-to-urban shift the author describes</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 directly supports what the author said - if there was major out-migration from rural areas during the 20th century, that explains how America went from mostly rural to mostly urban by mid-century.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/3",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "4",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>A fundamental conclusion by the author is that:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "the best circumstances for crime to flourish are when there are severe racial disparities."
+        },
+        {
+          "label": "B",
+          "text": "to prevent crime, it is important to maintain social order through maintaining social segregation."
+        },
+        {
+          "label": "C",
+          "text": "according to European sociologists, crime in America is mainly in Chicago."
+        },
+        {
+          "label": "D",
+          "text": "rapid population growth and demographic diversity give rise to social disorganisation that can feed the growth of crime"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the <b>main theme</b> that runs through the entire passage -&gt; not just one example, but the <i>fundamental conclusion</i> the author is making.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Sociologists working in the Chicago School tradition have focused on how rapid or dramatic social change causes increases in crime\" and \"According to social disorganization theory, until the social ecology of the 'new place' can adapt, this rapid change is a criminogenic influence.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage follows this pattern: rapid change/population growth -&gt; social disorganization -&gt; crime increases. This pattern appears in <i>every paragraph</i> with different examples (industrialization, immigration, Great Migration, foreign immigrants).</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 Option 1 -&gt; <i>partial-truth</i> -&gt; mentions racial disparities correctly but this is just <b>one example</b> used to support the broader theory, not the fundamental conclusion itself</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 2 -&gt; <i>contradicts-passage</i> -&gt; says segregation prevents crime, but passage shows segregation <b>caused</b> crime by preventing integration</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; <i>scope-error</i> -&gt; completely wrong scope - European sociologists are background context, they didn't study American cities specifically</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 -&gt; <i>captures-main-theme</i> -&gt; this is the <b>central theory</b> explained throughout - rapid population growth + diversity = social disorganization = more crime</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The key insight: Option 1 focuses on <i>one specific case study</i> (racial issues), while Option 4 captures the <b>overarching theory</b> that explains <i>all the examples</i> in the passage (rural migrants, immigrants, African Americans). The fundamental conclusion is about the general process, not just one particular situation.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/4",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "5",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Technology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>In the Ebola misdiagnosis case, we can infer that doctors probably missed the forest for the trees because:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "they were led by the data processed by digital templates."
+        },
+        {
+          "label": "B",
+          "text": "the digital templates forced them to acquire tunnel vision."
+        },
+        {
+          "label": "C",
+          "text": "the data collected were not sufficient for appropriate triage."
+        },
+        {
+          "label": "D",
+          "text": "they used the wrong type of digital templates for the case."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Need to find something that's <i>suggested</i> but not directly stated.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"They argue that the digital templates used by the hospital's clinicians to record patient information probably helped to induce a kind of tunnel vision... leading users to miss the forest for the trees.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage shows: Digital templates -&gt; tunnel vision -&gt; missing forest for trees</p>\n<div style=\"height:10px\"></div>\n<p>Key insight: We need an <b>inference</b> (something suggested but not directly said), not a direct quote from the passage.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 Option 1 -&gt; <b>correct inference</b> -&gt; captures the implied relationship between being \"led by data\" and the tunnel vision problem. The passage suggests doctors focused too much on data processing rather than big picture thinking.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 2 -&gt; <b>degree-error</b> -&gt; \"forced\" is too extreme. Passage says templates \"probably helped to induce\" tunnel vision, which is much softer than \"forced.\"</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; <b>direct quote, not inference</b> -&gt; this is literally stated in the passage: \"at the expense of sacrificing their utility for appropriate triage.\" Can't be an inference if it's already said directly.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <b>unsupported assumption</b> -&gt; passage never mentions different \"types\" of templates or suggests they picked the wrong kind. This adds information not in the passage.</p>\n<div style=\"height:10px\"></div>\n<p><b>Student confusion point:</b> You might think Option 3 sounds right because it mentions triage problems. But remember - if it's already stated in the passage, it's not an inference! Look for what's <i>suggested</i> between the lines.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/5",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "6",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Technology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>It can be inferred that in the Utrecht University experiment, one group of people was \"aimlessly clicking around\" because:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "they wanted to avoid making mistakes."
+        },
+        {
+          "label": "B",
+          "text": "they did not have the skill-set to address complicated tasks."
+        },
+        {
+          "label": "C",
+          "text": "they were hoping that the software would help carry out the tasks."
+        },
+        {
+          "label": "D",
+          "text": "the other group was carrying out the tasks more efficiently."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to understand <b>why</b> people with advanced software were \"aimlessly clicking around\" when facing tricky problems.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The people using the more advanced software, meanwhile, would often 'aimlessly click around' when confronted with a tricky problem. The supposedly helpful software actually short-circuited their thinking and learning.\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: Advanced software = lots of help and prompts -&gt; People expect software to solve problems -&gt; When stuck, they click around hoping software will provide the answer -&gt; This prevents them from thinking independently.</p>\n<div style=\"height:10px\"></div>\n<p>Simple logic flow: Sophisticated software offers aid -&gt; People become dependent on that aid -&gt; When problems get tricky, they look to software for solutions -&gt; Hence the aimless clicking.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 <b>Option 1</b> -&gt; irrelevant -&gt; Says they wanted to avoid mistakes, but passage shows they actually <i>made more mistakes</i> than the simple software group. This doesn't explain the clicking behavior.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; scope-error -&gt; Claims they lacked skills, but both groups did the <i>same tasks</i> with <i>same people</i>. The only difference was the software type. Their inherent abilities were identical.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 3</b> -&gt; correct -&gt; They had \"sophisticated software that offered a great deal of aid,\" so when stuck, they naturally turned to that software for help, clicking around hoping it would solve their tricky problems.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 4</b> -&gt; partial-truth -&gt; While the other group <i>was</i> more efficient, this doesn't explain <b>why</b> the advanced group clicked aimlessly. It's about comparison, not causation.</p>\n<div style=\"height:10px\"></div>\n<p>The passage clearly shows: Advanced software creates dependency -&gt; People expect software solutions -&gt; Tricky problems lead to aimless clicking hoping software will help.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/6",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "7",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Technology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From the passage, we can infer that the author is apprehensive about the use of sophisticated automation for all of the following reasons EXCEPT that:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "it could mislead people."
+        },
+        {
+          "label": "B",
+          "text": "it stunts the development of its users."
+        },
+        {
+          "label": "C",
+          "text": "it stops users from exercising their minds."
+        },
+        {
+          "label": "D",
+          "text": "computers could replace humans."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>To solve this EXCEPT question,we need to find which concern is <b>NOT</b> mentioned by the author about sophisticated automation.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The technology becomes the expert's partner, not the expert's replacement.\"</p>\n<div style=\"height:10px\"></div>\n<p>The author's concerns flow through three main examples -&gt; Utrecht study shows advanced software makes people \"aimlessly click around\" -&gt; medical software makes doctors \"screen-driven\" and miss signals -&gt; Ebola case shows templates create \"tunnel vision.\"</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Process:</b> EXCEPT questions are tricky! Find the odd one out. The author clearly worries about automation harming human skills, but what about replacement? The passage actually <i>promotes</i> partnership over replacement in the final paragraph.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 1 -&gt; <b>supported</b> -&gt; Ebola case shows templates misled doctors to miss forest for trees</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <b>supported</b> -&gt; \"people using sophisticated software developed worse strategies\" - clear stunting of growth</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; <b>supported</b> -&gt; \"short-circuited their thinking\" and \"aimlessly click around\" shows mental exercise stops</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <b>NOT supported</b> -&gt; author never fears replacement! Final paragraph promotes \"human-centered automation\" where tech is \"partner, not replacement\"</p>\n<div style=\"height:10px\"></div>\n<p>The confusion: Students often think the author opposes all automation. <b>Wrong!</b> The author supports <i>smart</i> automation that partners with humans, not replaces them. The whole passage builds toward this solution.</p>\n<div style=\"height:10px\"></div>\n<p><b>Answer:</b> Option 4 - the author advocates partnership, not replacement fears.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/7",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "8",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Technology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>In the context of the passage, all of the following can be considered examples of human-centered automation EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "a smart-home system that changes the temperature as instructed by the resident."
+        },
+        {
+          "label": "B",
+          "text": "software that auto-completes text when the user writes an email."
+        },
+        {
+          "label": "C",
+          "text": "medical software that provides optional feedback on the doctor's analysis of the medical situation."
+        },
+        {
+          "label": "D",
+          "text": "software that offers interpretations when requested by the human operator."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find which option is NOT an example of human-centered automation.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"In 'human-centered automation,' the talents of people take precedence. In this model, software plays an essential but secondary role. It takes over routine functions that a human operator has already mastered, issues alerts when unexpected situations arise, provides fresh information that expands the operator's perspective and counters the biases that often distort human thinking. The technology becomes the expert's partner, not the expert's replacement.\"</p>\n<div style=\"height:10px\"></div>\n<p>The key idea -&gt; humans stay in control, software supports and helps, doesn't replace human thinking or skills.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Nowwe need to spot which option goes against this principle. The passage warns against software that makes people \"aimlessly click around\" and stops them from thinking.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 1 -&gt; human-centered -&gt; resident gives instructions, technology follows human commands</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 2 -&gt; machine-centered -&gt; software takes over the thinking/writing process instead of supporting it, could weaken human writing skills like the passage warns</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; human-centered -&gt; doctor does analysis first, software gives optional feedback when requested</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 -&gt; human-centered -&gt; human operator requests interpretations, stays in control of decision-making</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The key difference -&gt; Options 1, 3, and 4 all keep humans in the driver's seat. Option 2 takes over human thinking by completing thoughts automatically. This matches the passage's warning about software that \"short-circuits thinking and learning.\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The people using the more advanced software, meanwhile, would often 'aimlessly click around' when confronted with a tricky problem. The supposedly helpful software actually short-circuited their thinking and learning.\"</p>\n<div style=\"height:10px\"></div>\n<p>Auto-complete text -&gt; does the thinking FOR you rather than WITH you -&gt; weakens your writing skills over time -&gt; exactly what the passage warns against.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/8",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "9",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following sets of words/phrases best serves as keywords to the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Nature; Computers; Carrots; Milk cows; Genetic engineering"
+        },
+        {
+          "label": "B",
+          "text": "Complex systems; Carrots; Milk cows; Convergence; Technos-logic"
+        },
+        {
+          "label": "C",
+          "text": "Complex systems; Bio-logic; Bioengineering; Technos-logic; Convergence"
+        },
+        {
+          "label": "D",
+          "text": "Nature; Bios; Technos; Self-repair; Holsteins"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the set of words that best captures the <b>main themes</b> running through the entire passage.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Step-by-step thought process:</b></p>\n<div style=\"height:10px\"></div>\n<p>The passage talks about how nature first gave us materials, then we learned to extract her logic (bio-logic) -&gt; This logic is now being put into machines -&gt; Meanwhile, techno-logic is being applied to living things -&gt; Examples like carrots and milk cows show this -&gt; The result is convergence between mechanical and biological systems.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The overlap of the mechanical and the lifelike increases year by year... The apparent veil between the organic and the manufactured has crumpled to reveal that the two really are, and have always been, of one being.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage is fundamentally about <b>two-way exchange</b>: bio-logic going into machines, techno-logic going into life, leading to convergence.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Option elimination analysis:</b></p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 1</b> -&gt; partial-truth -&gt; Has good examples (carrots, milk cows) and mentions nature/genetic engineering, but misses the <i>core conceptual framework</i> of bio-logic vs techno-logic that drives the whole argument</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 2</b> -&gt; partial-truth -&gt; Captures convergence and techno-logic well, includes examples, but completely <i>misses bio-logic</i> which is central to the first half</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 3</b> -&gt; captures both scope and nuance accurately -&gt; Has all the <i>core concepts</i>: complex systems (what requires bio-logic), bio-logic (nature's contribution), bioengineering/technos-logic (human contributions), convergence (the result)</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4</b> -&gt; scope-error -&gt; Too focused on <i>minor details</i> like self-repair and Holsteins rather than the big conceptual themes that structure the passage</p>\n<div style=\"height:10px\"></div>\n<p><b>Student confusion point:</b> You might think Option 1 is good because it has concrete examples. But keywords should capture the <i>organizing principles</i> of the passage, not just memorable details.</p>\n<div style=\"height:10px\"></div>\n<p>The passage is structured around the interplay of bio-logic and techno-logic leading to convergence - Option 3 nails this framework.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/9",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "10",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>None of the following statements is implied by the arguments of the passage, EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "purposeful design represents the pinnacle of scientific expertise in the service of human betterment and civilisational progress."
+        },
+        {
+          "label": "B",
+          "text": "genetic engineers and bioengineers are the same insofar as they both seek to force evolution in an artificial way."
+        },
+        {
+          "label": "C",
+          "text": "the biological realm is as complex as the mechanical one; which is why the logic of Bios is being imported into machines."
+        },
+        {
+          "label": "D",
+          "text": "historically, philosophers have known that the laws of life can be abstracted and applied elsewhere."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Need to find the one statement that <strong>can</strong> be inferred from the text.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Genetic engineering is precisely what cattle breeders do when they select better strains of Holsteins, only bioengineers employ more precise and powerful control. While carrot and milk cow breeders had to rely on diffuse organic evolution, modern genetic engineers can use directed artificial evolution a purposeful design which greatly accelerates improvements.\"</p>\n<div style=\"height:10px\"></div>\n<p><strong>Thought Process:</strong> Author compares genetic engineers to traditional breeders -&gt; both manipulate evolution -&gt; genetic engineers just use more precise methods -&gt; both are forcing evolution artificially, just different tools.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><strong>Option Analysis:</strong></p>\n<div style=\"height:10px\"></div>\n<p>🔴 <strong>Option 1</strong> -&gt; <strong>overstates</strong> -&gt; says \"pinnacle of scientific expertise\" and \"civilisational progress\" but passage only mentions purposeful design as faster, not as the ultimate achievement</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <strong>Option 2</strong> -&gt; <strong>correct</strong> -&gt; passage directly shows both genetic engineers and traditional breeders (bioengineers) manipulate evolution artificially, just with different precision levels</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <strong>Option 3</strong> -&gt; <strong>contradicts passage</strong> -&gt; passage says biological systems are MORE complex than mechanical ones (\"Clockwork logic will only build simple contraptions\"), not equally complex</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <strong>Option 4</strong> -&gt; <strong>degree-error</strong> -&gt; passage says philosophers \"suspected\" this was possible, not that they \"known\" it could work. They couldn't prove it until recently.</p>\n<div style=\"height:10px\"></div>\n<p><strong>Key elimination:</strong> Options 1, 3, and 4 either overstate claims not in the passage or contradict what's written. Only Option 2 captures what the passage actually demonstrates about both types of engineers doing similar work.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/10",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "11",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The author claims that, \"The apparent veil between the organic and the manufactured has crumpled to reveal that the two really are, and have always been, of one being.\" Which one of the following statements best expresses the point being made by the author here?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Scientific advances are making it increasingly difficult to distinguish between organic reality and manufactured reality."
+        },
+        {
+          "label": "B",
+          "text": "Apparent reality and organic reality are distinguished by the fact that the former is manufactured."
+        },
+        {
+          "label": "C",
+          "text": "Organic reality has crumpled under the veil of manufacturing, rendering the apparent and the real as the same being."
+        },
+        {
+          "label": "D",
+          "text": "The crumpling of the organic veil between apparent and manufactured reality reveals them to have the same being."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p><b>Step-by-step thinking process:</b></p>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">What is the \"veil\"? -&gt; The boundary that seemed to separate the organic from the manufactured</li>\n<li node=\"[object Object]\">Why \"apparent\"? -&gt; The boundary only looked real; it was never a true divide</li>\n<li node=\"[object Object]\">What made it \"crumple\"? -&gt; Two trends: machines becoming lifelike and life becoming engineered</li>\n<li node=\"[object Object]\">What does \"of one being\" mean? -&gt; Organic and manufactured are essentially the same kind of thing, so telling them apart gets harder and harder</li>\n</ol>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The overlap of the mechanical and the lifelike increases year by year\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"(1) Human-made things are behaving more lifelike, and (2) Life is becoming more engineered\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought process:</b></p>\n<p>Veil = line between organic and manufactured -&gt; Scientific advances (bio-logic in machines, techno-logic in life) keep increasing the overlap -&gt; The line collapses -&gt; Distinguishing organic from manufactured becomes increasingly difficult</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Elimination strategy:</b> The wrong options reuse the words of the quote (\"apparent\", \"veil\", \"crumpled\", \"being\") but rearrange them into meanings the author never intended. Check <i>what</i> the veil separates and <i>what</i> crumpled.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> -&gt; correct -&gt; Captures the core point: scientific advances (bioengineering, lifelike machines) are making the organic and the manufactured harder to tell apart. This matches the \"overlap increases year by year\" idea and the two concrete trends the author describes.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; opposite -&gt; Treats \"apparent\" as a kind of reality and claims the two realities are still clearly distinguished (one is manufactured). The author says the exact opposite: the distinction is dissolving.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> -&gt; distortion -&gt; Says organic reality crumpled \"under the veil of manufacturing\", as if manufacturing overpowered nature. In the passage it is the veil that crumpled, not organic reality, and the convergence runs both ways. It also invents an \"apparent vs real\" contrast that the author never makes.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4</b> -&gt; word-jumble -&gt; Places the veil \"between apparent and manufactured reality\" and calls it an \"organic veil\". The veil in the passage lies between the organic and the manufactured. Same words as the quote, wrong relationships.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/11",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "12",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The author claims that, \"Part of this bionic convergence is a matter of words\". Which one of the following statements best expresses the point being made by the author?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "\"Mechanical\" and \"life\" were earlier seen as opposite in meaning, but the difference between the two is increasingly blurred."
+        },
+        {
+          "label": "B",
+          "text": "\"Mechanical\" and \"life\" are words from different logical systems and are, therefore, fundamentally incompatible in meaning."
+        },
+        {
+          "label": "C",
+          "text": "\"Bios\" and \"Technos” are both convergent forms of logic, but they generate meanings about the world that are mutually exclusive."
+        },
+        {
+          "label": "D",
+          "text": "A bionic convergence indicates the meeting ground of genetic engineering and artificial intelligence."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what the author means when they say the bionic convergence is <b>\"a matter of words\"</b>. Let us trace through the passage to understand this concept.</p>\n<div style=\"height:10px\"></div>\n<p>The key lies in the final paragraph where the author explains this statement. They're talking about how word meanings are changing.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The meanings of 'mechanical' and 'life' are both stretching until all complicated things can be perceived as machines, and all self-sustaining machines can be perceived as alive.\"</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Here's the thought process:</p>\n<div style=\"height:10px\"></div>\n<p>Author says convergence is <i>partly</i> about words -&gt; meanings of \"mechanical\" and \"life\" are <b>stretching</b> -&gt; boundaries between these concepts are <b>blurring</b> -&gt; things that were once seen as opposite are now overlapping</p>\n<div style=\"height:10px\"></div>\n<p>The author is explaining that our <i>language</i> and <i>definitions</i> are evolving. Words that used to mean very different things are now becoming more similar in meaning.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 Option 1 is correct -&gt; captures the blurring of previously opposite concepts perfectly. The passage clearly states the meanings are \"stretching\" so mechanical and life can be perceived as similar.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 2 -&gt; contradicts passage -&gt; says they're \"fundamentally incompatible\" when the author argues they're converging and becoming more similar</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; contradicts passage -&gt; mentions \"mutually exclusive\" meanings when the author says they're overlapping and converging</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; scope-error -&gt; too narrow and specific. Focuses on genetic engineering and AI rather than the broader point about word meanings changing</p>\n<div style=\"height:10px\"></div>\n<p>The confusion students might have is between options 1 and 4, since both seem to address convergence. But option 4 misses the <b>\"matter of words\"</b> aspect entirely - it's about specific technologies, not about how language and meanings are evolving.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/12",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "13",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>In the context of the passage, all of the following statements are true EXCЕРТ:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "India's spiritualism served as a salve for European colonisers."
+        },
+        {
+          "label": "B",
+          "text": "Orientalists' understanding of Indian history was linked to colonial concerns."
+        },
+        {
+          "label": "C",
+          "text": "Indian texts influenced Orientalist scholars."
+        },
+        {
+          "label": "D",
+          "text": "Orientalist scholarship influenced Indians."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"It was a consolation to the Indian intelligentsia for its perceived inability to counter the technical superiority of the west... At the height of anti-colonial nationalism it acted as a salve for having been made a colony of Britain.\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; The passage clearly states that India's spiritual image served as a <i>salve</i> (healing comfort) for <b>Indians</b>, not Europeans. This is about Indians consoling themselves, not Europeans finding comfort.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Let's check each option to eliminate the true ones:</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <b>True</b> -&gt; Passage directly states \"Interpretations of the Indian past were inevitably influenced by colonial concerns and interests\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; <b>True</b> -&gt; Passage mentions \"discovery of India was largely through selected literature in Sanskrit\" - Indian texts clearly influenced Orientalist understanding</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 -&gt; <b>True</b> -&gt; Passage says \"This theme has been even more firmly endorsed by a section of Indian opinion during the last hundred years\" - shows Orientalist ideas influenced Indians</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 1 -&gt; <b>False</b> -&gt; <i>scope-error</i> -&gt; Gets the beneficiary completely wrong. The passage says spiritualism was a salve for <b>Indian intelligentsia</b> to cope with colonization, not something that comforted European colonizers.</p>\n<div style=\"height:10px\"></div>\n<p>The confusion here might be thinking that because Europeans romanticized the \"spiritual East,\" they found comfort in it. But the passage specifically discusses the salve effect in the context of <b>Indian</b> response to being colonized.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/13",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "14",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>It can be inferred from the passage that the author is not likely to support the view that:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "India's culture has evolved over the centuries."
+        },
+        {
+          "label": "B",
+          "text": "the Orientalist view of Asia fired the imagination of some Western poets."
+        },
+        {
+          "label": "C",
+          "text": "Indian culture acknowledges the material aspects of life."
+        },
+        {
+          "label": "D",
+          "text": "India became a colony although it matched the technical knowledge of the West."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"It was a consolation to the Indian intelligentsia for its perceived inability to counter the technical superiority of the west, a superiority viewed as having enabled Europe to colonize Asia and other parts of the world.\"</p>\n<div style=\"height:10px\"></div>\n<p>The author clearly acknowledges Europe's technical advantage -&gt; this enabled colonization -&gt; so India did NOT match Western technical knowledge.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 Option 1 -&gt; author supports this -&gt; criticizes Orientalist view of \"unchanging continuity over 3,000 years\" -&gt; so author believes culture HAS evolved</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; author supports this -&gt; directly states \"Romantic English poets...turned to fantasies of the Orient\" -&gt; Orientalism did fire imagination</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; author supports this -&gt; criticizes Orientalist claim that Indians gave \"little attention to more tangible aspects\" -&gt; suggests this was wrong characterization</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; author does NOT support this -&gt; passage clearly states Europe's \"technical superiority\" enabled colonization -&gt; contradicts idea that India matched Western technical knowledge</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The key confusion students have: <i>Options 1-3 all seem like things the author would disagree with based on criticizing Orientalism.</i></p>\n<div style=\"height:10px\"></div>\n<p><b>BUT</b> -&gt; author criticizes <i>Orientalist interpretations</i>, not the actual reality -&gt; when author criticizes the \"unchanging India\" view, he's saying India DID change -&gt; when he criticizes the \"non-material India\" view, he's saying India DID have material aspects.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 directly contradicts the passage's clear statement about technical superiority being the reason for colonization.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/14",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "15",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following styles of research is most similar to the Orientalist scholars' method of understanding Indian history and culture?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Reading 18th century accounts by travellers to India to see how they viewed Indian life and culture of the time."
+        },
+        {
+          "label": "B",
+          "text": "Studying artefacts excavated at a palace to understand the lifestyle of those who lived there."
+        },
+        {
+          "label": "C",
+          "text": "Reading about the life of early American settlers and later waves of migration to understand the evolution of American culture."
+        },
+        {
+          "label": "D",
+          "text": "Analysing Hollywood action movies that depict violence and sex to understand contemporary America."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what made Orientalist scholars' method problematic, then match it to the most similar approach.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Orientalist scholars studied the languages and the texts with selected Indian scholars, but made little attempt to understand the world-view of those who were teaching them. The readings therefore are something of a disjuncture from the traditional ways of looking at the Indian past.\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The so-called 'discovery' of India was largely through selected literature in Sanskrit. This interpretation tended to emphasize non-historical aspects of Indian culture\"</p>\n<div style=\"height:10px\"></div>\n<p>The key problem -&gt; Orientalists used <i>selective sources</i> that gave them a <i>filtered, romanticized view</i> rather than authentic understanding. They picked certain texts but missed the real worldview and context.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Now we need to find which research method shows this same pattern of using selective/filtered sources that don't represent authentic reality:</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 1 -&gt; <i>authentic-source</i> -&gt; 18th century traveller accounts are real historical documents that capture actual observations of the time</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 2 -&gt; <i>authentic-source</i> -&gt; palace artifacts are direct physical evidence from people who actually lived there</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 3 -&gt; <i>authentic-source</i> -&gt; accounts of early settlers and migration are real historical records of cultural change</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 is correct -&gt; <i>filtered-representation</i> -&gt; Hollywood action movies are selective, dramatized versions that emphasize violence/sex, just like Orientalists used selective Sanskrit texts that emphasized mystical aspects. Both give distorted views of the whole culture</p>\n<div style=\"height:10px\"></div>\n<p>The pattern matches perfectly: Hollywood movies -&gt; selective/dramatized representation of America, just like selected Sanskrit texts -&gt; romanticized/mystical representation of India. Both methods use filtered sources instead of authentic understanding.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/15",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "16",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>It can be inferred from the passage that to gain a more accurate view of a nation's history and culture, scholars should do all of the following EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "examine the complex reality of that nation's society."
+        },
+        {
+          "label": "B",
+          "text": "develop an oppositional framework to grasp cultural differences."
+        },
+        {
+          "label": "C",
+          "text": "read widely in the country's literature."
+        },
+        {
+          "label": "D",
+          "text": "examine their own beliefs and biases."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what scholars should <b>NOT</b> do to get accurate historical understanding. Let us trace the passage's critique of Orientalist methods.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Step-by-step thought process:</b></p>\n<div style=\"height:10px\"></div>\n<p>The passage criticizes how European scholars misunderstood India -&gt;we need to see what went wrong -&gt; then figure out what they should have done instead -&gt; the EXCEPT option will be something that continues the same mistakes.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"A dichotomy in values was maintained, Indian values being described as 'spiritual' and European values as 'materialistic', with little attempt to juxtapose these values with the reality of Indian society.\"</p>\n<div style=\"height:10px\"></div>\n<p>This shows the main problem -&gt; creating <i>opposing categories</i> instead of understanding the real, complex society.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Process using arrows:</b></p>\n<p>Orientalists made mistakes -&gt; they created simple opposing categories (spiritual vs material) -&gt; they didn't look at real society -&gt; they imposed their own frameworks -&gt; this gave wrong understanding</p>\n<div style=\"height:10px\"></div>\n<p>So good scholars should -&gt; avoid creating opposing frameworks -&gt; look at complex reality -&gt; read widely -&gt; check their own biases</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 <b>Option 1</b> -&gt; <i>correct approach</i> -&gt; passage criticizes not looking at \"reality of Indian society\", so examining complex reality is good</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; <i>continues the mistake</i> -&gt; \"oppositional framework\" = creating opposing categories like \"spiritual vs materialistic\" which the passage directly criticizes</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 3</b> -&gt; <i>correct approach</i> -&gt; passage criticizes relying on \"selected literature\", so reading widely is good</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; <i>correct approach</i> -&gt; passage shows how European biases distorted understanding, so examining own beliefs helps</p>\n<div style=\"height:10px\"></div>\n<p><b>The answer is Option 2</b> because developing oppositional frameworks (like spiritual vs material) is exactly what caused the misunderstanding in the first place.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/16",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "17",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parajumbles",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The sentences given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the numbers as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">If I wanted to sit indoors and read, or play Sonic the Hedgehog on a red-hot Sega Mega Drive, I would often be made to feel guilty about not going outside to \"enjoy it while it lasts\".</li>\n<li node=\"[object Object]\">My mum, quite reasonably, wanted me and my sister out of the house, in the sun.</li>\n<li node=\"[object Object]\">Tales of my mum's idyllic-sounding childhood in the Sussex countryside, where trees were climbed by 8 am and streams navigated by lunchtime, were passed down to us like folklore.</li>\n<li node=\"[object Object]\">To an introverted kid, that felt like a threat and the feeling has stayed with me.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "2314",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>For paragraph sequencing questions, <b>look for introductory sentences first</b> -&gt; then find connecting words and pronouns that link sentences together.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Step 1: Find the opening sentence</b></p>\n<p>Look for sentences that introduce <i>new characters or topics</i> without assuming prior knowledge.</p>\n<div style=\"height:10px\"></div>\n<p>Sentence 2 introduces the main players: \"My mum\", \"me and my sister\" -&gt; This feels like a natural start because it doesn't reference anything we haven't heard about yet.</p>\n<div style=\"height:10px\"></div>\n<p><b>Step 2: Look for pronoun connections</b></p>\n<p>\"Me and my sister\" in sentence 2 becomes \"us\" in sentence 3 -&gt; This creates a clear 2-3 link.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"My mum, quite reasonably, wanted me and my sister out of the house\" followed by \"Tales...were passed down to us like folklore\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Step 3: Find thematic connections</b></p>\n<p>Sentence 3 mentions outdoor activities (trees, streams) -&gt; Sentence 1 continues this outdoor theme with \"going outside to enjoy it while it lasts\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Step 4: Find the concluding sentence</b></p>\n<p>Sentence 4 uses \"that\" which refers back to something -&gt; The \"threat\" mentioned connects to being \"made to feel guilty\" from sentence 1.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"I would often be made to feel guilty\" connects to \"To an introverted kid, that felt like a threat\"</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The logical flow: Introduction of characters (2) -&gt; Background stories shared (3) -&gt; Personal experience described (1) -&gt; Emotional impact explained (4)</p>\n<div style=\"height:10px\"></div>\n<p><b>Correct sequence: 2314</b></p>\n<div style=\"height:10px\"></div>\n<p>This creates a smooth narrative: Mom wants kids outside -&gt; She tells outdoor childhood stories -&gt; Narrator feels guilty staying indoors -&gt; This felt threatening to an introvert.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/17",
+      "passage_id": "passage_5"
+    },
+    {
+      "question_number": "18",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>To defend the sequence of alphabetisation may seem bizarre, so obvious is its application that it is hard to imagine a reference, catalogue or listing without it. But alphabetical order was not an immediate consequence of the alphabet itself. In the Middle Ages, deference for ecclesiastical tradition left scholars reluctant to categorise things according to the alphabet - to do so would be a rejection of the divine order. The rediscovery of the ancient Greek and Roman classics necessitated more efficient ways of ordering, searching and referencing texts. Government bureaucracy in the 16th and 17th centuries quickened the advance of alphabetical order, bringing with it pigeonholes, notebooks and card indexes.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The alphabetic order took several centuries to gain common currency because of religious beliefs and a lack of appreciation of its efficacy in the ordering of things."
+        },
+        {
+          "label": "B",
+          "text": "Unlike the alphabet, once the efficacy of the alphabetic sequence became apparent to scholars and administrators, its use became widespread."
+        },
+        {
+          "label": "C",
+          "text": "The ban on the use by scholars of any form of categorisation - but the divinely ordained one - delayed the adoption of the alphabetic sequence by several centuries."
+        },
+        {
+          "label": "D",
+          "text": "While adoption of the written alphabet was easily accomplished, it took scholars several centuries to accept the alphabetic sequence as a useful tool in their work."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what caused the <b>delay</b> in using alphabetical order and <b>why</b> it eventually became popular.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"In the Middle Ages, deference for ecclesiastical tradition left scholars reluctant to categorise things according to the alphabet - to do so would be a rejection of the divine order.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage shows a clear timeline: alphabet existed -&gt; Middle Ages resistance due to religion -&gt; later practical needs -&gt; alphabetical order adopted.</p>\n<div style=\"height:10px\"></div>\n<p>My thought process: The passage explains <b>two key reasons</b> for the delay -&gt; religious beliefs (divine order) -&gt; plus lack of understanding its usefulness -&gt; until practical needs (Greek/Roman texts + government work) made it necessary.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Let's check each option by looking for what the passage <b>actually emphasizes</b>:</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> is correct -&gt; captures both main causes perfectly: <i>religious beliefs</i> AND <i>lack of appreciation of efficacy</i> + mentions the time delay (several centuries)</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 2</b> -&gt; partial-truth -&gt; mentions the contrast between alphabet and sequence, talks about efficacy becoming apparent, but <b>completely ignores</b> the religious resistance which was the <i>main reason</i> for the delay</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> -&gt; overstates -&gt; says there was a <i>\"ban\"</i> but passage only mentions <i>\"reluctance\"</i> due to religious tradition. The word \"ban\" makes it sound like an official prohibition, which goes beyond what the passage says</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 4</b> -&gt; partial-truth -&gt; correctly contrasts alphabet vs sequence and mentions time delay, but <b>misses the religious factor</b> entirely, which was the core reason scholars resisted alphabetical order</p>\n<div style=\"height:10px\"></div>\n<p>The key confusion students face: Options 2 and 4 sound reasonable because they mention the time delay and practical adoption. But they <b>miss the religious resistance</b> which was the <i>primary reason</i> for the centuries-long delay mentioned in the passage.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/18",
+      "passage_id": "passage_6"
+    },
+    {
+      "question_number": "19",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>\"It does seem to me that the job of comedy is to offend, or have the potential to offend, and it cannot be drained of that potential,\" Rowan Atkinson said of cancel culture. \"Every joke has a victim. That's the definition of a joke. Someone or something or an idea is made to look ridiculous.\" The Netflix star continued, \"I think you've got to be very, very careful about saying what you're allowed to make jokes about. You've always got to kick up? Really?\" He added, \"There are lots of extremely smug and self- satisfied people in what would be deemed lower down in society, who also deserve to be pulled up. In a proper free society, you should be allowed to make jokes about absolutely anything.\"</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Victims of jokes must not only be politicians and royalty, but also arrogant people from lower classes should be mentioned by comedians."
+        },
+        {
+          "label": "B",
+          "text": "Every joke needs a victim and one needs to include people from lower down the society and not just the upper class."
+        },
+        {
+          "label": "C",
+          "text": "Cancel culture does not understand the role and duty of comedians, which is to deride and mock everyone."
+        },
+        {
+          "label": "D",
+          "text": "All jokes target someone and one should be able to joke about anyone in the society, which is inconsistent with cancel culture."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what <b>Rowan Atkinson's main argument</b> is about comedy and cancel culture.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Every joke has a victim. That's the definition of a joke... In a proper free society, you should be allowed to make jokes about absolutely anything.\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought process:</b> Atkinson makes two key points -&gt; (1) every joke targets someone/something -&gt; (2) cancel culture limits this freedom -&gt; (3) in free society, should joke about anyone/anything</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Option Analysis:</b></p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 1</b> -&gt; partial-truth -&gt; mentions targeting different classes correctly but <i>completely ignores</i> the cancel culture discussion and free speech argument</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 2</b> -&gt; partial-truth -&gt; similar problem as Option 1, focuses only on class targeting but <i>misses the main point</i> about cancel culture limiting comedy</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3</b> -&gt; degree-error -&gt; captures cancel culture aspect but <i>overstates</i> by saying comedians' duty is to \"deride and mock everyone\" - passage says you should be <i>allowed</i> to, not that you must</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; captures both key ideas perfectly -&gt; (1) all jokes target someone + (2) freedom to joke about anyone + (3) this conflicts with cancel culture</p>\n<div style=\"height:10px\"></div>\n<p><b>Student confusion:</b> You might think Option 3 is right because it mentions cancel culture. But notice the difference - Atkinson argues for the <i>right</i> to joke about anything, not the <i>duty</i> to mock everyone.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 gets both the scope (all jokes have targets) and the main argument (freedom vs cancel culture) exactly right.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/19",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "20",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Sentence Placement",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.</p>\n<div style=\"height:10px\"></div>\n<p>Paragraph: ___ (1) ___ . The dual-inheritance theory says that inheritance is itself an evolutionary system. It has variation. What makes us a new kind of animal, and so different and successful as a species, is we rely heavily on social learning, to the point where socially acquired information is effectively a second line of inheritance, the first being our genes. ____ (2) ____ . People tend to home in on who seems to be the smartest or most successful person around, as well as what everybody seems to be doing the majority of people have something worth learning. ___ (3) ___When you repeat this process over time, you can get, around the world, cultural packages beliefs or behaviours or technology or other solutions that are adapted to the local conditions. People have different psychologies, effectively. ___ (4) ___ .</p>\n<div style=\"height:10px\"></div>\n<p>Sentence: </p><p>Sentence: When people socially learn from each other, they often learn without understanding why what they're copying-the beliefs and behaviours and technologies and know-how-works.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option 1"
+        },
+        {
+          "label": "B",
+          "text": "Option 2"
+        },
+        {
+          "label": "C",
+          "text": "Option 3"
+        },
+        {
+          "label": "D",
+          "text": "Option 4"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"socially acquired information is effectively a second line of inheritance, the first being our genes\"</p>\n<div style=\"height:10px\"></div>\n<p>The key is following the <b>logical flow</b>: dual-inheritance theory -&gt; social learning as second inheritance -&gt; <i>how</i> social learning works -&gt; who people learn from.</p>\n<div style=\"height:10px\"></div>\n<p>My thought process: The missing sentence explains <b>how</b> social learning works (copying without understanding why). This naturally fits after introducing social learning but before explaining <b>who</b> people choose to learn from.</p>\n<div style=\"height:10px\"></div>\n<p>Position 1 -&gt; too early, needs context first</p>\n<p>Position 2 -&gt; explains <b>how</b> social learning works after introducing the concept</p>\n<p>Position 3 -&gt; flow already moving to results of repeated learning</p>\n<p>Position 4 -&gt; too late, passage already concluding</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 <b>Option 1</b> -&gt; context-shift -&gt; jumps into <i>how</i> social learning works before explaining <i>what</i> social learning is in dual-inheritance theory</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 2</b> -&gt; perfect flow -&gt; introduces social learning concept -&gt; explains how it works (copying without understanding) -&gt; explains who people learn from</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3</b> -&gt; timing-error -&gt; paragraph already moving to <b>results</b> of repeated learning process, not explaining the basic mechanism</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4</b> -&gt; conclusion-error -&gt; sentence about learning mechanism doesn't work as final thought about different psychologies</p>\n<div style=\"height:10px\"></div>\n<p><b>Answer: Option 2</b> - Creates smooth bridge between introducing social learning and explaining learning targets.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/20",
+      "passage_id": "passage_8"
+    },
+    {
+      "question_number": "21",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Sentence Placement",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.</p>\n<div style=\"height:10px\"></div>\n<p>Paragraph: Bringing workers back to their desks has been a rocky road for employers and employees alike. The evolution of the pandemic has meant that best laid plans have often not materialised. ___ (1) ___ . The flow of workers back into offices has been more of a trickle than a steady stream. ___ (2) ___ Yet while plenty of companies are still working through their new policies, some employees across the globe are now back at their desks, whether on a full-time or hybrid basis. ___ (3) ___ . That means we're beginning to get some clarity on what return-to-office means what's working, as well as what has yet to be settled. ___ (4) ___ .</p>\n<div style=\"height:10px\"></div>\n<p>Sentence: This has meant a lot of uncertainty around what a wide-scale return to office might look like in practice.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option 1"
+        },
+        {
+          "label": "B",
+          "text": "Option 2"
+        },
+        {
+          "label": "C",
+          "text": "Option 3"
+        },
+        {
+          "label": "D",
+          "text": "Option 4"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find where the sentence about <i>uncertainty</i> fits best in the paragraph's <b>logical flow</b>.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The evolution of the pandemic has meant that best laid plans have often not materialised... The flow of workers back into offices has been more of a trickle than a steady stream... Yet while plenty of companies are still working through their new policies... That means we're beginning to get some clarity...\"</p>\n<div style=\"height:10px\"></div>\n<p>The key is following the <b>thought progression</b>: failed plans -&gt; slow return -&gt; uncertainty -&gt; companies figuring things out -&gt; gaining clarity.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Step-by-step elimination process:</b></p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <b>context-shift</b> -&gt; The sentence right before talks about <i>gaining clarity</i>, but our sentence is about <i>uncertainty</i>. These ideas clash directly - you can't have clarity and uncertainty at the same time.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 3 -&gt; <b>timing-error</b> -&gt; Comes after mentioning people are <i>already back at desks</i>, but our sentence talks about uncertainty around <i>what it might look like</i> - this timing doesn't make sense if people are already there.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 1 -&gt; <b>flow-issue</b> -&gt; Could work since it follows failed plans, but then we'd jump from uncertainty straight to the \"trickle\" description without smooth connection.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <b>perfect flow</b> -&gt; After describing the <i>slow trickle</i> of returns, uncertainty about <i>wide-scale return</i> makes perfect sense. Then \"Yet while companies are working through policies\" flows naturally from this uncertainty.</p>\n<div style=\"height:10px\"></div>\n<p>The sentence fits option 2 because it bridges the <b>slow return reality</b> with the <b>uncertainty about full-scale return</b>, leading smoothly into companies still figuring out their policies.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/21",
+      "passage_id": "passage_9"
+    },
+    {
+      "question_number": "22",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parajumbles",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The sentences given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the numbers as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">Various industrial sectors including retail, transit systems, enterprises, educational institutions, event organizing, finance, travel etc. have now started leveraging these beacons solutions to track and communicate with their customers.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">A beacon fixed on to a shop wall enables the retailer to assess the proximity of the customer, and come up with a much targeted or personalized communication like offers, discounts and combos on products in each shelf.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">Smart phones or other mobile devices can capture the beacon signals, and distance can be estimated by measuring received signal strength.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">Beacons are tiny and inexpensive, micro-location-based technology devices that can send radio frequency signals and notify nearby Bluetooth devices of their presence and transmit information.</li>\n<div style=\"height:10px\"></div>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "4312",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Step-by-step thought process:</b></p>\n<div style=\"height:10px\"></div>\n<p>First, let's identify what each sentence does:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Sentence 1: Talks about \"these beacon solutions\" (assumes we know what beacons are)</li>\n<li node=\"[object Object]\">Sentence 2: Gives specific retail example</li>\n<li node=\"[object Object]\">Sentence 3: Explains how beacon signals work technically</li>\n<li node=\"[object Object]\">Sentence 4: <i>Defines</i> what beacons are from scratch</li>\n</ul>\n<div style=\"height:10px\"></div>\n<p><b>Key insight:</b> Sentence 4 is the only one that <i>introduces</i> beacons without assuming prior knowledge -&gt; must come first.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Beacons are tiny and inexpensive, micro-location-based technology devices...\"</p>\n<div style=\"height:10px\"></div>\n<p>Next, I look for <b>natural pairs</b>:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">4-3 pair: After defining beacons (4), explain how signals work (3)</li>\n<li node=\"[object Object]\">1-2 pair: After mentioning industrial uses (1), give specific retail example (2)</li>\n</ul>\n<div style=\"height:10px\"></div>\n<p>Flow: Definition -&gt; Technical explanation -&gt; Applications -&gt; Specific example</p>\n<p>= 4-3-1-2 = <b>4312</b></p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Common student confusion:</b> You might think sentence 1 could start because it mentions \"various sectors.\" But notice it says \"<i>these</i> beacon solutions\" - this assumes we already know what beacons are! Always check if a sentence assumes prior knowledge.</p>\n<div style=\"height:10px\"></div>\n<p>The correct sequence <b>4312</b> follows the logical pattern: introduce -&gt; explain -&gt; apply -&gt; exemplify.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/22",
+      "passage_id": "passage_10"
+    },
+    {
+      "question_number": "23",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parajumbles",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The sentences given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the numbers as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">The more we are able to accept that our achievements are largely out of our control, the easier it becomes to understand that our failures, and those of others, are too.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">But the raft of recent books about the limits of merit is an important correction to the arrogance of contemporary entitlement and an opportunity to reassert the importance of luck, or grace, in our thinking.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">Meritocracy as an organising principle is an inevitable function of a free society, as we are designed to see our achievements as worthy of reward.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">And that in turn should increase our humility and the respect with which we treat our fellow citizens, helping ultimately to build a more compassionate society.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "3214",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>To solve <b>passage sequencing</b> questions, look for <i>connecting words</i> and <i>logical flow</i> -&gt; start with the most general statement -&gt; find pairs that connect naturally.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Meritocracy as an organising principle is an inevitable function of a free society\" (sentence 3) and \"But the raft of recent books about the limits of merit...\" (sentence 2)</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought process:</b> Find opening sentence -&gt; Look for \"But\" (shows contrast) -&gt; Find \"And that in turn\" (shows result) -&gt; Check if flow makes sense.</p>\n<div style=\"height:10px\"></div>\n<p>Step 1: Which sentence introduces the topic without depending on others? -&gt; Sentence 3 talks about meritocracy generally</p>\n<p>Step 2: Which sentence uses \"But\" to show contrast? -&gt; Sentence 2 contrasts with sentence 3</p>\n<p>Step 3: Which sentence explains the idea further? -&gt; Sentence 1 explains what sentence 2 means</p>\n<p>Step 4: Which sentence shows final result? -&gt; Sentence 4 uses \"And that in turn\"</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Key elimination strategy:</b> In sequencing questions, eliminate options that:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Don't start with the most <i>general</i> statement</li>\n<li node=\"[object Object]\">Break <i>connecting word</i> patterns (But, And, However, etc.)</li>\n<li node=\"[object Object]\">Create <i>logical gaps</i> in meaning</li>\n</ul>\n<div style=\"height:10px\"></div>\n<p>The correct sequence is <b>3214</b> because:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">3 introduces meritocracy (general opening)</li>\n<li node=\"[object Object]\">2 contrasts with \"But\" (recent books challenge this)</li>\n<li node=\"[object Object]\">1 explains how to accept limits (follows from 2)</li>\n<li node=\"[object Object]\">4 shows final result with \"And that in turn\" (follows from 1)</li>\n</ul></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/23",
+      "passage_id": "passage_11"
+    },
+    {
+      "question_number": "24",
+      "section": "VARC",
+      "year": 2022,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>Tamsin Blanchard, curator of Fashion Open Studio, an initiative by a campaign group showcasing the work of ethical designers says, \"We're all drawn to an exquisite piece of embroidery, a colourful textile or even a style of dressing that might have originated from another heritage. But this magpie mentality, where all of culture and history is up for grabs as 'inspiration', has accelerated since the proliferation of social media. Where once a fashion student might research the history and traditions of a particular item of clothing with care and respect, we now have a world where images are lifted from image libraries without a care or concern for their cultural significance. It's easier than ever to steal a motif or a craft technique and transfer it on to a piece of clothing that is either mass produced or appears on a runway without credit or compensation to their original communities.\"</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Taking fashion ideas from any cultural group without their consent is a form of appropriation without giving due credit, compensation, and respect."
+        },
+        {
+          "label": "B",
+          "text": "Media has encouraged mass production; images are copied effortlessly without care or concern for the interests of ethnic communities."
+        },
+        {
+          "label": "C",
+          "text": "Cultural collaboration is the need of the hour. Beautiful design ideas of indigenous people need to be showcased and shared worldwide."
+        },
+        {
+          "label": "D",
+          "text": "Copying an embroidery design or pattern of textile from native communities who own them is tantamount to stealing and they need to be compensated."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"But this magpie mentality, where all of culture and history is up for grabs as 'inspiration', has accelerated since the proliferation of social media... It's easier than ever to steal a motif or a craft technique and transfer it on to a piece of clothing... without credit or compensation to their original communities.\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought process:</b> The author is upset about fashion designers taking cultural designs -&gt; social media made this stealing easier -&gt; now people don't research or respect origins -&gt; they just copy without giving credit or money back to the original communities.</p>\n<div style=\"height:10px\"></div>\n<p>The passage talks about <b>three missing elements:</b> no credit + no compensation + no respect for cultural significance.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Option Analysis:</b></p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> is correct -&gt; captures all three problems: no consent, no credit, no compensation, no respect. This matches the <i>complete scope</i> of what the passage criticizes.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 2</b> -&gt; <i>scope-error</i> -&gt; focuses too much on \"mass production\" specifically, but the passage talks about both mass production <b>and</b> runway shows. Also misses the key point about consent and respect.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> -&gt; <i>context-shift</i> -&gt; says we <b>should</b> share cultural designs worldwide, but the passage is <b>criticizing</b> inappropriate taking. This goes in the opposite direction of the author's concern.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 4</b> -&gt; <i>partial-truth</i> -&gt; only mentions embroidery and textiles, but the passage talks about <b>any</b> cultural fashion elements. Also misses the important concepts of consent and respect - focuses only on compensation.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2022/slot-3/VARC/24",
+      "passage_id": "passage_12"
+    }
+  ]
+}

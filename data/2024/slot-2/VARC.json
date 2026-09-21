@@ -1,0 +1,966 @@
+{
+  "meta": {
+    "year": 2024,
+    "slot": "slot-2",
+    "section": "VARC",
+    "source_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+    "total_questions": 24,
+    "scraped_at": "2026-09-21T06:38:18Z"
+  },
+  "passages": {
+    "passage_1": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        1
+      ]
+    },
+    "passage_2": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        2
+      ]
+    },
+    "passage_3": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        3
+      ]
+    },
+    "passage_4": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Spices were a global commodity centuries before European voyages. There was a complex chain of relations, yet consumers had little knowledge of producers and vice versa. Desire for spices helped fuel European colonial empires to create political, military and commercial networks under a single power.</p>\n<div style=\"height:10px\"></div>\n<p>Historians know a fair amount about the supply of spices in Europe during the medieval period – the origins, methods of transportation, the prices – but less about demand. Why go to such extraordinary efforts to procure expensive products from exotic lands? Still, demand was great enough to inspire the voyages of Christopher Columbus and Vasco Da Gama, launching the first fateful wave of European colonialism.</p>\n<div style=\"height:10px\"></div>\n<p>So, why were spices so highly prized in Europe in the centuries from about 1000 to 1500? One widely disseminated explanation for medieval demand for spices was that they covered the taste of spoiled meat.</p>\n<div style=\"height:10px\"></div>\n<p>Medieval purchasers consumed meat much fresher than what the average city-dweller in the developed world of today has at hand. However, refrigeration was not available, and some hot spices have been shown to serve as an anti-bacterial agent. Salting, smoking or drying meat were other means of preservation. Most spices used in cooking began as medical ingredients, and throughout the Middle Ages spices were used as both medicines and condiments. Above all, medieval recipes involve the combination of medical and culinary lore in order to balance food's humeral properties and prevent disease. Most spices were hot and dry and so appropriate in sauces to counteract the moist and wet properties supposedly possessed by most meat and fish.</p>\n<div style=\"height:10px\"></div>\n<p>Where spices came from was known in a vague sense centuries before the voyages of Columbus. Just how vague may be judged by looking at medieval world maps ... To the medieval European imagination, the East was exotic and alluring. Medieval maps often placed India close to the so-called Earthly Paradise, the Garden of Eden described in the Bible.</p>\n<div style=\"height:10px\"></div>\n<p>Geographical knowledge has a lot to do with the perceptions of spices' relative scarcity and the reasons for their high prices. An example of the varying notions of scarcity is the conflicting information about how pepper is harvested. As far back as the 7th century Europeans thought that pepper in India grew on trees \"guarded\" by serpents that would bite and poison anyone who attempted to gather the fruit. The only way to harvest pepper was to burn the trees, which would drive the snakes underground. Of course, this bit of lore would explain the shriveled black peppercorns, but not white, pink or other colors.</p>\n<div style=\"height:10px\"></div>\n<p>Spices never had the enduring allure or power of gold and silver or the commercial potential of new products such as tobacco, indigo or sugar. But the taste for spices did continue for a while beyond the Middle Ages. As late as the 17th century, the English and the Dutch were struggling for control of the Spice Islands: Dutch New Amsterdam, or New York, was exchanged by the British for one of the Moluccan Islands where nutmeg was grown.</p></div>",
+      "images": [],
+      "question_numbers": [
+        4,
+        5,
+        6,
+        7
+      ]
+    },
+    "passage_5": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        8
+      ]
+    },
+    "passage_6": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        9
+      ]
+    },
+    "passage_7": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>The job of a peer reviewer is thankless. Collectively, academics spend around 70 million hours every year evaluating each other's manuscripts on the behalf of scholarly journals – and they usually receive no monetary compensation and little if any recognition for their effort. Some do it as a way to keep abreast with developments in their field; some simply see it as a duty to the discipline. Either way, academic publishing would likely crumble without them.</p>\n<div style=\"height:10px\"></div>\n<p>In recent years, some scientists have begun posting their reviews online, mainly to claim credit for their work. Sites like Publons allow researchers to either share entire referee reports or simply list the journals for whom they've carried out a review.</p>\n<div style=\"height:10px\"></div>\n<p>The rise of Publons suggests that academics are increasingly placing value on the work of peer review and asking others, such as grant funders, to do the same. While that's vital in the publish-or-perish culture of academia, there's also immense value in the data underlying peer review. Sharing peer review data could help journals stamp out fraud, inefficiency, and systemic bias in academic publishing.</p>\n<div style=\"height:10px\"></div>\n<p>Peer review data could also help root out bias. Last year, a study based on peer review data for nearly 24,000 submissions to the biomedical journal eLife found that women and non-Westerners were vastly underrepresented among peer reviewers. Only around one in every five reviewers was female, and less than two percent of reviewers were based in developing countries. Openly publishing peer review data could perhaps also help journals address another problem in academic publishing: fraudulent peer reviews. For instance, a minority of authors have been known to use phony email addresses to pose as an outside expert and review their own manuscripts.</p>\n<div style=\"height:10px\"></div>\n<p>Opponents of open peer review commonly argue that confidentiality is vital to the integrity of the review process; referees may be less critical of manuscripts if their reports are published, especially if they are revealing their identities by signing them. Some also hold concerns that open reviewing may deter referees from agreeing to judge manuscripts in the first place, or that they'll take longer to do so out of fear of scrutiny.</p>\n<div style=\"height:10px\"></div>\n<p>Even when the content of reviews and the identity of reviewers can't be shared publicly, perhaps journals could share the data with outside researchers for study. Or they could release other figures that wouldn't compromise the anonymity of reviews but that might answer important questions about how long the reviewing process takes, how many researchers editors have to reach out to on average to find one who will carry out the work, and the geographic distribution of peer reviewers.</p>\n<div style=\"height:10px\"></div>\n<p>Of course, opening up data underlying the reviewing process will not fix peer review entirely, and there may be instances in which there are valid reasons to keep the content of peer reviews hidden and the identity of the referees confidential. But the norm should shift from opacity in all cases to opacity only when necessary.</p></div>",
+      "images": [],
+      "question_numbers": [
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    "passage_8": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>The history of any major technological or industrial advance is inevitably shadowed by a less predictable history of unintended consequences and secondary effects what economists sometimes call \"externalities.\" Sometimes those consequences are innocuous ones, or even beneficial. Gutenberg invents the printing press, and literacy rates rise, which causes a significant part of the reading public to require spectacles for the first time, which creates a surge of investment in lens-making across Europe, which leads to the invention of the telescope and the microscope.</p>\n<div style=\"height:10px\"></div>\n<p>Oftentimes the secondary effects seem to belong to an entirely different sphere of society. When Willis Carrier hit upon the idea of air-conditioning, the technology was primarily intended for industrial use: ensuring cool, dry air for factories that required low-humidity environments. But it touched off one of the largest migrations in the history of the United States, enabling the rise of metropolitan areas like Phoenix and Las Vegas that barely existed when Carrier first started tinkering with the idea in the early 1900s.</p>\n<div style=\"height:10px\"></div>\n<p>Sometimes the unintended consequence comes about when consumers use an invention in a surprising way. Edison famously thought his phonograph, which he sometimes called “the talking machine,” would primarily be used to take dictation. But then later innovators discovered a much larger audience willing to pay for musical recordings made on descendants of Edison's original invention. In other cases, the original innovation comes into the world disguised as a plaything the way the animatronic dolls of the mid-1700s inspired Jacquard to invent the first “programmable\" loom and Charles Babbage to invent the first machine that fit the modern definition of a computer, setting the stage for the revolution in programmable technology that would transform the 21st century in countless ways.</p>\n<div style=\"height:10px\"></div>\n<p>We live under the gathering storm of modern history's most momentous unintended consequence carbon-based climate change. Imagine the vast sweep of inventors whose ideas started the Industrial Revolution, all the entrepreneurs and scientists and hobbyists who had a hand in bringing it about. Line up a thousand of them and ask them all what they had been hoping to do with their work. Not one would say that their intent had been to deposit enough carbon in the atmosphere to create a greenhouse effect that trapped heat at the surface of the planet. And yet here we are.</p>\n<div style=\"height:10px\"></div>\n<p>Ethyl (leaded fuel) and Freon belonged to the same general class of secondary effect: innovations whose unintended consequences stem from some kind of waste by-product that they emit. But the potential health threats of Ethyl (unleaded fuel) were visible in the 1920s, unlike, say, the long-term effects of atmospheric carbon build up in the early days of the Industrial Revolution.</p>\n<div style=\"height:10px\"></div>\n<p>Indeed, it is reasonable to see CFCs (chlorofluorocarbons) as a forerunner of the kind of threat we will most likely face in the coming decades, as it becomes increasingly possible for individuals or small groups to create new scientific advances through chemistry or biotechnology or materials science setting off unintended consequences that reverberate on a global scale.</p></div>",
+      "images": [],
+      "question_numbers": [
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    "passage_9": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>There are three other common drivers for carnivore-human attacks, some of which are more preventable than others. Natural aggression-based conflicts – such as those involving females protecting their young or animals protecting a food source can often be avoided as long as people stay away from those animals and their food.</p>\n<div style=\"height:10px\"></div>\n<p>Carnivores that recognise humans as a means to get food, are a different story. As they become more reliant on human food they might find at campsites or in rubbish bins, they become less avoidant of humans. Losing that instinctive fear response puts them into more situations where they could get into an altercation with a human, which results in that bear being put down by humans. “A fed bear is a dead bear,\" says Servheen, referring to a common saying among biologists and conservationists.</p>\n<div style=\"height:10px\"></div>\n<p>Predatory or predation-related attacks are quite rare, only accounting for 17% of attacks in North America since 1955. They occur when a carnivore views a human as prey and hunts it like it would any other animal it uses for food.</p>\n<div style=\"height:10px\"></div>\n<p>Then there are animal attacks provoked by people taking pictures with them or feeding them in natural settings such as national parks which often end with animals being euthanised out of precaution. “Eventually, that animal becomes habituated to people, and bad things happen to the animal. And the folks who initially wanted to make that connection don't necessarily realise that,\" says Christine Wilkinson, a postdoctoral researcher at UC Berkeley, California, who's studying coyote-human conflicts.</p>\n<div style=\"height:10px\"></div>\n<p>After conducting countless postmortems on all types of carnivore-human attacks spanning 75 years, Penteriani's team believes 50% could have been avoided if humans reacted differently. A 2017 study co-authored by Penteriani found that engaging in risky behaviour around large carnivores increases the likelihood of an attack.</p>\n<div style=\"height:10px\"></div>\n<p>Two of the most common risky behaviours are parents leaving their children to play outside unattended and walking an unleashed dog, according to the study. Wilkinson says 66% of coyote attacks involve a dog. \"People end up in a situation where their dog is being chased, or their dog chases a coyote, or maybe they're walking their dog near a den that's marked, and the coyote wants to escort them away,” says Wilkinson.</p>\n<div style=\"height:10px\"></div>\n<p>Experts believe climate change also plays a part in the escalation of human-carnivore conflicts, but the correlation still needs to be ironed out. “As finite resources become scarcer, carnivores and people are coming into more frequent contact, which means that more conflict could occur,\" says Jen Miller, international programme specialist for the US Fish &amp; Wildlife Service. For example, she says, there was an uptick in lion attacks in western India during a drought when lions and people were relying on the same water sources.</p>\n<div style=\"height:10px\"></div>\n<p>The likelihood of human-carnivore conflicts appears to be higher in areas of low-income countries dominated by vast rural landscapes and farmland, according to Penteriani's research. “There are a lot of working landscapes in the Global South that are really heterogeneous, that are interspersed with carnivore habitats, forests and savannahs, which creates a lot more opportunity for these encounters, just statistically,\" says Wilkinson.</p></div>",
+      "images": [],
+      "question_numbers": [
+        18
+      ]
+    },
+    "passage_10": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>There are three other common drivers for carnivore-human attacks, some of which are more preventable than others. Natural aggression-based conflicts – such as those involving females protecting their young or animals protecting a food source can often be avoided as long as people stay away from those animals and their food.</p>\n<div style=\"height:10px\"></div>\n<p>Carnivores that recognise humans as a means to get food, are a different story. As they become more reliant on human food they might find at campsites or in rubbish bins, they become less avoidant of humans. Losing that instinctive fear response puts them into more situations where they could get into an altercation with a human, which often results in that bear being put down by humans. “A fed bear is a dead bear,\" says Servheen, referring to a common saying among biologists and conservationists.</p>\n<div style=\"height:10px\"></div>\n<p>Predatory or predation-related attacks are quite rare, only accounting for 17% of attacks in North America since 1955. They occur when a carnivore views a human as prey and hunts it like it would any other animal it uses for food.</p>\n<div style=\"height:10px\"></div>\n<p>Then there are animal attacks provoked by people taking pictures with them or feeding them in natural settings such as national parks which often end with animals being euthanised out of precaution. “Eventually, that animal becomes habituated to people, and then bad things happen to the animal. And the folks who initially wanted to make that connection don't necessarily realise that,\" says Christine Wilkinson, a postdoctoral researcher at UC Berkeley, California, who's been studying coyote-human conflicts.</p>\n<div style=\"height:10px\"></div>\n<p>After conducting countless postmortems on all types of carnivore-human attacks spanning 75 years, Penteriani's team believes 50% could have been avoided if humans reacted differently. A 2017 study co-authored by Penteriani found that engaging in risky behaviour around large carnivores increases the likelihood of an attack.</p>\n<div style=\"height:10px\"></div>\n<p>Two of the most common risky behaviours are parents leaving their children to play outside unattended and walking an unleashed dog, according to the study. Wilkinson says 66% of coyote attacks involve a dog. \"[People] end up in a situation where their dog is being chased, or their dog chases a coyote, or maybe they're walking their dog near a den that's marked, and the coyote wants to escort them away,” says Wilkinson.</p>\n<div style=\"height:10px\"></div>\n<p>Experts believe climate change also plays a part in the escalation of human-carnivore conflicts, but the correlation still needs to be ironed out. “As finite resources become scarcer, carnivores and people are coming into more frequent contact, which means that more conflict could occur,\" says Jen Miller, international programme specialist for the US Fish &amp; Wildlife Service. For example, she says, there was an uptick in lion attacks in western India during a drought when lions and people are relying on the same water sources.</p>\n<div style=\"height:10px\"></div>\n<p>The likelihood of human-carnivore conflicts appears to be higher in areas of low-income countries dominated by vast rural landscapes and farmland, according to Penteriani's research. “There are a lot of working landscapes in the Global South that are really heterogeneous, that are interspersed with carnivore habitats, forests and savannahs, which creates a lot more opportunity for these encounters, just statistically,\" says Wilkinson.</p></div>",
+      "images": [],
+      "question_numbers": [
+        19
+      ]
+    },
+    "passage_11": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>There are three other common drivers for carnivore-human attacks, some of which are more preventable than others. Natural aggression-based conflicts – such as those involving females protecting their young or animals protecting a food source can often be avoided as long as people stay away from those animals and their food.</p>\n<div style=\"height:10px\"></div>\n<p>Carnivores that recognise humans as a means to get food, are a different story. As they become more reliant on human food they might find at campsites or in rubbish bins, they become less avoidant of humans. Losing that instinctive fear response puts them into more situations where they could get into an altercation with a human, which often results in that bear being put down by humans. “A fed bear is a dead bear,\" says Servheen, referring to a common saying among biologists and conservationists.</p>\n<div style=\"height:10px\"></div>\n<p>Predatory or predation-related attacks are quite rare, only accounting for 17% of attacks in North America since 1955. They occur when a carnivore views a human as prey and hunts it like it would any other animal it uses for food.</p>\n<div style=\"height:10px\"></div>\n<p>Then there are animal attacks provoked by people taking pictures with them or feeding them in natural settings such as national parks which often end with animals being euthanised out of precaution. “Eventually, that animal becomes habituated to people, and then bad things happen to the animal. And the folks who initially wanted to make that connection don't necessarily realise that,\" says Christine Wilkinson, a postdoctoral researcher at UC Berkeley, California, who's been studying coyote-human conflicts.</p>\n<div style=\"height:10px\"></div>\n<p>After conducting countless postmortems on all types of carnivore-human attacks spanning 75 years, Penteriani's team believes 50% could have been avoided if humans reacted differently. A 2017 study co-authored by Penteriani found that engaging in risky behaviour around large carnivores increases the likelihood of an attack.</p>\n<div style=\"height:10px\"></div>\n<p>Two of the most common risky behaviours are parents leaving their children to play outside unattended and walking an unleashed dog, according to the study. Wilkinson says 66% of coyote attacks involve a dog. \"People end up in a situation where their dog is being chased, or their dog chases a coyote, or maybe they're walking their dog near a den that's marked, and the coyote wants to escort them away,” says Wilkinson.</p>\n<div style=\"height:10px\"></div>\n<p>Experts believe climate change also plays a part in the escalation of human-carnivore conflicts, but the correlation still needs to be ironed out. “As finite resources become scarcer, carnivores and people are coming into more frequent contact, which means that more conflict could occur,\" says Jen Miller, international programme specialist for the US Fish &amp; Wildlife Service. For example, she says, there was an uptick in lion attacks in western India during a drought when lions and people were relying on the same water sources.</p>\n<div style=\"height:10px\"></div>\n<p>The likelihood of human-carnivore conflicts appears to be higher in areas of low-income countries dominated by vast rural landscapes and farmland, according to Penteriani's research. “There are a lot of working landscapes in the Global South that are really heterogeneous, that are interspersed with carnivore habitats, forests and savannahs, which creates a lot more opportunity for these encounters, just statistically,\" says Wilkinson.</p></div>",
+      "images": [],
+      "question_numbers": [
+        20,
+        21
+      ]
+    },
+    "passage_12": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        22
+      ]
+    },
+    "passage_13": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        23
+      ]
+    },
+    "passage_14": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        24
+      ]
+    }
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>Recent important scientific findings have emerged from crossing the boundaries of scientific fields. They stem from physicists collaborating with biologists, sociologists and others, to answer questions about our world. But physicists and their potential collaborators often find their cultures out of sync. For one, physicists often discard a lot of information while extracting broad patterns; for other scientists, information is not readily disposed. Further, many non-physicists are uncomfortable with mathematical models. Still, the desire to work on something new and different is real, and there are clear benefits from the collision of views.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Physicists have successfully buried their differences on research methods applied in other fields in their desire to find answers to baffling scientific questions."
+        },
+        {
+          "label": "B",
+          "text": "Large data sets and mathematical models in physics research combined with the research methods of non-physicist collaborators have yielded important scientific findings."
+        },
+        {
+          "label": "C",
+          "text": "Despite differences in their research styles, physicists' research collaborations with scholars from other disciplines have yielded important research findings."
+        },
+        {
+          "label": "D",
+          "text": "The desire to diversify their research and answer important questions has led to several collaborations between physicists and other social scientists."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what <b>actually happens</b> when physicists work with other scientists.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Recent important scientific findings have emerged from crossing the boundaries of scientific fields... But physicists and their potential collaborators often find their cultures out of sync... Still, the desire to work on something new and different is real, and there are clear benefits from the collision of views.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage shows a clear pattern: Differences exist -&gt; But collaboration still happens -&gt; Important findings result</p>\n<div style=\"height:10px\"></div>\n<p>Let us trace the logic: Physicists work with biologists/sociologists -&gt; They have different styles (physicists discard info, others don't; non-physicists dislike math models) -&gt; <b>Despite</b> these differences, benefits emerge.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 <b>Option 1</b> -&gt; <i>overstates resolution</i> -&gt; Says physicists \"successfully buried their differences\" but passage shows differences still exist (\"cultures out of sync\"). They haven't resolved conflicts, just worked despite them.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; <i>scope-error</i> -&gt; Mentions \"large data sets\" (not in passage) and suggests methods were successfully \"combined\" when passage shows they remain different and uncomfortable with each other's approaches.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 3</b> -&gt; <i>captures core accurately</i> -&gt; \"Despite differences\" matches \"cultures out of sync\" + \"collaborations... have yielded important research findings\" matches exactly what happened.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 4</b> -&gt; <i>context-shift</i> -&gt; Says goal was to \"diversify research\" but passage shows goal was to \"answer questions about our world.\" Also limits to \"social scientists\" when passage includes biologists too.</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: Students often pick Option 1 thinking collaboration means resolving differences. But the passage shows success <b>despite</b> ongoing differences, not <b>because</b> differences were eliminated.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/1",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "2",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "VA",
+      "sub_topic_tag": "Sentence Placement",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.</p>\n<div style=\"height:10px\"></div>\n<p>Paragraph: The first phase of globalization occurred long before the introduction of either steam or electric power...Chinese consumers at all social levels consumed vast quantities of spices, fragrant woods and unusual plants. The peoples of Southeast Asia who lived in forests gave up their traditional livelihoods and completely reoriented their economies to supply Chinese consumers ___ (1) ___ . These exchanges of the year 1000 opened some of the routes through which goods and peoples continued to travel after Columbus traversed the mid-Atlantic. ___ (2) ___ . Yet the world of 1000 differed from that of 1492 in important ways....the travellers who encountered one another in the year 1000 were much closer technologically. ___ (3) ___ . They changed and augmented what was already there since 1000. ___ (4) ___ . If globalization hadn't yet begun, Europeans wouldn't have been able to penetrate the markets in so many places as quickly as they did after 1492.</p>\n<div style=\"height:10px\"></div>\n<p>Sentence: The Europeans did not invent globalization.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option 3"
+        },
+        {
+          "label": "B",
+          "text": "Option 4"
+        },
+        {
+          "label": "C",
+          "text": "Option 2"
+        },
+        {
+          "label": "D",
+          "text": "Option 1"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"They changed and augmented what was already there since 1000\"</p>\n<div style=\"height:10px\"></div>\n<p>This sentence talks about Europeans <b>building on</b> something that existed before -&gt; perfect setup for saying they <i>didn't invent</i> globalization.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Elimination process:</b></p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4 (Position 1)</b> -&gt; context-shift -&gt; Paragraph is talking about Chinese consumers and Southeast Asian suppliers. Suddenly mentioning Europeans here makes no sense and breaks the flow.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3 (Position 2)</b> -&gt; partial-fit -&gt; Could work since it mentions Columbus, but the <i>\"Yet\"</i> after the gap signals a contrast that doesn't connect well with our sentence.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 2 (Position 4)</b> -&gt; redundant -&gt; The idea that globalization already existed is repeated too much. The sentence after the gap already implies Europeans didn't start it.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1 (Position 3)</b> is correct -&gt; Perfect logical flow: travelers in 1000 were close technologically -&gt; Europeans didn't invent globalization -&gt; they just changed what was already there since 1000. Creates a <b>smooth explanation</b> of how Europeans improved existing systems.</p>\n<div style=\"height:10px\"></div>\n<p>The sentence fits Position 3 because it <b>explains</b> how Europeans enhanced rather than created global trade networks.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/2",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "3",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>Different from individuals, states conduct warfare operations using the DIME model— \"diplomacy, information, military, and economics.\" Most states do everything they can to inflict pain and confusion on their enemies before deploying the military. In fact, attacks on vectors of information are a well-worn tactic of war and usually are the first target when the charge begins. It's common for telecom data and communications networks to be routinely monitored by governments, which is why the open data policies of the web are so concerning to many advocates of privacy and human rights. With the worldwide adoption of social media, more governments are getting involved in low-grade information warfare through the use of cyber troops. According to a study by the Oxford Internet Institute in 2020, cyber troops are \"government or political party actors tasked with manipulating public opinion online.\" The Oxford research group was able to identify 81 countries with active cyber troop operations utilizing many different strategies to spread false information, including spending millions on online advertising.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Governments primarily use the DIME model to deploy cyber troops who practise low-grade information warfare, seeking to manipulate public opinion with the objective of inflicting pain and confusion on their enemies."
+        },
+        {
+          "label": "B",
+          "text": "Following the DIME model, many governments have taken advantage of open data policies of the web to deploy cyber troops who manipulate domestic public opinion, using advertising and other strategies to spread false information."
+        },
+        {
+          "label": "C",
+          "text": "Using the DIME model, together with military operations, many governments simultaneously conduct information warfare with the help of cyber troops and routinely monitor telecom data and communications networks."
+        },
+        {
+          "label": "D",
+          "text": "As part of conducting information warfare as per the DIME model, many governments routinely monitor telecom data and communications networks, and use cyber troops on social media to manipulate public opinion."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"Different from individuals, states conduct warfare operations using the DIME model— 'diplomacy, information, military, and economics.'\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage follows this flow: DIME model → Information warfare is key → Two examples: monitoring telecom networks + using cyber troops on social media.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Now let's check each option for accuracy:</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 1</b> → scope-error → Says governments <i>\"primarily use\"</i> DIME to deploy cyber troops. Wrong! DIME has four parts (diplomacy, information, military, economics). Cyber troops are just <b>one small part</b> of information warfare, not the main purpose of DIME.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> → context-shift → Mentions <i>\"domestic public opinion\"</i> and says governments <i>\"took advantage of open data policies\"</i> to deploy cyber troops. The passage doesn't say this! It talks about privacy concerns with open data, not governments using it as a deployment strategy.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> → category-error → Says DIME is used <i>\"together with military operations.\"</i> Wrong! Military <b>IS</b> part of DIME (the \"M\"), not separate from it. This shows confusion about what DIME actually includes.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> → correct → Accurately says information warfare happens <i>\"as part of\"</i> DIME model and correctly mentions both examples: monitoring telecom networks + using cyber troops. Gets the relationship right without overstating or missing key points.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"As part of conducting information warfare as per the DIME model, many governments routinely monitor telecom data and communications networks, and use cyber troops on social media to manipulate public opinion.\"</p>\n<div style=\"height:10px\"></div>\n<p>The key is recognizing that cyber troops and monitoring are <b>examples</b> of information warfare within DIME, not the whole purpose of DIME itself.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/3",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "4",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Economy",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>If a trader brought white peppercorns from India to medieval Europe, all of the following are unlikely to happen, EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "medieval maps would be used as navigational aids."
+        },
+        {
+          "label": "B",
+          "text": "Europeans would doubt the story of pepper harvesting."
+        },
+        {
+          "label": "C",
+          "text": "the price of spices would decrease."
+        },
+        {
+          "label": "D",
+          "text": "pepper would no longer be considered exotic."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what <b>would</b> happen if white peppercorns arrived in medieval Europe. The key word \"EXCEPT\" means we're looking for the one thing that <i>would</i> occur, while the others wouldn't.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"As far back as the 7th century Europeans thought that pepper in India grew on trees 'guarded' by serpents that would bite and poison anyone who attempted to gather the fruit. The only way to harvest pepper was to burn the trees, which would drive the snakes underground. Of course, this bit of lore would explain the shriveled black peppercorns, but not white, pink or other colors.\"</p>\n<div style=\"height:10px\"></div>\n<p>The thought process: Europeans believed pepper had to be burned to harvest it -&gt; this burning explained why peppercorns were black and shriveled -&gt; but white peppercorns would contradict this entire story -&gt; so they would start doubting their harvesting tale.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 Option 1 -&gt; irrelevant -&gt; Medieval maps being used for navigation has nothing to do with white peppercorns challenging harvesting beliefs</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 is correct -&gt; White peppercorns would directly contradict the \"burning trees\" story since burning should make everything black, not white</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; scope-error -&gt; Nothing in passage suggests white peppercorns would affect prices - the passage doesn't connect color variety to pricing</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; scope-error -&gt; White peppercorns wouldn't make pepper less exotic - they'd still be coming from distant India and still be rare spices</p>\n<div style=\"height:10px\"></div>\n<p>The confusion students might have: \"Maybe white peppercorns would make spices less expensive since there are more varieties?\" But the passage never connects pepper colors to pricing or supply abundance.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/4",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "5",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Economy",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>It can be inferred that all of the following contributed to a decline in the allure of spices, EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "increase in the availability or spices."
+        },
+        {
+          "label": "B",
+          "text": "the development of refrigeration techniques."
+        },
+        {
+          "label": "C",
+          "text": "changes in the system of medical treatment."
+        },
+        {
+          "label": "D",
+          "text": "changes in European cuisine."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what did <b>NOT</b> cause spices to become less popular. Three options will be reasons for decline, one won't be.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Step-by-step thinking process:</b></p>\n<div style=\"height:10px\"></div>\n<p>The passage explains why spices were so valuable from 1000-1500 -&gt; then mentions their allure declined later. So we need to think: what made them valuable, and what changes would remove that value?</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Most spices used in cooking began as medical ingredients, and throughout the Middle Ages spices were used as both medicines and condiments... Most spices were hot and dry and so appropriate in sauces to counteract the moist and wet properties supposedly possessed by most meat and fish.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage shows spices were valued for: medical uses + food preservation + exotic scarcity + balancing food properties.</p>\n<div style=\"height:10px\"></div>\n<p>So decline would happen when these needs disappeared -&gt; medical advances would reduce medicinal use -&gt; refrigeration would reduce preservation needs -&gt; cuisine changes could reduce cooking demand.</p>\n<div style=\"height:10px\"></div>\n<p>But increased <i>availability</i>? The passage doesn't suggest this caused decline - it just made them less exotic, but people still wanted them for medical/culinary reasons.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Option analysis:</b></p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 1 -&gt; <b>not a cause of decline</b> -&gt; The passage doesn't suggest increased availability caused people to want spices less - they were still needed for medicine and cooking, just less exotic</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <b>would cause decline</b> -&gt; refrigeration would eliminate the need for spices to preserve meat and cover spoiled tastes</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; <b>would cause decline</b> -&gt; if medical treatments changed, people wouldn't need spices as medicines anymore</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 -&gt; <b>would cause decline</b> -&gt; if European tastes in food changed, demand for spiced dishes would drop</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: increased availability might make spices cheaper and less exotic, but wouldn't eliminate the actual <i>uses</i> that made people want them. The other three options remove the fundamental <i>reasons</i> people needed spices.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/5",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "6",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Economy",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>In the context of the passage, the people who heard the story of pepper trees being guarded by snakes would be least likely to arrive at the conclusion that</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "it is not advisable to go to India to harvest the pepper themselves."
+        },
+        {
+          "label": "B",
+          "text": "this is why pepper is so hot."
+        },
+        {
+          "label": "C",
+          "text": "pepper is costly for good reason."
+        },
+        {
+          "label": "D",
+          "text": "it is no surprise that the pepper supply is so limited."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage says Europeans believed pepper trees were guarded by dangerous serpents, and the only way to harvest pepper was to burn the trees to drive snakes away.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"As far back as the 7th century Europeans thought that pepper in India grew on trees 'guarded' by serpents that would bite and poison anyone who attempted to gather the fruit. The only way to harvest pepper was to burn the trees, which would drive the snakes underground. Of course, this bit of lore would explain the shriveled black peppercorns\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; this story was meant to explain why peppercorns look black and shriveled (because of burning), not anything else.</p>\n<div style=\"height:10px\"></div>\n<p>What would people logically conclude from a story about dangerous snakes and burning trees?</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟠 Option 1 -&gt; logical conclusion -&gt; dangerous snakes guarding trees would make people think \"I shouldn't go harvest this myself\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; context-shift -&gt; the snake story explains appearance (black/shriveled from burning) but has nothing to do with pepper being spicy/hot. The burning is just to scare snakes, not to create spiciness</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 3 -&gt; logical conclusion -&gt; dangerous harvesting conditions would naturally make something expensive</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 4 -&gt; logical conclusion -&gt; if it's dangerous to harvest, supply would be limited</p>\n<div style=\"height:10px\"></div>\n<p>The confusion students might have: Options 1, 3, and 4 all seem reasonable. But Option 2 makes a connection that isn't there. The story explains <i>appearance</i> (burning makes peppercorns black), not <i>taste</i> (spiciness comes from natural compounds, not burning).</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/6",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "7",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Economy",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The author lists all of the following examples as “externalities” of major technical advances EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "India was colonised for its spices and gold."
+        },
+        {
+          "label": "B",
+          "text": "Tobacco was more marketable than spices."
+        },
+        {
+          "label": "C",
+          "text": "Colonialism was motivated by the demand for spices."
+        },
+        {
+          "label": "D",
+          "text": "The spice trade was a driver of colonial expansion."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what the passage does <i>NOT</i> support about the relationship between spices and colonialism.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Desire for spices helped fuel European colonial empires to create political, military and commercial networks under a single power.\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Spices never had the enduring allure or power of gold and silver or the commercial potential of new products such as tobacco, indigo or sugar.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage clearly shows spices -&gt; colonial motivation -&gt; European expansion.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 Option 2 -&gt; <b>supported</b> -&gt; passage directly states tobacco had more \"commercial potential\" than spices</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; <b>supported</b> -&gt; passage explicitly says \"desire for spices helped fuel European colonial empires\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 -&gt; <b>supported</b> -&gt; passage shows spice demand inspired Columbus/Da Gama voyages that \"launched European colonialism\"</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 1 -&gt; <b>not supported</b> -&gt; passage mentions spices from India/East, but never specifically links India's colonization to <i>both</i> spices AND gold together. The passage discusses gold separately as having more \"enduring allure\" than spices, but doesn't connect gold to India's colonization.</p>\n<div style=\"height:10px\"></div>\n<p>The passage focuses on spices as the driver, not a spice-gold combination for India specifically. While spices came from the East/India region, the text doesn't support the claim that India was colonized for this dual purpose.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/7",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "8",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "VA",
+      "sub_topic_tag": "Odd One Out",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">The UK is a world leader in developing cultivated meat and the approval of a cultivated pet food is an important milestone.</li>\n<li node=\"[object Object]\">If we're to realise the full potential benefits of cultivated meat the government must invest in research and infrastructure.</li>\n<li node=\"[object Object]\">The first UK applications for cultivated meat produced for humans remain under assessment with the Food Standards Agency.</li>\n<li node=\"[object Object]\">The previous UK government had been looking at fast-tracking the approval of cultivated meat for human consumption.</li>\n<li node=\"[object Object]\">It underscores the potential for new innovation to help reduce the negative impacts of intensive animal agriculture.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Step 1: Find the main topic -&gt; All sentences talk about cultivated meat in the UK, but we need to see which timeline and focus they follow.</p>\n<div style=\"height:10px\"></div>\n<p>Step 2: Look for logical flow -&gt; A good paragraph moves from general to specific or follows a clear sequence.</p>\n<div style=\"height:10px\"></div>\n<p>Step 3: Check each sentence's timeline and context:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Sentences 1, 2, 3, 5 -&gt; Present tense, current situation</li>\n<li node=\"[object Object]\">Sentence 4 -&gt; \"previous UK government\" -&gt; Past tense, old situation</li>\n</ul>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Thought process:</p>\n<p>UK leadership (1) -&gt; Why it matters (5) -&gt; Current status (3) -&gt; What's needed next (2)</p>\n<div style=\"height:10px\"></div>\n<p>This creates a smooth story. But sentence 4 talks about what the old government was doing, which breaks the flow of discussing current and future situations.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The answer is 4 because:</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Sentence 4 is the odd one out -&gt; <i>context-shift</i> -&gt; Talks about \"previous government\" actions in the past, while other sentences focus on current achievements, present status, and future needs. This timeline mismatch makes it the odd sentence that breaks the logical flow.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/8",
+      "passage_id": "passage_5"
+    },
+    {
+      "question_number": "9",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "VA",
+      "sub_topic_tag": "Sentence Placement",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.</p>\n<div style=\"height:10px\"></div>\n<p>Paragraph: Early in this century a young Breton schoolboy who preparing himself for a scientific career began to notice a strange fact about hens in his father's poultry yard ___ (1) ___ .  As they scratched the soil they constantly seemed to be pecking at specks of mica, a siliceous material dotting the ground ___ (2) ___ . No one could explain to Louis Kervran why the chickens selected the mica, or why each time a bird was killed for the family cooking pot no trace of the mica could be found in its gizzard ___ (3) ___ . It took Kervran many years to establish that the chickens were transmuting one element into another ___ (4) ___ .</p>\n<div style=\"height:10px\"></div>\n<p>Sentence: Yet each day the flock produced eggs with calcareous shells though they apparently had not ingested any calcium from land which was entirely lacking in limestone.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Position 1"
+        },
+        {
+          "label": "B",
+          "text": "Position 2"
+        },
+        {
+          "label": "C",
+          "text": "Position 3"
+        },
+        {
+          "label": "D",
+          "text": "Position 4"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Look for where a sentence starting with <b>\"Yet\"</b> fits best -&gt; need to find a spot where there's a contrast or mystery set up first.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"No one could explain to Louis Kervran why the chickens selected the mica, or why each time a bird was killed for the family cooking pot no trace of the mica could be found in its gizzard\"</p>\n<div style=\"height:10px\"></div>\n<p>The key is understanding what <b>\"Yet\"</b> means -&gt; it shows something surprising or opposite to what was just said.</p>\n<div style=\"height:10px\"></div>\n<p>Step-by-step thinking process:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Chickens eat mica (a siliceous material) -&gt; but no mica found in their stomachs when killed</li>\n<li node=\"[object Object]\">This creates a mystery about what happens to the mica</li>\n<li node=\"[object Object]\"><b>\"Yet\"</b> sentence adds another puzzle -&gt; somehow these chickens still make calcium-rich egg shells even though there's <i>no limestone</i> (calcium source) in the ground</li>\n<li node=\"[object Object]\">This sets up the perfect contrast for the final revelation about <i>transmutation</i></li>\n</ul>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>🔴 Option 1 (Position 1):</b> scope-error -&gt; too early in the paragraph, no mystery or contrast has been set up yet for <b>\"Yet\"</b> to work against.</p>\n<div style=\"height:10px\"></div>\n<p><b>🟠 Option 2 (Position 2):</b> partial-truth -&gt; mentions mica eating which could contrast, but the sentence flows better continuing with the mica description rather than jumping to calcium shells.</p>\n<div style=\"height:10px\"></div>\n<p><b>🟢 Option 3 (Position 3):</b> perfect fit -&gt; sets up the complete mystery (chickens eat mica, no mica in stomach, <b>YET</b> they make calcium shells without calcium source) before revealing the transmutation answer.</p>\n<div style=\"height:10px\"></div>\n<p><b>🔴 Option 4 (Position 4):</b> context-shift -&gt; comes after the solution is revealed about transmutation, so adding <b>\"Yet\"</b> about the calcium mystery doesn't make sense anymore.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/9",
+      "passage_id": "passage_6"
+    },
+    {
+      "question_number": "10",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>All of the following are listed as reasons why academics choose to review other scholars' work EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Some use this as an opportunity to publicise their own review work."
+        },
+        {
+          "label": "B",
+          "text": "It is seen as a form of service to the academic community."
+        },
+        {
+          "label": "C",
+          "text": "It helps them keep current with cutting-edge ideas in their academic disciplines."
+        },
+        {
+          "label": "D",
+          "text": "It is seen as an opportunity to expand their influence in the academic community."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The key is to find what reasons are <b>actually stated</b> in the passage for why academics do peer review work, then spot the option that's <b>not mentioned</b>.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>From passage: \"Some do it as a way to keep abreast with developments in their field; some simply see it as a duty to the discipline.\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"In recent years, some scientists have begun posting their reviews online, mainly to claim credit for their work.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage gives us three clear reasons -&gt; staying current with field developments -&gt; duty to discipline -&gt; claiming credit for work.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 Option 1 -&gt; <i>correct reason</i> -&gt; matches \"claim credit for their work\" by posting reviews online</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <i>correct reason</i> -&gt; matches \"duty to the discipline\" which means service to academic community</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; <i>correct reason</i> -&gt; matches \"keep abreast with developments in their field\" which means staying current</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <i>not mentioned</i> -&gt; \"expanding influence\" is never stated as a reason anywhere in the passage</p>\n<div style=\"height:10px\"></div>\n<p>The passage talks about claiming credit and doing duty, but never mentions wanting to expand influence or power in academia. This is the answer because it's the only reason <b>not listed</b> in the passage.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/10",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "11",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Based on the passage we can infer that the author would most probably support</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "greater transparency across the peer review process in academic publishing."
+        },
+        {
+          "label": "B",
+          "text": "publicising peer review data rather than the publication of actual reviews."
+        },
+        {
+          "label": "C",
+          "text": "preserving the anonymity of reviewers to protect them from criticism."
+        },
+        {
+          "label": "D",
+          "text": "more careful screening to ensure the recruitment of content-familiar peer reviewers."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what the author would <b>most probably support</b> based on their overall argument and tone throughout the passage.</p>\n<div style=\"height:10px\"></div>\n<p><b>Step-by-step process:</b></p>\n<div style=\"height:10px\"></div>\n<p>First, we need to identify the author's main stance -&gt; The author discusses problems with current peer review system and suggests solutions involving more openness.</p>\n<div style=\"height:10px\"></div>\n<p>Next, we look for the author's clearest position statement -&gt; The final line gives the strongest clue about what they support.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"But the norm should shift from opacity in all cases to opacity only when necessary.\"</p>\n<div style=\"height:10px\"></div>\n<p>This shows the author wants less secrecy (opacity) and more openness (transparency) as the default approach.</p>\n<div style=\"height:10px\"></div>\n<p>The author also supports multiple transparency measures -&gt; sharing data to find bias, catching fraud, and even some open reviews -&gt; This suggests <b>overall</b> transparency, not just one specific type.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Elimination process:</b></p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 2 -&gt; <i>too-narrow</i> -&gt; Author mentions sharing data <b>and</b> reviews, not just data instead of reviews. This picks only one part of author's broader transparency vision.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; <i>contradicts-main-argument</i> -&gt; Author acknowledges this concern but clearly argues <b>against</b> it. The whole passage pushes for more openness, not preserving anonymity.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <i>scope-error</i> -&gt; This screening idea isn't discussed in the passage. Author focuses on transparency issues, not recruiter screening problems.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 1 -&gt; <i>captures-full-scope</i> -&gt; \"Greater transparency across the peer review process\" matches the author's call to shift away from opacity in general. It covers all the transparency measures the author discusses.</p>\n<div style=\"height:10px\"></div>\n<p><b>Key insight:</b> The author wants transparency as the <b>default approach</b> rather than secrecy, which directly supports Option 1's broad transparency stance.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/11",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "12",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>According to the passage, which of the following is the only reason NOT given in favour of making peer review data public?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "It could address various inefficiencies and fraudulent practices that continue in academic publishing process."
+        },
+        {
+          "label": "B",
+          "text": "It would highlight the gender and race biases currently existing in the selection of reviewers."
+        },
+        {
+          "label": "C",
+          "text": "It will deal with peer review fraud such as authors publishing bogus reviews of their work."
+        },
+        {
+          "label": "D",
+          "text": "It can tackle the problem of selecting appropriately qualified reviewers for academic writing."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"Sharing peer review data could help journals stamp out fraud, inefficiency, and systemic bias in academic publishing.\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Peer review data could also help root out bias. Last year, a study based on peer review data for nearly 24,000 submissions to the biomedical journal eLife found that women and non-Westerners were vastly underrepresented among peer reviewers.\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Openly publishing peer review data could perhaps also help journals address another problem in academic publishing: fraudulent peer reviews.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage gives these benefits -&gt; tackle fraud + inefficiencies + reveal gender/race bias + stop fake reviews by authors.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 Option 1 -&gt; <b>mentioned</b> -&gt; passage clearly says sharing data helps \"stamp out fraud, inefficiency\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <b>mentioned</b> -&gt; passage gives specific example about women and non-Westerners being underrepresented</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; <b>mentioned</b> -&gt; passage talks about authors using \"phony email addresses to pose as an outside expert\"</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <b>not mentioned</b> -&gt; passage never suggests that open data helps select better qualified reviewers. The passage talks about concerns that open review might scare reviewers away, but doesn't say open data improves reviewer qualification selection.</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; Options 1, 2, and 3 are all directly quoted benefits from the passage, but Option 4 introduces an idea (selecting qualified reviewers) that isn't discussed as a benefit of open peer review data.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/12",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "13",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>According to the passage, some are opposed to making peer reviews public for all the following reasons EXCEPT that it</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "deters reviewers from producing honest, if critical, reviews that are vital to the sound publishing process."
+        },
+        {
+          "label": "B",
+          "text": "delays the manuscript evaluation process as reviewers would take longer to write their reviews."
+        },
+        {
+          "label": "C",
+          "text": "leaves the reviewers unexposed to unwarranted and unjustified criticism or comments from others."
+        },
+        {
+          "label": "D",
+          "text": "makes reviewers reluctant to review manuscripts, especially if these are critical of the submitted work."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"Opponents of open peer review commonly argue that confidentiality is vital to the integrity of the review process; referees may be less critical of manuscripts if their reports are published, especially if they are revealing their identities by signing them. Some also hold concerns that open reviewing may deter referees from agreeing to judge manuscripts in the first place, or that they'll take longer to do so out of fear of scrutiny.\"</p>\n<div style=\"height:10px\"></div>\n<p><i>Thought process:</i> Passage gives 3 clear reasons opponents mention -&gt; referees become less critical -&gt; referees won't agree to review -&gt; reviews take longer due to fear of being judged. Need to match these to options and find the <b>missing one</b>.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 <b>Option 1</b> -&gt; matches passage -&gt; \"referees may be less critical\" = reviewers won't give honest critical reviews</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 2</b> -&gt; matches passage -&gt; \"take longer out of fear of scrutiny\" = delays in evaluation process</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> -&gt; <i>not mentioned</i> -&gt; passage never says opponents worry about reviewers facing \"unwarranted criticism from others\" - this reason doesn't appear anywhere</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; matches passage -&gt; \"deter referees from agreeing to judge manuscripts\" = makes reviewers reluctant</p>\n<div style=\"height:10px\"></div>\n<p><i>Key insight:</i> Options 1, 2, and 4 all directly match the quoted section. Option 3 introduces a completely new concern about protecting reviewers from outside criticism - this isn't what opponents actually say in the passage.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/13",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "14",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Technology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We can assume that the author would support all of the following views EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "It has become far easier for people today to bring out innovations with dire worldwide consequences than it was earlier."
+        },
+        {
+          "label": "B",
+          "text": "The emissions caused by the large-scale use of leaded fuel ought to have been addressed earlier than they were."
+        },
+        {
+          "label": "C",
+          "text": "The by-products of leaded fuel, rather than the fuel itself, were responsible for the build-up of carbon-related gases in the atmosphere."
+        },
+        {
+          "label": "D",
+          "text": "While technological advances in the past have had innocuous or beneficial outcomes, more recent advances have the potential to be more threatening globally."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The author discusses how technology creates unintended consequences - sometimes good, sometimes bad, across all time periods. The key is understanding what the author actually says about past vs. present technological impacts.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>From passage: \"Sometimes those consequences are innocuous ones, or even beneficial. Gutenberg invents the printing press, and literacy rates rise...\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"We live under the gathering storm of modern history's most momentous unintended consequence carbon-based climate change.\"</p>\n<div style=\"height:10px\"></div>\n<p>The author shows that both past AND present technology can have serious negative effects. Past technology gave us climate change (the biggest problem we face), while future technology poses new global-scale risks.</p>\n<div style=\"height:10px\"></div>\n<p>Author's main point -&gt; Technology has always had mixed results (good and bad) -&gt; Modern technology just makes it easier for smaller groups to create global consequences</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 Option 1 -&gt; <b>Supported</b> -&gt; Author directly states \"as it becomes increasingly possible for individuals or small groups to create new scientific advances...setting off unintended consequences that reverberate on a global scale\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <b>Supported</b> -&gt; Author notes \"potential health threats of Ethyl were visible in the 1920s\" implying they should have acted sooner</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; <b>Supported</b> -&gt; Author explains \"innovations whose unintended consequences stem from some kind of waste by-product that they emit\"</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <b>NOT supported</b> -&gt; <i>degree-error</i> -&gt; Says past advances had \"innocuous or beneficial outcomes\" but ignores that the author gives major examples of past disasters (climate change from Industrial Revolution). The author says <b>sometimes</b> past consequences were good, not that they were generally better than today's risks.</p>\n<div style=\"height:10px\"></div>\n<p>The author would reject Option 4 because it wrongly suggests past technology was generally safe while only modern technology is threatening. The passage shows serious negative consequences from both past and present innovations.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/14",
+      "passage_id": "passage_8"
+    },
+    {
+      "question_number": "15",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Technology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which of the following best conveys the main point of the first paragraph?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The full impact of technological advances cannot be estimated in the short run as the ripple effects often extend far beyond the original intent."
+        },
+        {
+          "label": "B",
+          "text": "It is important to judge an invention not by its immediate outcomes, but by the holistic impact of its secondary effects."
+        },
+        {
+          "label": "C",
+          "text": "The secondary effects of most major technological advances in the past, especially if they were unintended, have turned out to be beneficial."
+        },
+        {
+          "label": "D",
+          "text": "The entire impact of a technological advance should be evaluated by the boost its secondary effects gives to generating further technological advances."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to identify its <b>main point</b> about technological advances and their effects.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The history of any major technological or industrial advance is inevitably shadowed by a less predictable history of unintended consequences and secondary effects what economists sometimes call 'externalities.'\"</p>\n<div style=\"height:10px\"></div>\n<p>The paragraph explains how tech advances have <b>unpredictable chain reactions</b> -&gt; shows Gutenberg example -&gt; printing press leads to literacy -&gt; spectacles -&gt; lens-making -&gt; telescopes/microscopes. This demonstrates how effects <b>ripple far beyond</b> what inventors originally intended.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Elimination Strategy:</b> Look for the option that captures both the <b>unpredictable nature</b> and the <b>chain reaction concept</b> without adding extra ideas not in the paragraph.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 2</b> -&gt; scope-error -&gt; talks about \"judging\" inventions and making evaluative statements, but the paragraph is just <b>describing</b> what happens, not telling us how to judge inventions</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3</b> -&gt; degree-error -&gt; says \"most\" have been beneficial, but passage only says \"<b>sometimes</b>\" they're beneficial - this <b>overstates</b> the claim</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 4</b> -&gt; context-shift -&gt; focuses only on tech creating more tech, but the paragraph shows <b>broader effects</b> (like spectacles for reading) - also uses \"should be evaluated\" which is prescriptive, not descriptive</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> is correct -&gt; captures both key ideas: <b>unpredictable timing</b> (\"cannot be estimated in short run\") and <b>chain reactions</b> (\"ripple effects extend far beyond original intent\") - matches the Gutenberg example perfectly</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/15",
+      "passage_id": "passage_8"
+    },
+    {
+      "question_number": "16",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Technology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The author lists all of the following examples as \"externalities\" of major technical advances EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "build-up of chlorofluorocarbons in the atmosphere"
+        },
+        {
+          "label": "B",
+          "text": "extension of the phonograph to large-scale recording of music"
+        },
+        {
+          "label": "C",
+          "text": "cooling and de-humidifying of factories through air-conditioning"
+        },
+        {
+          "label": "D",
+          "text": "application of the Jacquard loom to modern IT programming"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"The history of any major technological or industrial advance is inevitably shadowed by a less predictable history of unintended consequences and secondary effects what economists sometimes call 'externalities.'\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; externalities = unintended consequences, so we need the option that shows the <i>original intended purpose</i>, not a side effect.</p>\n<div style=\"height:10px\"></div>\n<p>Scan each option -&gt; look for words like \"primarily intended\" vs \"unintended consequence\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"When Willis Carrier hit upon the idea of air-conditioning, the technology was primarily intended for industrial use: ensuring cool, dry air for factories that required low-humidity environments.\"</p>\n<div style=\"height:10px\"></div>\n<p>This tells us factory cooling was the <i>main goal</i>, not an accident!</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟠 Option 1 -&gt; externality -&gt; CFCs mentioned as unintended threat: \"it is reasonable to see CFCs as a forerunner of the kind of threat we will most likely face\"</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 2 -&gt; externality -&gt; Edison intended dictation, music recording was surprise: \"Edison famously thought his phonograph would primarily be used to take dictation. But then later innovators discovered a much larger audience willing to pay for musical recordings\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; primary purpose -&gt; passage clearly states this was what Carrier \"primarily intended\" for air-conditioning</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 4 -&gt; externality -&gt; animatronic dolls accidentally inspired programmable machines: \"the animatronic dolls of the mid-1700s inspired Jacquard to invent the first programmable loom\"</p>\n<div style=\"height:10px\"></div>\n<p>The confusion students have: \"Isn't air-conditioning migration also mentioned?\" Yes, but the <i>factory cooling</i> part was intentional, while the <i>city migration</i> part was the externality.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/16",
+      "passage_id": "passage_8"
+    },
+    {
+      "question_number": "17",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Technology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Carrier, Babbage, and Edison are mentioned in the passage to illustrate the author's point that</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "these inventors could not have visualised the eventual impact of their inventions on society."
+        },
+        {
+          "label": "B",
+          "text": "despite the original intention, the unintended consequences of their inventions were largely beneficial."
+        },
+        {
+          "label": "C",
+          "text": "inventions typically end up being used for entirely different purposes than the intended ones."
+        },
+        {
+          "label": "D",
+          "text": "the secondary effect of past inventions mostly resulted in the creation of new inventions."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"The history of any major technological or industrial advance is inevitably shadowed by a less predictable history of unintended consequences and secondary effects\"</p>\n<div style=\"height:10px\"></div>\n<p>The author's main point -&gt; inventions have <i>unpredictable</i> secondary effects that inventors never saw coming</p>\n<div style=\"height:10px\"></div>\n<p>Let us trace each example:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Carrier -&gt; wanted cool air for factories -&gt; accidentally caused massive population shifts to desert cities</li>\n<li node=\"[object Object]\">Edison -&gt; wanted dictation machine -&gt; people used it for music instead</li>\n<li node=\"[object Object]\">Babbage -&gt; inspired by toy dolls -&gt; created foundation for computer revolution</li>\n</ul>\n<div style=\"height:10px\"></div>\n<p>Key insight -&gt; These inventors had <b>no clue</b> their work would lead to such massive societal changes</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Students often get confused between options 1 and 3 because both seem to talk about inventors not predicting outcomes. But there's a key difference:</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> -&gt; <b>correct</b> -&gt; focuses on inventors being unable to <i>visualize</i> the eventual <b>societal impact</b> (matches author's point about unpredictable consequences)</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 2</b> -&gt; <b>partial-truth</b> -&gt; says consequences were \"largely beneficial\" but passage shows mixed results (climate change is mentioned as harmful consequence)</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3</b> -&gt; <b>scope-error</b> -&gt; too narrow, focuses only on \"different purposes\" but misses broader point about <i>unpredictable societal impact</i> (Edison example fits, but others don't)</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4</b> -&gt; <b>irrelevant</b> -&gt; claims inventions led to \"creation of new inventions\" but passage focuses on <b>societal consequences</b>, not just more inventions</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Oftentimes the secondary effects seem to belong to an entirely different sphere of society\"</p>\n<div style=\"height:10px\"></div>\n<p>The key word is <b>\"visualize\"</b> in option 1 -&gt; inventors couldn't <i>see ahead</i> to predict how society would change because of their work.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/17",
+      "passage_id": "passage_8"
+    },
+    {
+      "question_number": "18",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>According to the passage, which of the following scenarios would MOST likely exacerbate the frequency of carnivore-human conflicts?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Unleashing dogs by pet owners in areas with known high concentrations of large carnivores."
+        },
+        {
+          "label": "B",
+          "text": "Attempting to photograph wild animals from within secured viewing areas in national parks and protected zones."
+        },
+        {
+          "label": "C",
+          "text": "Addressing the impact of climate change on the availability of resources for wildlife."
+        },
+        {
+          "label": "D",
+          "text": "Implementing 'food waste' management strategies to prevent wild animals being attracted to human food sources."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"Two of the most common risky behaviours are parents leaving their children to play outside unattended and walking an unleashed dog, according to the study. Wilkinson says 66% of coyote attacks involve a dog.\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; passage directly identifies risky behaviors that lead to more attacks. We need to spot which option matches these risky behaviors vs. which ones would actually <strong>reduce</strong> conflicts.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><strong>Process:</strong> Look for what <strong>increases</strong> vs <strong>decreases</strong> conflict frequency -&gt; eliminate options that would make things safer -&gt; find the one that matches identified risky behavior.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <strong>Option 1</strong> -&gt; <strong>correct</strong> -&gt; directly matches \"walking an unleashed dog\" which is identified as one of the \"most common risky behaviours\" and accounts for 66% of coyote attacks</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <strong>Option 2</strong> -&gt; <strong>context-shift</strong> -&gt; passage mentions problems with taking pictures in \"natural settings,\" but this says \"secured viewing areas\" which would actually be <strong>safer</strong>, not more dangerous</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <strong>Option 3</strong> -&gt; <strong>opposite-effect</strong> -&gt; \"addressing\" climate change means <strong>solving</strong> it, which would reduce conflicts since climate change currently increases them by making resources scarcer</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <strong>Option 4</strong> -&gt; <strong>opposite-effect</strong> -&gt; managing food waste would <strong>prevent</strong> carnivores from becoming dependent on human food sources, which the passage says makes them \"less avoidant of humans\"</p>\n<div style=\"height:10px\"></div>\n<p>The question asks what would <strong>exacerbate</strong> (make worse) conflicts. Options 2, 3, and 4 would all make things <strong>better</strong>, while Option 1 directly matches a major risky behavior that causes most attacks.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/18",
+      "passage_id": "passage_9"
+    },
+    {
+      "question_number": "19",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which of the following statements, if false, would be inconsistent with the concerns raised in the passage regarding the drivers of carnivore-human conflicts?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Predatory attacks by carnivores are a common occurrence and have steadily increased over the past few decades."
+        },
+        {
+          "label": "B",
+          "text": "Human efforts to avoid risky behaviours around large carnivores have proven effective in reducing conflict incidents."
+        },
+        {
+          "label": "C",
+          "text": "Carnivores lose their instinctive fear of humans, when consistently exposed to human food sources."
+        },
+        {
+          "label": "D",
+          "text": "Climate change has had negligible effects on the frequency of carnivore-human interactions in affected regions."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"Experts believe climate change also plays a part in the escalation of human-carnivore conflicts... As finite resources become scarcer, carnivores and people are coming into more frequent contact, which means that more conflict could occur.\"</p>\n<div style=\"height:10px\"></div>\n<p>The key thought process -&gt; Find what the passage clearly supports -&gt; Then see which statement directly contradicts that support -&gt; That's our answer.</p>\n<div style=\"height:10px\"></div>\n<p>The passage clearly says climate change <i>does</i> increase conflicts between humans and carnivores. It gives examples like lions and humans competing for water during droughts.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟠 Option 1 -&gt; partial-truth -&gt; If false, it means predatory attacks are <i>not</i> common and <i>not</i> increasing. The passage says they're \"quite rare\" at 17%, so this being false actually <b>agrees</b> with the passage.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 2 -&gt; context-shift -&gt; If false, it means human efforts haven't worked well. The passage says 50% of attacks could be avoided, but doesn't clearly say current efforts are working great, so this being false doesn't really contradict anything.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 3 -&gt; scope-error -&gt; If false, it means carnivores <i>don't</i> lose fear when exposed to human food. But the passage clearly states they \"become less avoidant\" and lose \"instinctive fear response\" when fed by humans. This being false would contradict the passage, but let we are looking for the bigger contradiction.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 is correct -&gt; If false, it means climate change <i>has</i> had significant effects. The passage supports this view, so the statement being false would actually <b>agree</b> with the passage. But the original statement (that climate change has negligible effects) directly contradicts the passage's clear position that climate change escalates conflicts.</p>\n<div style=\"height:10px\"></div>\n<p>The answer is Option 4 because it directly contradicts the passage's clear statement that climate change plays a part in increasing human-carnivore conflicts.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/19",
+      "passage_id": "passage_10"
+    },
+    {
+      "question_number": "20",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Given the insights provided by Penteriani's research and Wilkinson's statement, which of the following conclusions can be drawn about the relationship between landscape heterogeneity and human-carnivore conflicts?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Low-income countries with vast, contiguous wilderness areas are less prone to human-carnivore conflicts because these areas lack the human presence necessary for such encounters."
+        },
+        {
+          "label": "B",
+          "text": "Homogeneous landscapes with uniform agricultural practices are more likely to experience high rates of human-carnivore conflicts due to the predictability of resources."
+        },
+        {
+          "label": "C",
+          "text": "The diversity and interspersion of working landscapes with carnivore habitats in rural areas increase the statistical probability of encounters between humans and carnivores."
+        },
+        {
+          "label": "D",
+          "text": "Landscape heterogeneity, characterized by a mix of farmland and natural habitats, inherently reduces the chances of human-carnivore conflicts by providing more refuge for wildlife away from human activity."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The question asks us to find what Penteriani's research and Wilkinson's statement tell us about landscape types and human-carnivore conflicts. We need to look for the specific connection between <i>landscape heterogeneity</i> (mixed/diverse landscapes) and conflict rates.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"There are a lot of working landscapes in the Global South that are really heterogeneous, that are interspersed with carnivore habitats, forests and savannahs, which creates a lot more opportunity for these encounters, just statistically\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought process:</b> Wilkinson directly explains that mixed landscapes → more carnivore habitats scattered around → more chances for humans and animals to meet → higher statistical probability of conflicts. The passage also mentions low-income countries with rural farmlands have <i>higher</i> conflict likelihood.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 Option 1 → <i>contradicts passage</i> → says low-income countries are <i>less prone</i> to conflicts, but passage clearly states they have <i>higher likelihood</i> of conflicts</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 2 → <i>opposite claim</i> → says <i>homogeneous</i> (uniform) landscapes cause more conflicts, but Wilkinson specifically says <i>heterogeneous</i> (mixed) landscapes create more opportunities</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 → <i>matches exactly</i> → captures Wilkinson's key point that diverse working landscapes mixed with carnivore habitats increase statistical probability of encounters</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 → <i>wrong direction</i> → claims heterogeneity <i>reduces</i> conflicts by providing refuge, but passage says it <i>increases</i> encounter opportunities</p>\n<div style=\"height:10px\"></div>\n<p>The answer is found in Wilkinson's direct quote about heterogeneous landscapes creating more statistical opportunities for encounters.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/20",
+      "passage_id": "passage_11"
+    },
+    {
+      "question_number": "21",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>According to the passage, what is a significant factor that contributes to the habituation of carnivores to human presence?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The predatory perception of humans as potential prey within the carnivores’ food chain."
+        },
+        {
+          "label": "B",
+          "text": "The reduction in carnivores’ instinctive fear response, resulting from their reliance upon human provided food."
+        },
+        {
+          "label": "C",
+          "text": "The natural aggression exhibited by carnivores, exacerbated by human interference, particularly when they are safeguarding their offspring or food sources."
+        },
+        {
+          "label": "D",
+          "text": "The increased scarcity of resources due to climate change, forcing carnivores to venture outside their natural habitats in search of sustenance."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The question asks about <b>habituation</b> - which means animals getting <i>used to</i> humans and losing their natural fear.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>From passage: \"As they become more reliant on human food they might find at campsites or in rubbish bins, they become less avoidant of humans. Losing that instinctive fear response puts them into more situations where they could get into an altercation with a human\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Eventually, that animal becomes habituated to people, and then bad things happen to the animal.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage clearly connects habituation to animals losing their fear of humans -&gt; this happens when they rely on human food sources -&gt; they become less scared and more comfortable around people -&gt; this is habituation.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Here's how to eliminate the wrong options easily:</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 1 -&gt; <b>wrong focus</b> -&gt; talks about predation (hunting humans), but the passage says this is rare (17% of attacks) and different from habituation</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <b>correct</b> -&gt; directly matches passage: human food reliance -&gt; loss of fear response -&gt; habituation</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; <b>context-shift</b> -&gt; describes natural aggression for protection, but passage says this can be <i>avoided</i> by staying away, not about habituation</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; <b>scope-error</b> -&gt; climate change causes more contact but passage doesn't link this specifically to habituation - it's about general conflicts</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: habituation is specifically about animals <i>getting comfortable</i> with humans, not just having more conflicts. Only Option 2 explains this comfort-building process through food dependency.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/21",
+      "passage_id": "passage_11"
+    },
+    {
+      "question_number": "22",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "VA",
+      "sub_topic_tag": "Odd One Out",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">No known real researcher of human behaviour would say that gender is all nature or all nurture.</li>\n<li node=\"[object Object]\">The evidence for a biological basis for gender certainly doesn't mean we should be complacent in the face of sexism.</li>\n<li node=\"[object Object]\">Many people are uncomfortable with the Idea that gender Is not purely a social construct.</li>\n<li node=\"[object Object]\">Despite this empirical truth, researchers who study the biological basis of gender often face political pushback.</li>\n<li node=\"[object Object]\">There's a political preference for gender to be only a reflection of social factors and so entirely malleable.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"No known real researcher of human behaviour would say that gender is all nature or all nurture\"</p>\n<div style=\"height:10px\"></div>\n<p>This sentence 1 sets up the main idea -&gt; Gender is <i>both</i> biological and social, not just one.</p>\n<div style=\"height:10px\"></div>\n<p>Sentence 3 -&gt; People feel uncomfortable when gender isn't <i>purely</i> social</p>\n<p>Sentence 4 -&gt; Because of this discomfort, researchers face <i>political pushback</i></p>\n<p>Sentence 5 -&gt; Explains <i>why</i> the pushback happens -&gt; People prefer gender to be only social</p>\n<div style=\"height:10px\"></div>\n<p><b>Flow:</b> 1 → 3 → 4 → 5 creates a clear story about the nature vs nurture debate and political resistance.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Now checking sentence 2:</b> \"The evidence for a biological basis for gender certainly doesn't mean we should be complacent in the face of sexism\"</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Sentence 2</b> -&gt; <i>context-shift</i> -&gt; Suddenly talks about <b>sexism</b> and being <i>complacent</i>, which is completely different from the main discussion about whether gender is biological or social. The other sentences focus on the <i>research debate</i>, but this one jumps to <i>fighting discrimination</i>.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Sentences 1, 3, 4, 5</b> -&gt; Stay focused on the <i>same topic</i> -&gt; The ongoing debate about gender being biological vs social and the political issues around this research.</p>\n<div style=\"height:10px\"></div>\n<p><b>Answer: 2</b></p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/22",
+      "passage_id": "passage_12"
+    },
+    {
+      "question_number": "23",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "VA",
+      "sub_topic_tag": "Sentence Placement",
+      "difficulty": "",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>There is a sentence that is missing in the paragraph below. Look at the paragraph and decide where (option 1, 2, 3, or 4) the following sentence would best fit.</p>\n<div style=\"height:10px\"></div>\n<p>Paragraph: My fellow night owls, grab a strong cup of coffee and gather around: I have great news ___ (1) ___ . For a long time, our kind has been unfairly maligned. Stereotyped as lazy and undisciplined. Told we ought to be morning larks. Advised to go to bed early so we can wake before 5am and run a marathon before breakfast like all high-flyers seem to do. Now, however, we are having the last laugh ___ (2) ___ .It may be a tad more complicated than that. A study published last week, which you may have already seen while scrolling at lam, suggests that staying up late could be good for brain power ___ (3) ___ .Is this study a thinly veiled PR exercise conducted by a caffeine-pill company? Nope, it's legit ___ (4) ___ . Research led by academics at Imperial College London studied data on more than 26,000 people and found that “self-declared 'night owls' generally tend to have higher cognitive scores\".</p>\n<div style=\"height:10px\"></div>\n<p>Sentence: Science has officially crowned us superior to our early-rising brethren.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option 2"
+        },
+        {
+          "label": "B",
+          "text": "Option 4"
+        },
+        {
+          "label": "C",
+          "text": "Option 3"
+        },
+        {
+          "label": "D",
+          "text": "Option 1"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"My fellow night owls, grab a strong cup of coffee and gather around: I have great news ___ (1) ___. For a long time, our kind has been unfairly maligned... Now, however, we are having the last laugh ___ (2) ___.\"</p>\n<div style=\"height:10px\"></div>\n<p>The sentence announces that <b>science has declared night owls superior</b> -&gt; this is clearly the <i>\"great news\"</i> mentioned at the start -&gt; it explains <b>why</b> night owls can now have the last laugh.</p>\n<div style=\"height:10px\"></div>\n<p>The flow works like this: Introduction -&gt; Great news announcement -&gt; <i>Insert sentence here</i> -&gt; \"Now we're having the last laugh\" makes perfect sense as a result.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 <strong>Position 2</strong> -&gt; Perfect fit -&gt; \"Science has officially crowned us superior...\" provides the exact claim that the next sentence qualifies -&gt; \"It may be a tad more complicated than that.\" Here, \"that\" clearly refers to the sweeping claim of superiority, making the transition smooth and logical.</p>\n<div style=\"height:10px\"></div>\n<p>🟡 <strong>Position 1</strong> -&gt; Tempting but weaker -&gt; It completes the \"great news\" announcement, but later the sentence \"It may be a tad more complicated than that.\" is left without a clear antecedent, making the transition less coherent.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <strong>Position 3</strong> -&gt; Context mismatch -&gt; The passage has already moved on to discussing the study's findings. Inserting the celebratory claim here interrupts the explanation of the research.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <strong>Position 4</strong> -&gt; Too late -&gt; By this point, the passage is confirming the study's credibility. The declaration of \"superiority\" is no longer appropriate, as the discussion has shifted from the claim to the evidence.</p>\n<div style=\"height:10px\"></div>\n<p>The sentence is immediately qualified by \"It may be a tad more complicated than that.\", so it should appear just before it. This creates the strongest logical connection and gives \"that\" a clear referent.</p>\n<div style=\"height:10px\"></div>\n<p>Answer: Position 2</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/23",
+      "passage_id": "passage_13"
+    },
+    {
+      "question_number": "24",
+      "section": "VARC",
+      "year": 2024,
+      "slot": "slot-2",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>John Cleese told Fox News Digital that comedians do not have the freedom to be funny in 2022. \"There's always been limitations on what they're allowed to say,\" Cleese said. “I think it's particularly worrying at the moment because you can only create in an atmosphere of freedom, where you're not checking everything you say critically before you move on. What you have to be able to do is to build without knowing where you're going because you've never been there before. That's what creativity is you have to be allowed to build. And a lot of comedians now are sitting there and when they think of something, they say something like, ‘Can I get away with it? I don't think so. So and so got into trouble, and he said that, oh, she said that.' You see what I mean? And that's the death of creativity.\"</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Freedom and creativity are essential for comedy. Fear about offending people hinders originality."
+        },
+        {
+          "label": "B",
+          "text": "Comedians must not check what they think and say. They must go where no one has gone before."
+        },
+        {
+          "label": "C",
+          "text": "Comedians are being prevented from saying what they want and that is the death of this art form."
+        },
+        {
+          "label": "D",
+          "text": "Creativity and critical thinking cannot work together. Comedians must first be creative, and later be critical."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find what <b>John Cleese's main message</b> is about comedy and creativity.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"you can only create in an atmosphere of freedom, where you're not checking everything you say critically before you move on\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"a lot of comedians now are sitting there and when they think of something, they say something like, 'Can I get away with it? I don't think so'\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage shows two key ideas: <b>freedom is needed for creativity</b> -&gt; and <b>fear of getting in trouble stops comedians from being creative</b> -&gt; this creates <i>self-censorship</i> that kills comedy.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Let's walk through the confusion we often have between <i>similar-looking options</i>:</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> -&gt; <b>correct</b> -&gt; captures both main points: freedom + creativity are essential AND fear about offending people stops originality. This matches exactly what Cleese says.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 2</b> -&gt; <b>scope-error</b> -&gt; focuses too much on \"going where no one has gone before\" but completely misses the main point about <i>fear and self-censorship</i>. The passage isn't just about exploration.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3</b> -&gt; <b>degree-error</b> -&gt; says \"death of this art form\" which is too extreme. Cleese specifically says \"death of <i>creativity</i>\" not the entire art form dying.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4</b> -&gt; <b>context-shift</b> -&gt; totally misunderstands the passage. It's not about <i>timing</i> when to be creative vs critical. It's about not being able to create freely because of fear.</p>\n<div style=\"height:10px\"></div>\n<p>The key is recognizing that Cleese talks about <b>two problems</b>: lack of freedom AND fear-based self-censorship. Only Option 1 addresses both parts completely.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2024/slot-2/VARC/24",
+      "passage_id": "passage_14"
+    }
+  ]
+}

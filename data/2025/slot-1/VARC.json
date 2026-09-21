@@ -1,0 +1,918 @@
+{
+  "meta": {
+    "year": 2025,
+    "slot": "slot-1",
+    "section": "VARC",
+    "source_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+    "total_questions": 24,
+    "scraped_at": "2026-09-21T06:50:12Z"
+  },
+  "passages": {
+    "passage_1": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        1
+      ]
+    },
+    "passage_2": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Often the well intentioned music lover or the traditionally-minded professional composer asks two basic questions when faced with the electronic music phenomena: (1) . . . is this type of artistic creation music at all? and, (2) given that the product is accepted as music of a new type or order, is not such music “inhuman”? . . . As Lejaren Hiller points out in his book Experimental Music (coauthor Leonard M. Isaacson), two questions which often arise when music is discussed are: (a) the substance of musical communication and its symbolic and semantic significance, if any, and (b) the particular processes, both mental and technical, which are involved in creating and responding to musical composition. The ever-present popular concept of music as a direct, open, emotional expression and as a subjective form of communication from the composer, is, of course still that of the nineteenth century, when composers themselves spoke of music in those terms . . . But since the third decade of our century many composers have preferred more objective definitions of music, epitomized in Stravinsky’s description of it as “a form of speculation in terms of sound and time”. An acceptance of this more characteristic twentieth-century view of the art of musical composition will of course immediately bring the layman closer to an understanding of, and sympathetic response to, electronic music, even if the forms, sounds and approaches it uses will still be of a foreign nature to him.</p>\n<div style=\"height:10px\"></div>\n<p>A communication problem however will still remain. The principal barrier that electronic music presents at large, in relation to the communication process, is that composers in this medium are employing a new language of forms . . . where terms like ‘densities’, ‘indefinite pitch relations’, ‘dynamic serialization’, ‘permutation’, etc., are substitutes (or remote equivalents) for the traditional concepts of harmony, melody, rhythm, etc. . . . When the new structural procedures of electronic music are at last fully understood by the listener the barriers between him and the work he faces will be removed. . . .</p>\n<div style=\"height:10px\"></div>\n<p>The medium of electronic music has of course tempted many kinds of composers to try their hand at it . . . But the serious-minded composer approaches the world of electronic music with a more sophisticated and profound concept of creation. Although he knows that he can reproduce and employ melodic, rhythmic patterns and timbres of a traditional nature, he feels that it is in the exploration of sui generis languages and forms that the aesthetic magic of the new medium lies. And, conscientiously, he plunges into this search.</p>\n<div style=\"height:10px\"></div>\n<p>The second objection usually levelled against electronic music is much more innocent in nature. When people speak—sometimes very vehemently—of the ‘inhuman’ quality of this music they seem to forget that the composer is the one who fires the machines, collects the sounds, manipulates them, pushes the buttons, programs the computer, filters the sounds, establishes pitches and scales, splices tape, thinks of forms, and rounds up the over-all structure of the piece, as well as every detail of it.</p></div>",
+      "images": [],
+      "question_numbers": [
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "passage_3": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        6
+      ]
+    },
+    "passage_4": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        7
+      ]
+    },
+    "passage_5": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        8
+      ]
+    },
+    "passage_6": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>How can we know what someone else is thinking or feeling, let alone prove it in court? In his 1863 book, A General View of the Criminal Law of England, James Fitzjames Stephen, among the most celebrated legal thinkers of his generation, was of the opinion that the assessment of a person’s mental state was an inference made with “little consciousness.” In a criminal case, jurors, doctors, and lawyers could watch defendants—scrutinizing clothing, mannerisms, tone of voice—but the best they could hope for were clues. . . . Rounding these clues up to a judgment about a defendant’s guilt, or a defendant’s life, was an act of empathy and imagination. . . . The closer the resemblance between defendants and their judges, the easier it was to overlook the gap that inference filled. Conversely, when a defendant struck officials as unlike themselves, whether by dint of disease, gender, confession, or race, the precariousness of judgments about mental state was exposed.</p>\n<div style=\"height:10px\"></div>\n<p>In the nineteenth century, physicians who specialized in the study of madness and the care of the insane held themselves out as experts in the new field of mental science. Often called alienists or mad doctors, they were the predecessors of modern psychiatrists, neurologists, and psychologists. . . . The opinions of family and neighbors had once been sufficient to sift the sane from the insane, but a growing belief that insanity was a subtle condition that required expert, medical diagnosis pushed physicians into the witness box. . . . Lawyers for both prosecution and defense began to recruit alienists to assess defendants’ sanity and to testify to it in court.</p>\n<div style=\"height:10px\"></div>\n<p>Irresponsibility and insanity were not identical, however. Criminal responsibility was a legal concept and not, fundamentally, a medical one. Stephen explained: “The question ‘What are the mental elements of responsibility?’ is, and must be, a legal question. It cannot be anything else, for the meaning of responsibility is liability to punishment.” . . . Nonetheless, medical and legal accounts of what it meant to be mentally sound became entangled and mutually referential throughout the nineteenth century. Lawyers relied on medical knowledge to inform their opinions and arguments about the sanity of their clients. Doctors commented on the legal responsibility of their patients. Ultimately, the fields of criminal law and mental science were both invested in constructing an image of the broken and damaged psyche that could be contrasted with the whole and healthy one. This shared interest, and the shared space of the criminal courtroom, made it nearly impossible to consider responsibility without medicine, or insanity without law. . . .</p>\n<div style=\"height:10px\"></div>\n<p>Physicians and lawyers shared more than just concern for the mind. Class, race, and gender bound these middle-class, white, professional men together, as did family ties, patriotism, Protestantism, business ventures, the alumni networks of elite schools and universities, and structures of political patronage. But for all their affinities, men of medicine and law were divided by contests over the borders of criminal responsibility, as much within each profession as between them. Alienists steadily pushed the boundaries of their field, developing increasingly complex and capacious definitions of insanity. Eccentricity and aggression came to be classified as symptoms of mental disease, at least by some.</p></div>",
+      "images": [],
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "passage_7": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Understanding the key properties of complex systems can help us clarify and deal with many new and existing global challenges, from pandemics to poverty . . . A recent study in Nature Physics found transitions to orderly states such as schooling in fish (all fish swimming in the same direction), can be caused, paradoxically, by randomness, or ‘noise’ feeding back on itself. That is, a misalignment among the fish causes further misalignment, eventually inducing a transition to schooling. Most of us wouldn’t guess that noise can produce predictable behaviour. The result invites us to consider how technology such as contact-tracing apps, although informing us locally, might negatively impact our collective movement. If each of us changes our behaviour to avoid the infected, we might generate a collective pattern we had aimed to avoid: higher levels of interaction between the infected and susceptible, or high levels of interaction among the asymptomatic.</p>\n<div style=\"height:10px\"></div>\n<p>Complex systems also suffer from a special vulnerability to events that don’t follow a normal distribution or ‘bell curve’. When events are distributed normally, most outcomes are familiar and don’t seem particularly striking. Height is a good example: it’s pretty unusual for a man to be over 7 feet tall; most adults are between 5 and 6 feet, and there is no known person over 9 feet tall. But in collective settings where contagion shapes behaviour – a run on the banks, a scramble to buy toilet paper – the probability distributions for possible events are often heavy-tailed. There is a much higher probability of extreme events, such as a stock market crash or a massive surge in infections. These events are still unlikely, but they occur more frequently and are larger than would be expected under normal distributions.</p>\n<div style=\"height:10px\"></div>\n<p>What’s more, once a rare but hugely significant ‘tail’ event takes place, this raises the probability of further tail events. We might call them second-order tail events; they include stock market gyrations after a big fall and earthquake aftershocks. The initial probability of second-order tail events is so tiny it’s almost impossible to calculate – but once a first-order tail event occurs, the rules change, and the probability of a second-order tail event increases.</p>\n<div style=\"height:10px\"></div>\n<p>The dynamics of tail events are complicated by the fact that they result from cascades of other unlikely events. When COVID-19 first struck, the stock market suffered stunning losses followed by an equally stunning recovery. Some of these dynamics are potentially attributable to former sports bettors, with no sports to bet on, entering the market as speculators rather than investors. The arrival of these new players might have increased inefficiencies and allowed savvy long-term investors to gain an edge over bettors with different goals. . . .</p>\n<div style=\"height:10px\"></div>\n<p>One reason a first-order tail event can induce further tail events is that it changes the perceived costs of our actions and changes the rules that we play by. This game-change is an example of another key complex systems concept: nonstationarity. A second, canonical example of nonstationarity is adaptation, as illustrated by the arms race involved in the coevolution of hosts and parasites [in which] each has to ‘run’ faster, just to keep up with the novel solutions the other one presents as they battle it out in evolutionary time.</p></div>",
+      "images": [],
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    "passage_8": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        17
+      ]
+    },
+    "passage_9": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        18
+      ]
+    },
+    "passage_10": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Studies showing that income inequality plays a positive role in economic growth are largely based on three arguments. The first argument focuses on investment indivisibilities wherein large sunk costs are required when implementing new fundamental innovations. Without stock markets and financial institutions to mobilize large sums of money, a high concentration of wealth is needed for individuals to undertake new industrial activities accompanied by high sunk costs . . . [One study] shows the relation between economic growth and income inequality for 45 countries during 1966-1995. [It was found] that the increase in income inequality has a significant positive relationship with economic growth in the short and medium term. Using system GMM, [another study estimated] the relation between income inequality and economic growth for 106 countries during 1965–2005 period. The results show that income inequality has a positive impact on economic growth in the short run, but the two are negatively correlated in the long run. The second argument is related to moral hazard and incentives . . . Because economic performance is determined by the unobservable level of effort that agents make, paying compensations without taking into account the economic performance achieved by individual agents will fail to elicit optimum effort from the agents. Thus, certain income inequalities contribute to growth by enhancing worker motivation . . . and by giving motivation to innovators and entrepreneurs . . . Finally, [another study] point[s] out that the concentration of wealth or stock ownership in relation to corporate governance contributes to growth. If stock ownership is distributed and owned by a large number of shareholders, it is not easy to make quick decisions due to the conflicting interests among shareholders, and this may also cause a free-rider problem in terms of monitoring and supervising managers and workers. . . .</p>\n<div style=\"height:10px\"></div>\n<p>Various studies have examined the relationships between income inequality and economic growth, and most of these assert that a negative correlation exists between the two. . . . Analyzing 159 countries for 1980–2012, they conclude that there exists a negative relation between income inequality and economic growth; when the income share of the richest 20% of population increases by 1%, the GDP decreases by 0.08%, whereas when the income share of the poorest 20% of population increases by 1%, the GDP increases by 0.38%. Some studies find that inequality has a negative impact on growth due to poor human capital accumulation and low fertility rates . . . while [others] point out that inequality creates political instability, resulting in lower investment. . . . [Some economists] argue that widening income inequality has a negative impact on economic growth because it negatively affects social consensus or social capital formation. One important research topic is the correlation between democratization and income redistribution. [Some scholars] explain that social pressure for income redistribution rises as income inequality increases in a democratic society. In other words, when democratization extends suffrage to a wider class of people, the increased political power of low- and middle-income voters results in broader support for income redistribution and social welfare expansion. However . . . if the rich have more political influence than the poor, the democratic system actually worsens income inequality rather than improving it.</p></div>",
+      "images": [],
+      "question_numbers": [
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    "passage_11": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        23
+      ]
+    },
+    "passage_12": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        24
+      ]
+    }
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "VA",
+      "sub_topic_tag": "Odd One Out",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Five jumbled sentences (labelled 1, 2, 3, 4, and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence out and key in the number of that sentence as your answer.</p>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">Developments both technological and sociocultural have afforded us far greater freedom over death than we had in the past, and while we are still adapting ourselves to that freedom, we now appreciate the moral importance of this freedom.</li>\n<li node=\"[object Object]\">But I believe that a type of freedom we can call freedom over death – that is, a freedom in which we shape the timing and circumstances of how we die – should be central to this conversation.</li>\n<li node=\"[object Object]\">Legalising assisted dying is but a further step in realising this freedom over death.</li>\n<li node=\"[object Object]\">Many people endorse, through their opinions or their choices, our freedom over death encompassing a right to medical assistance in hastening our deaths.</li>\n<li node=\"[object Object]\">Freedom is a notoriously complex and contested philosophical notion, and I won’t pretend to settle any of the big controversies it raises.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The coherent paragraph runs 5-2-1-3: sentence 5 introduces freedom as a complex notion, 2 narrows it to freedom over death as central, 1 explains how it expanded, and 3 closes with assisted dying as a further step. Sentence 4 merely restates that people endorse this right and adds no new link to the chain, making it the redundant odd one out.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/1",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "2",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The goal of the author over the course of this passage is to:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "defend the “serious-minded composer” from Lejaren Hill and Stravinsky."
+        },
+        {
+          "label": "B",
+          "text": "differentiate the modern composer from the nineteenth century composer."
+        },
+        {
+          "label": "C",
+          "text": "defend electronic music from certain common charges."
+        },
+        {
+          "label": "D",
+          "text": "differentiate between electronic music and other forms of music."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 3. The passage is structured around two common objections to electronic music — whether it qualifies as music and whether it is \"inhuman\" — and the author methodically rebuts each one. The first objection is addressed by invoking Stravinsky's objective definition of music and by explaining that the communication barrier will dissolve once listeners learn the new structural language. The second objection is countered in the final paragraph, where the author emphasizes that a human composer controls every aspect of the process. This overall arc of identifying criticisms and then refuting them is precisely what option 3 describes.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (reversed). Hiller and Stravinsky are not opponents of electronic music in the passage; they are cited as supportive authorities. Hiller frames useful analytical questions, and Stravinsky's definition is used to bring listeners closer to appreciating electronic music, so there is nothing to \"defend\" against them.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (half right). The passage does briefly contrast the nineteenth-century subjective view of music with twentieth-century objectivity, but this contrast is only a supporting point in the broader argument defending electronic music, not the overarching goal.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (out of scope). The author's purpose is not to catalog differences between electronic and other music. While new terminology and forms are mentioned, they serve the argument that electronic music is legitimate, not an exercise in classification or differentiation.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/2",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "3",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>What relation does the “communication problem” mentioned in paragraph 2 have to the questions that the author recounts at the beginning of the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The communication problem is what allows us to see electronic music as music because music must be difficult to understand."
+        },
+        {
+          "label": "B",
+          "text": "None; they are unrelated to one another and form parts of different discussions."
+        },
+        {
+          "label": "C",
+          "text": "Unfamiliar forms and terms might get in the way of our seeing electronic music as music, but this can be overcome."
+        },
+        {
+          "label": "D",
+          "text": "Its unfamiliar “language of forms” and novel terms mean that we cannot see electronic music as music since it does not employ traditional musical concepts."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 3. The communication problem in paragraph 2 directly relates to the opening question of whether electronic music qualifies as music at all. Paragraph 2 states that composers in this medium employ \"a new language of forms\" with unfamiliar terms that substitute for traditional concepts, creating a barrier for the listener. However, the paragraph concludes that \"when the new structural procedures of electronic music are at last fully understood by the listener the barriers between him and the work he faces will be removed.\" Option 3 captures both sides of this relationship: the unfamiliar forms and terms can obstruct our recognition of electronic music as music, but the obstacle is not permanent.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (reversed). The passage never suggests that difficulty of understanding is what qualifies something as music. The communication problem is presented as an obstacle to acceptance, not as a validating criterion.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (misreads the passage). The communication problem is explicitly tied to the question of whether electronic music counts as music, since the unfamiliar language of forms impedes the listener's sympathetic response. The two discussions are clearly connected, not separate.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (extreme). While it correctly identifies the unfamiliar language and novel terms as a barrier, it overstates the consequence by claiming we \"cannot\" see electronic music as music. The passage explicitly says these barriers will be removed once listeners understand the new structural procedures, so the impediment is temporary, not absolute.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/3",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "4",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From the context in which it is placed, the phrase “sui generis” in paragraph 3 suggests which one of the following?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Particular"
+        },
+        {
+          "label": "B",
+          "text": "Generic"
+        },
+        {
+          "label": "C",
+          "text": "Indescribable"
+        },
+        {
+          "label": "D",
+          "text": "Unaesthetic"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 1. In paragraph 3, the passage states that the serious composer feels \"it is in the exploration of sui generis languages and forms that the aesthetic magic of the new medium lies.\" The Latin phrase \"sui generis\" literally means \"of its own kind,\" denoting something unique and particular to electronic music rather than borrowed from tradition. The contrast drawn in the same sentence between reproducing \"melodic, rhythmic patterns and timbres of a traditional nature\" and exploring something new confirms that \"sui generis\" points to languages and forms that are particular and distinctive to the medium itself.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (reversed). \"Generic\" implies something common or general, which is the opposite of \"sui generis.\" The passage explicitly contrasts these new forms with traditional, broadly shared musical concepts, so the term signals uniqueness rather than generality.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (out of scope). Nothing in the passage suggests that these languages and forms cannot be described. The composer conscientiously explores them, and the passage itself describes the structural procedures involved, so \"indescribable\" has no textual support.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (keyword trap). The word \"aesthetic\" does appear in the same sentence, but the passage says the \"aesthetic magic\" of the new medium lies precisely in these sui generis forms. Calling them \"unaesthetic\" directly contradicts the passage's claim that they hold artistic value.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/4",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "5",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Culture",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The mention of Stravinsky’s description of music in the first paragraph does all the following EXCEPT:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "respond to and expand upon earlier understandings of music."
+        },
+        {
+          "label": "B",
+          "text": "complicate our notion of what is communicated through music."
+        },
+        {
+          "label": "C",
+          "text": "help us determine which sounds are musical and which are not."
+        },
+        {
+          "label": "D",
+          "text": "allow us to classify electronic music as music."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 3. The passage cites Stravinsky's description of music as \"a form of speculation in terms of sound and time\" to move beyond the nineteenth-century emotional view toward a more objective definition. This redefinition responds to earlier conceptions, reframes what music communicates, and opens the door for electronic music to qualify as music. However, nowhere does the passage suggest that Stravinsky's description provides criteria for sorting musical sounds from non-musical ones. It redefines the art of composition, not the acoustic properties that make a sound \"musical.\" Because option 3 names something the quote does not do, it is the correct EXCEPT answer.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong as a choice for EXCEPT (it matches the passage's use of the quote). The passage explicitly contrasts the nineteenth-century emotional view with Stravinsky's twentieth-century objective view, so the quote directly responds to and expands upon earlier understandings of music.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong as a choice for EXCEPT (it matches the passage's use of the quote). By replacing the idea of music as \"direct, open, emotional expression\" with \"speculation in terms of sound and time,\" the quote complicates our notion of what is communicated through music, shifting from subjective feeling to objective formal inquiry.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong as a choice for EXCEPT (it matches the passage's use of the quote). The passage states that accepting Stravinsky's more objective definition \"will of course immediately bring the layman closer to an understanding of, and sympathetic response to, electronic music,\" thereby allowing electronic music to be classified as music.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/5",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "6",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four summaries. Choose the option that best captures the essence of the passage.</p>\n<p>Zombie cells may contribute to age-related chronic inflammation: this finding could help scientists understand more about the aging process and why the immune system becomes less effective as we get older. Zombie or “senescent” cells are damaged cells that can no longer divide and grow like normal cells. Scientists think that these cells can contribute to chronic health problems when they accumulate in the body. In younger people, the immune system is more effective at clearing senescent cells from the body through a process called apoptosis, but as we age this process becomes less efficient. As a result, there is an accumulation of senescent cells in different organs in the body, either through increased production or reduced clearance by the immune system. The zombie cells continue to use energy though they do not divide, and often secrete chemicals that cause inflammation, which if persistent for longer periods of time can damage healthy cells leading to chronic diseases.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aging leads to less effective apoptosis, and therefore zombie cells start to accumulate in the body, causing inflammation, which accelerates aging and leads to chronic diseases."
+        },
+        {
+          "label": "B",
+          "text": "Dead cells accelerate chronic inflammation weakening the immune system and lead to aging."
+        },
+        {
+          "label": "C",
+          "text": "Senescent “zombie” cells are inactive or malfunctioning cells that can be found throughout the body."
+        },
+        {
+          "label": "D",
+          "text": "A younger person’s immune system is healthy and is able to clear the damaged cells, but as people age, the zombie cells resist apoptosis, and start accumulating in the body."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The full causal chain is: aging weakens apoptosis, senescent cells accumulate, they secrete inflammatory chemicals, and persistent inflammation damages healthy cells and causes chronic disease. Only option 1 captures this whole chain. Option 2 calls them dead (they are alive but non-dividing) and reverses cause, option 3 is a mere definition, and option 4 wrongly says the cells resist apoptosis and omits the disease outcome.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/6",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "7",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parajumbles",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The four sentences (labelled 1, 2, 3, and 4) given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the four numbers as your answer.</p>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">It can in fact be integrated into any function (education, medical treatment, production, punishment); it can increase the effect of this function, by being linked closely with it; it can constitute a mixed mechanism in which relations of power (and of knowledge) may be precisely adjusted, in the smallest detail, to the processes that are to be supervised; it can establish a direct proportion between ‘surplus power’ and ‘surplus production’.</li>\n<li node=\"[object Object]\">It’s a case of ‘it’s easy once you’ve thought of it’ in the political sphere.</li>\n<li node=\"[object Object]\">The panoptic mechanism is not simply a hinge, a point of exchange between a mechanism of power and a function; it is a way of making power relations function in a function, and of making a function function through these power relations.</li>\n<li node=\"[object Object]\">In short, it arranges things in such a way that the exercise of power is not added on from the outside, like a rigid, heavy constraint, to the functions it invests, but is so subtly present in them as to increase their efficiency by itself increasing its own points of contact.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "2143",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Order is 2-1-4-3. Sentence 2 opens with the general claim (‘easy once thought of’), 1 elaborates the many functions the mechanism integrates into, 4 begins ‘In short’ to summarise that integration, and 3 states the overarching definition of the panoptic mechanism as the closing generalisation.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/7",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "8",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four summaries. Choose the option that best captures the essence of the passage.</p>\n<p>In the dynamic realm of creativity, artists often find themselves at the crossroads between drawing inspiration from diverse cultures and inadvertently crossing into the territory of cultural appropriation. Inspiration is the lifeblood of creativity, driving artists to create works that resonate across borders. The globalized nature of the modern world invites artists to draw from a vast array of cultural influences. When approached respectfully, inspiration becomes a bridge, fostering understanding and appreciation of cultural diversity. However, the line between inspiration and cultural appropriation can be thin and easily blurred. Cultural appropriation occurs when elements from a particular culture are borrowed without proper understanding, respect, or acknowledgment. This leads to the commodification of sacred symbols, the reinforcement of stereotypes, and the erasure of the cultural context from which these elements originated. It’s essential to recognize that the impact of cultural appropriation extends beyond the realm of artistic expression, influencing societal perceptions and perpetuating power imbalances.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "In a globalised world, artists must draw from diverse cultural influences to create works that appeal to all, and this results in instances of both inspiration and cultural appropriation."
+        },
+        {
+          "label": "B",
+          "text": "Artists in a globalised world must navigate between drawing inspiration from diverse cultures respectfully and cultural appropriation that involves borrowing without proper acknowledgement which has broader societal impacts including perpetuating power imbalances."
+        },
+        {
+          "label": "C",
+          "text": "In today’s world of creativity, artists have to decide between respectfully acknowledging works that are inspired by diverse cultures and appropriating elements without respect for their contexts."
+        },
+        {
+          "label": "D",
+          "text": "Artists must navigate the thin line between inspiration and cultural appropriation, where respectful inspiration fosters cultural understanding whereas appropriation involves borrowing without acknowledgement leading to commodification and reinforcement of stereotypes."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage's distinctive final point is that appropriation reaches beyond art to shape societal perceptions and perpetuate power imbalances. Option 2 alone retains that broader societal impact while also capturing respectful inspiration versus unacknowledged borrowing. Option 4 stops at commodification and stereotypes, missing the wider power dimension; option 1 distorts the aim as appealing to all; option 3 narrows it to a simple choice.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/8",
+      "passage_id": "passage_5"
+    },
+    {
+      "question_number": "9",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Psychology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The last paragraph of the passage refers to “middle-class, white, professional men”. Which one of the following qualities best describes the connection among them?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Eccentricity and aggression."
+        },
+        {
+          "label": "B",
+          "text": "The borders of criminal responsibility."
+        },
+        {
+          "label": "C",
+          "text": "Empathy and imagination."
+        },
+        {
+          "label": "D",
+          "text": "The opinions of family and neighbours."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 2. The final paragraph identifies physicians and lawyers as \"middle-class, white, professional men\" and notes that beyond their social affinities — class, race, gender, family ties, patriotism, and elite networks — they were bound together by their shared engagement with \"the borders of criminal responsibility.\" This contested terrain was the intellectual and professional preoccupation that most fundamentally connected them, even as it also divided them. Option 2 captures precisely this central, defining connection described in the paragraph.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (keyword trap). \"Eccentricity and aggression\" appears at the very end of the passage as examples of conditions some alienists reclassified as symptoms of mental disease. These are not presented as qualities connecting the professional men to one another but as expanding diagnostic categories.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (out of scope). \"Empathy and imagination\" appears in the first paragraph to describe how jurors arrived at judgments about defendants' mental states. It has no bearing on what connected the physicians and lawyers discussed in the final paragraph.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (out of scope). \"The opinions of family and neighbours\" is mentioned in the second paragraph as something that was historically sufficient to distinguish sanity from insanity, before expert medical diagnosis took over. It does not describe a connection among the professional men referenced in the last paragraph.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/9",
+      "passage_id": "passage_6"
+    },
+    {
+      "question_number": "10",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Psychology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>“Conversely, when a defendant struck officials as unlike themselves, whether by dint of disease, gender, confession, or race, the precariousness of judgments about mental state was exposed.” Which one of the following best describes the use of the word “confession” in this sentence?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The defendants struck out at the officials and then confessed to the act."
+        },
+        {
+          "label": "B",
+          "text": "Referring to the defendant’s confession of his or her crime as false, because ‘dint’ is an archaic form of ‘didn’t’ or ‘did not’."
+        },
+        {
+          "label": "C",
+          "text": "Referring to the gender, race or disease claimed as a defence by the defendant, here it is a synonym for ‘professing’ a gender, race, or disease."
+        },
+        {
+          "label": "D",
+          "text": "Referring to the practice of ‘confession’ in some faiths, here it is a metaphor for the religion of the defendant."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 4. In the quoted sentence, the word \"confession\" appears in a list of identity markers — \"disease, gender, confession, or race\" — that could make a defendant seem fundamentally unlike the officials judging them. Each item in this list names a broad category of personal identity or social difference. In this context, \"confession\" refers to religious denomination or faith tradition, as in the historical usage where one's \"confession\" meant the religious body to which one belonged (e.g., Catholic, Protestant, Dissenter). Option 4 correctly identifies this meaning: it is a metaphor for the defendant's religion, highlighting yet another axis along which judges and defendants could differ.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (out of scope). The sentence is not describing a defendant physically striking officials or confessing to an act of violence. The word \"struck\" here means \"appeared to\" or \"seemed to,\" and nothing in the passage supports a narrative of assault and subsequent confession.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (keyword trap). This option misreads \"dint\" as an archaic contraction of \"did not,\" but \"by dint of\" is a standard English phrase meaning \"by means of\" or \"because of.\" The entire interpretation — that a confession of crime was false — collapses once \"dint\" is read correctly, and the passage makes no reference to false confessions.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (half right). While it correctly recognizes that the list concerns traits distinguishing defendants from officials, it wrongly treats \"confession\" as a synonym for \"professing\" one of the other listed traits. The passage lists disease, gender, confession, and race as separate, distinct categories of difference; collapsing confession into the others eliminates its independent meaning as religious affiliation.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/10",
+      "passage_id": "passage_6"
+    },
+    {
+      "question_number": "11",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Psychology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>According to the passage, who or what was an “alienist”?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Physicians who specialised in the study of madness and the care of the insane in the nineteenth century."
+        },
+        {
+          "label": "B",
+          "text": "Physicians and lawyers who were responsible for the condition of immigrants or ‘aliens’ in the nineteenth century."
+        },
+        {
+          "label": "C",
+          "text": "Physicians and lawyers who were responsible for examining accounts of extraterrestrials or ‘aliens’ in the nineteenth century."
+        },
+        {
+          "label": "D",
+          "text": "Professionals who pushed the boundaries of their fields till they became unrecognisable in the nineteenth century."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 1. Paragraph 2 explicitly states that \"physicians who specialized in the study of madness and the care of the insane held themselves out as experts in the new field of mental science\" and were \"often called alienists or mad doctors.\" Option 1 directly paraphrases this definition, correctly identifying alienists as physicians focused on madness and the insane during the nineteenth century.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (keyword trap). The word \"alienist\" superficially resembles \"alien\" in the sense of immigrant, but the passage never connects alienists to immigration or the care of immigrants. It clearly defines them as specialists in insanity, not in the welfare of foreign nationals.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (out of scope). The passage makes no reference whatsoever to extraterrestrials. This option exploits the surface resemblance between \"alienist\" and \"alien\" in a science-fiction sense, a topic entirely absent from the text.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (half right). Paragraph 4 does note that alienists \"steadily pushed the boundaries of their field,\" but this describes how they expanded definitions of insanity, not what an alienist was. The option also incorrectly includes lawyers in the definition and distorts boundary-pushing into rendering fields \"unrecognisable,\" which the passage does not claim.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/11",
+      "passage_id": "passage_6"
+    },
+    {
+      "question_number": "12",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Psychology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Study the following sets of concepts and identify the set that is conceptually closest to the concerns and arguments of the passage.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Empathy, Prosecution, Knowledge, Business."
+        },
+        {
+          "label": "B",
+          "text": "Judgement, Belief, Accounts, Patronage."
+        },
+        {
+          "label": "C",
+          "text": "Assessment, Empathy, Prosecution, Patriotism."
+        },
+        {
+          "label": "D",
+          "text": "Judgement, Insanity, Punishment, Responsibility."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 4. The passage is fundamentally organized around a set of interlocking concerns: how judgments about a defendant's mental state are formed, how insanity was defined and diagnosed, what criminal responsibility means in law, and how responsibility is equated with liability to punishment. Option 4's set — Judgement, Insanity, Punishment, Responsibility — maps directly onto these central threads. Paragraph 1 discusses judgment of mental states, paragraph 2 addresses insanity and its diagnosis, and paragraph 3 explicitly defines responsibility as \"liability to punishment,\" making all four concepts in this set core to the passage's argument.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (half right). While \"empathy\" and \"prosecution\" do appear in the passage, \"knowledge\" is only loosely relevant, and \"business\" is mentioned just once in passing in the final paragraph as a minor social tie between professionals. The set as a whole does not capture the passage's central conceptual architecture.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (keyword trap). Words like \"judgement,\" \"belief,\" \"accounts,\" and \"patronage\" can each be located somewhere in the text, but \"patronage\" is a peripheral detail about shared social backgrounds in paragraph 4, and \"accounts\" refers narrowly to one phrase in paragraph 3. Together these four concepts do not represent the passage's driving argument.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (keyword trap). \"Assessment\" and \"empathy\" connect to paragraph 1, and \"prosecution\" appears in paragraph 2, but \"patriotism\" is an incidental detail from the final paragraph's list of social bonds. Including it alongside three somewhat relevant terms does not yield a set that reflects the passage's core concerns about criminal responsibility and insanity.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/12",
+      "passage_id": "passage_6"
+    },
+    {
+      "question_number": "13",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the options below best summarises the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The passage explains how social outcomes generally follow normal distributions. So, extreme events are negligible, and policy should stabilise averages rather than learn from large shocks in fast-changing collective settings."
+        },
+        {
+          "label": "B",
+          "text": "The passage explains how speculative entrants always produce inefficiency after health shocks. Therefore, long-term investors invariably profit when new participants push prices away from fundamentals under pandemic conditions and comparable crises."
+        },
+        {
+          "label": "C",
+          "text": "The passage explains how nonstationarity works in evolutionary biology and rejects applications in markets or public health because adaptation is exclusive to parasite-host systems and cannot arise in technology-mediated social dynamics."
+        },
+        {
+          "label": "D",
+          "text": "The passage explains how noise can create order, then shows why complex systems with contagion are vulnerable to heavy-tailed cascades. It also explains why early shocks change rules through nonstationarity with a market illustration during the COVID-19 disruption."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 4. The passage progresses through a clear sequence: it opens with the paradox that randomness can produce orderly states such as fish schooling, then introduces the vulnerability of complex systems to heavy-tailed distributions where extreme events are far more likely than a bell curve would predict. It next explains how a first-order tail event raises the probability of second-order tail events, illustrating this with the COVID-19 stock market disruption and the entry of sports bettors as speculators. Finally, it introduces nonstationarity as the concept that explains why initial shocks change the rules of the game, citing the evolutionary arms race as a canonical example. Option 4 faithfully captures this entire arc without distortion.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (reversed). The passage explicitly argues that social outcomes in contagion-driven collective settings do not follow normal distributions but instead exhibit heavy tails, making extreme events significant rather than negligible. This option inverts the passage's central warning.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (extreme). The passage mentions former sports bettors as one possible factor behind post-crash market dynamics and hedges the claim with \"potentially attributable.\" It never states that speculative entrants \"always\" produce inefficiency or that long-term investors \"invariably\" profit; both absolutes far overshoot the tentative language of the text.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (out of scope). The passage uses parasite-host coevolution as a \"canonical example\" of nonstationarity but never restricts the concept to evolutionary biology. On the contrary, it applies nonstationarity to markets and social dynamics, and it explicitly connects technology-mediated behaviour such as contact-tracing apps to complex-systems thinking. The claim that the passage \"rejects\" these applications is fabricated.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/13",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "14",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage suggests that contact tracing apps could inadvertently raise risky interactions by altering local behaviour. Which one of the assumptions below is most necessary for that suggestion to hold?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Individuals base movement choices partly on observed infections and on the behaviour of others. So, local responses interact, which turns many small adjustments into large scale patterns that can frustrate the intended aim of risk reduction."
+        },
+        {
+          "label": "B",
+          "text": "Most users uninstall apps within a week, which leaves only highly exposed individuals participating. This neutralises any systematic bias in routing decisions and prevents any predictable change in aggregate contact patterns."
+        },
+        {
+          "label": "C",
+          "text": "Urban networks have uniform traffic conditions at all hours, which allows perfectly predictable routing independent of personal choices, social signals, or crowd reactions and, therefore, makes interdependence negligible in city movement decisions."
+        },
+        {
+          "label": "D",
+          "text": "App alerts always include precise location to within one metre and deliver real time updates for all users, which ensures that the data feed is perfectly accurate regardless of privacy settings, power limits, or network conditions."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 1. The passage draws an explicit analogy between fish schooling and contact-tracing apps: small local adjustments by individuals feed back on one another and produce an unintended collective pattern. For the suggestion that apps could raise risky interactions to hold, it must be true that people's local movement decisions are interdependent and can aggregate into large-scale outcomes. Option 1 captures precisely this necessary assumption — that individuals respond to observed infections and to each other's behaviour, and that these responses interact to generate emergent patterns that can undercut the goal of reducing risk. This mirrors the passage's first paragraph, where local avoidance of the infected paradoxically produces higher collective contact between infected and susceptible people.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (reversed). If most users uninstall the app quickly and no systematic bias in routing remains, then there is no mechanism by which the app could generate a harmful collective pattern. This assumption would neutralise the very effect the passage describes rather than support it.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (out of scope). Claiming that urban traffic is uniform and that personal choices are irrelevant directly contradicts the interdependence the passage requires. If movement is perfectly predictable and independent of social signals, individual behavioural adjustments cannot cascade into unintended aggregate patterns.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (keyword trap). It latches onto the technology of the app but shifts the issue to data accuracy, which the passage never raises. Perfect precision of alerts is not what drives the harmful collective effect; rather, it is the feedback among individual responses. Even with imperfect data, interdependent local reactions could still produce the problematic pattern the passage describes.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/14",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "15",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>All of the following inferences are supported by the passage EXCEPT that:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "learning can change the rules that actors face. So, a rare shock can alter payoffs and raise the odds of subsequent large disturbances within the same system, which supports the idea of second-order tail events."
+        },
+        {
+          "label": "B",
+          "text": "heavy-tailed events make extreme outcomes more frequent and larger than bell curve expectations. This complicates forecasting and risk management in collective settings shaped by contagion and copying behaviour."
+        },
+        {
+          "label": "C",
+          "text": "examples like runs on banks and toilet paper scrambles illustrate how contagion can amplify local choices into system-wide cascades that surprise participants and lead to patterns they did not intend to create."
+        },
+        {
+          "label": "D",
+          "text": "the text attributes the COVID-19 pandemic rebound in financial markets solely to displaced sports bettors and treats their entry as the overriding cause of the rapid recovery across assets and time horizons."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 4. This is an EXCEPT question, so the correct choice is the one NOT supported by the passage. Option 4 claims the text attributes the post-COVID market rebound \"solely\" to displaced sports bettors and treats their entry as \"the overriding cause\" of the rapid recovery. The passage, however, uses carefully hedged language: \"Some of these dynamics are potentially attributable to former sports bettors.\" The word \"some\" and the qualifier \"potentially\" show the author is floating one partial explanation, not declaring a single definitive cause. Option 4 drastically overstates this tentative suggestion.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong as a choice for EXCEPT (it matches the passage). The fifth paragraph explicitly states that a first-order tail event \"changes the perceived costs of our actions and changes the rules that we play by,\" which can induce further tail events, directly supporting the inference about learning, altered payoffs, and second-order disturbances.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong as a choice for EXCEPT (it matches the passage). The second paragraph explains that heavy-tailed distributions produce \"a much higher probability of extreme events\" that \"occur more frequently and are larger than would be expected under normal distributions,\" and it ties this to collective settings shaped by contagion, directly supporting this inference.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong as a choice for EXCEPT (it matches the passage). The passage uses bank runs and toilet paper scrambles as examples of contagion-driven behaviour in collective settings, and the first paragraph discusses how local behavioural changes can \"generate a collective pattern we had aimed to avoid,\" supporting the idea that local choices cascade into unintended system-wide patterns.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/15",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "16",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following observations would most strengthen the passage’s claim that a first-order tail event raises the probability of further tail events in complex systems?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "River discharge records show water levels fit a normal distribution with thin tails that match laboratory data, regardless of storms or floods."
+        },
+        {
+          "label": "B",
+          "text": "After a major equity crash, researchers find dense clusters of large daily moves for several weeks, with extreme days occurring far more often than in normal circumstances for assets with customarily low volatility profiles."
+        },
+        {
+          "label": "C",
+          "text": "Following large earthquakes, regional seismic activity returns to baseline within hours with no aftershock sequence once data are adjusted for reporting effects, which suggests independence across events rather than any elevation in subsequent tail probabilities."
+        },
+        {
+          "label": "D",
+          "text": "In epidemic networks, initial super-spreading episodes are isolated spikes after which outbreak sizes match the baseline distribution from independent contact models across comparable cities with no rise in the frequency or size of later extreme clusters."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 2. The passage argues that once a rare, extreme \"first-order tail event\" occurs, the probability of further extreme events increases, citing stock market gyrations after a big fall and earthquake aftershocks as examples. Option 2 directly strengthens this claim by providing empirical evidence: after a major equity crash, researchers observe dense clusters of large daily moves persisting for several weeks, with extreme days occurring far more often than normal. This is precisely the pattern the passage describes — a first-order tail event (the crash) elevating the frequency of subsequent tail events (the clustered large moves) — and it does so with concrete data on assets that customarily have low volatility, ruling out the possibility that such clustering is routine.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (out of scope). It describes river discharge data fitting a normal, thin-tailed distribution regardless of storms. This concerns a system governed by normal distributions, which is irrelevant to the passage's claim about heavy-tailed distributions and cascading tail events in complex systems.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (reversed). It states that after large earthquakes, seismic activity returns to baseline with no aftershock sequence, suggesting event independence. This directly contradicts and weakens the passage's claim rather than strengthening it, since the passage explicitly cites earthquake aftershocks as an example of second-order tail events.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (reversed). It describes super-spreading episodes as isolated spikes after which outbreak sizes revert to baseline with no rise in later extreme clusters. Like option 3, this portrays tail events as independent rather than cascading, which would weaken rather than strengthen the passage's argument that first-order tail events elevate the probability of further extremes.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/16",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "17",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "VA",
+      "sub_topic_tag": "Sentence Placement",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The given sentence is missing in the paragraph below. Decide where it best fits among the options 1, 2, 3, or 4 indicated in the paragraph.</p>\n<p>Sentence: \"Everything is old-world, traditional techniques from Mexico,\" Ava emphasizes.</p>\n<p>Paragraph: The sisters embrace the ways their great-grandfather built and repaired instruments. ____(1) ____. When crafting a Mexican guitarrón used in mariachi music, they use tacote wood for the top of the instrument. Once the wood is cut, they carve the neck and heel from a single block using tools like hand saws, chisels and sandpaper rather than modern power tools — and believe that this traditional method improves the tone of the instrument. ____(2) ____. Their store has a three-year waitlist for instruments that take months to create. ____(3) ____. The family's artisanship has attracted stars like Los Lobos, who own custom guitars made by all three generations of the Delgado family. ____(4) ____. For the sisters, involvement in the family business started at an early age. They each built their first instruments at age 9.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option 4"
+        },
+        {
+          "label": "B",
+          "text": "Option 3"
+        },
+        {
+          "label": "C",
+          "text": "Option 1"
+        },
+        {
+          "label": "D",
+          "text": "Option 2"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The missing line, Ava stressing “old-world, traditional techniques from Mexico,” directly supports the opening claim that the sisters embrace their great-grandfather’s ways and introduces the traditional-method details that follow. It fits best at blank (1). Among the answer choices, the one labelled ‘Option 1’ is the third listed choice, so the correct response is option 3.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/17",
+      "passage_id": "passage_8"
+    },
+    {
+      "question_number": "18",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "VA",
+      "sub_topic_tag": "Sentence Placement",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The given sentence is missing in the paragraph below. Decide where it best fits among the options 1, 2, 3, or 4 indicated in the paragraph.</p>\n<p>Sentence: Historically, silver has been, and still is, an important element in the business of 'show' visible in private houses, churches, government and diplomacy.</p>\n<p>Paragraph: ____(1) ____. Timothy Schroder put it succinctly in suggesting that electric light and eating in the kitchen eroded this need. As he explained to the author, 'Silver, when illuminated by flickering candlelight, comes alive and almost dances before the eyes, but when lit by electric light it becomes flat and dead.' ____(2) ____. Domestic and economic changes may have worked against the market, but the London silver trade remained buoyant, thanks to the competition of collectors seeking grand display silver at the top end, and the buyers of 'collectables', like spoons and wine labels and 'novelties', at the bottom. ____(3) ____. Another factor that came into play was the systematic collection building of certain American museums over the period. Boston, Huntington Art Gallery and Williamsburg, among others, were largely supplied by London dealers. ____(4) ____.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Option 1"
+        },
+        {
+          "label": "B",
+          "text": "Option 3"
+        },
+        {
+          "label": "C",
+          "text": "Option 2"
+        },
+        {
+          "label": "D",
+          "text": "Option 4"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The missing sentence establishes silver’s role in display (‘show’). The next line refers to ‘this need’ that electric light eroded, which must refer back to the display function just introduced. So the sentence belongs at blank (1), and the answer choice naming ‘Option 1’ is the first listed choice, making the correct response option 1.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/18",
+      "passage_id": "passage_9"
+    },
+    {
+      "question_number": "19",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Economy",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage refers to \"democratization\". Choose the one option below that comes closest to the opposite of this process.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Municipalities adopted participatory budgeting and recall elections which a press release called totalitarianism."
+        },
+        {
+          "label": "B",
+          "text": "The coalition imposed term limits and strengthened judicial review in order to further entrench autocratic rule."
+        },
+        {
+          "label": "C",
+          "text": "After the emergency decree, the regime shifted toward authoritarianism as suffrage narrowed and opposition parties were deregistered."
+        },
+        {
+          "label": "D",
+          "text": "Corporate donations were capped and parties received public funding which was portrayed as establishing an oligarchy."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 3. The passage defines democratization as the process that \"extends suffrage to a wider class of people\" and increases the political power of broader segments of the population. The opposite of this process would therefore be a genuine contraction of suffrage and political participation. Option 3 describes exactly such a reversal: an emergency decree leads to narrowed suffrage, deregistration of opposition parties, and a shift toward authoritarianism. Every element in option 3 moves in the direction directly opposed to the passage's characterization of democratization.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (keyword trap). The scenario describes participatory budgeting and recall elections, which are inherently democratic mechanisms that expand citizen involvement. The label \"totalitarianism\" appears only in a press release and does not change the fact that the actual actions described are pro-democratic, not anti-democratic.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (half right). Term limits and strengthened judicial review are standard democratic safeguards designed to check executive power. The phrase \"entrench autocratic rule\" is tacked on as a label, but the concrete measures described are democratic in nature, not genuinely authoritarian.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (keyword trap). Capping corporate donations and providing public funding to parties are reforms that broaden democratic participation by reducing the outsized influence of wealth. Calling this an \"oligarchy\" contradicts the substance of the measures, which are democratizing rather than anti-democratic.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/19",
+      "passage_id": "passage_10"
+    },
+    {
+      "question_number": "20",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Economy",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The primary function of the three-part case for a positive income inequality–economic growth link in the first half of the passage is to show that:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "inequality boosts growth in every period and type of economy, regardless of finance or governance conditions."
+        },
+        {
+          "label": "B",
+          "text": "inequality can aid short-term growth in settings with high sunk costs, incentive alignment, and concentrated ownership."
+        },
+        {
+          "label": "C",
+          "text": "mature stock markets make wealth concentration unnecessary, yet they might still be harmful to investment."
+        },
+        {
+          "label": "D",
+          "text": "dispersed ownership speeds corporate decision-making and removes free rider problems."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 2. The first half of the passage presents three distinct arguments for a positive link between income inequality and economic growth: the need for wealth concentration to fund large sunk-cost innovations in the absence of mature financial institutions, the role of performance-based compensation in eliciting optimal effort, and the governance advantages of concentrated stock ownership. Crucially, the empirical evidence cited notes that the positive relationship holds \"in the short and medium term\" or \"in the short run,\" while one study finds a negative correlation in the long run. Option 2 accurately reflects this conditional, short-term framing and names all three enabling conditions.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (extreme). The passage explicitly notes that the positive effect is limited to the short and medium term, and one study finds a negative correlation in the long run. Claiming inequality boosts growth \"in every period and type of economy, regardless of finance or governance conditions\" directly contradicts the conditional nature of the arguments presented.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (reversed). The passage states that without stock markets and financial institutions, wealth concentration is needed to fund large innovations. It does not claim that mature stock markets make concentration unnecessary, nor does it suggest stock markets are harmful to investment.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (reversed). The passage argues the opposite: dispersed ownership creates conflicting interests among shareholders and causes free-rider problems in monitoring. Concentrated, not dispersed, ownership is presented as beneficial for quick decision-making and effective governance.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/20",
+      "passage_id": "passage_10"
+    },
+    {
+      "question_number": "21",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Economy",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the options below best summarises the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The passage confines its discussion to financing gaps and corporate control while undercutting cross country evidence and overlooking the significance of concerns regarding human capital accumulation, fertility rates, and income redistribution under democratisation."
+        },
+        {
+          "label": "B",
+          "text": "The passage claims that evaluating the effect of income inequality on economic growth without considering both short- and long-term consequences is misguided."
+        },
+        {
+          "label": "C",
+          "text": "The passage outlines investment, incentive, and governance channels through which income inequality may support economic growth and reports short-term gains while noting long-term drawbacks."
+        },
+        {
+          "label": "D",
+          "text": "The passage argues that income inequality accelerates economic growth while also emphasising the significance of concerns regarding human capital accumulation, fertility rates, and political instability."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 3. The passage is structured in two broad halves. The first half presents three arguments for a positive role of income inequality in economic growth: investment indivisibilities requiring concentrated wealth, moral hazard and incentive considerations that link pay to performance, and concentrated stock ownership aiding corporate governance. Within this discussion, empirical studies note a positive short-run relationship but a negative long-run correlation. The second half surveys research asserting a negative relationship between inequality and growth, citing human capital, fertility, political instability, and redistribution pressures. Option 3 accurately captures this dual structure by referencing the three channels, the short-term gains, and the long-term drawbacks.</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is wrong (half right). It correctly mentions financing and corporate control but claims the passage \"confines\" itself to those topics and \"overlooks\" human capital, fertility, and redistribution concerns. The passage explicitly discusses all of these in its second half, so the characterization is factually wrong.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (extreme). While one cited study does distinguish short- and long-run effects, reducing the entire passage to a single methodological warning about time horizons ignores the substantive discussion of multiple channels, empirical findings, and political dynamics that make up the bulk of the text.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (reversed). It states the passage \"argues that income inequality accelerates economic growth,\" which misrepresents the passage's balanced treatment. The passage presents arguments on both sides and reports that most studies find a negative correlation; it does not endorse a one-directional claim that inequality accelerates growth.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/21",
+      "passage_id": "passage_10"
+    },
+    {
+      "question_number": "22",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Economy",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>According to the incentive or moral hazard argument, which one of the designs below is most consistent with the claim that some inequality can raise growth?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Pay rewards on verifiable performance for highly productive workers."
+        },
+        {
+          "label": "B",
+          "text": "Wages are determined by tenure rather than output to ensure equity."
+        },
+        {
+          "label": "C",
+          "text": "A regime that concentrates stock ownership in relation to corporate governance."
+        },
+        {
+          "label": "D",
+          "text": "Rents protected by market power that enlarge top incomes without linking pay to results."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The correct answer is option 1. The passage's moral hazard and incentive argument, presented in the second argument of the first paragraph, states that \"paying compensations without taking into account the economic performance achieved by individual agents will fail to elicit optimum effort.\" The logic is that linking pay to observable performance elicits greater effort, thereby contributing to growth. Option 1, which ties pay rewards to verifiable performance for highly productive workers, directly mirrors this mechanism: compensation is contingent on measurable output, creating the inequality-driven incentive the passage describes.</p>\n<div style=\"height:10px\"></div>\n<p>Option 2 is wrong (reversed). Determining wages by tenure rather than output is precisely the kind of compensation structure the moral hazard argument warns against. The passage says that ignoring individual economic performance in pay decisions fails to elicit optimum effort, so tenure-based pay contradicts rather than supports the incentive claim.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is wrong (keyword trap). Concentrating stock ownership in corporate governance is indeed discussed in the passage, but it belongs to the third argument about corporate governance and free-rider problems, not to the moral hazard and incentive argument. The question specifically asks about the incentive argument, so this option attaches a valid passage concept to the wrong reasoning strand.</p>\n<div style=\"height:10px\"></div>\n<p>Option 4 is wrong (out of scope). Rents protected by market power that enlarge top incomes without linking pay to results introduce a scenario the passage never endorses. The moral hazard argument requires a connection between compensation and performance; option 4 explicitly severs that link, making it incompatible with the claim that performance-based inequality raises growth.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/22",
+      "passage_id": "passage_10"
+    },
+    {
+      "question_number": "23",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "VA",
+      "sub_topic_tag": "Odd One Out",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Five jumbled sentences (labelled 1, 2, 3, 4, and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence out and key in the number of that sentence as your answer.</p>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">The Bayeux tapestry was, therefore, an obvious way to tell people about the downfall of the English and the rise of the Normans.</li>\n<li node=\"[object Object]\">So if we take expert in Anglo-Saxon culture Gale Owen-Crocker’s idea that the tapestry was originally hung in a square with certain scenes facing each other, people would have stood in the centre.</li>\n<li node=\"[object Object]\">Art historian Linda Neagley has argued that pre-Renaissance people interacted with art visually, kinaesthetically (sensory perception through bodily movement) and physically.</li>\n<li node=\"[object Object]\">That would make it an 11th-century immersive space with scenes corresponding and echoing each other, drawing the viewer’s attention, playing on their senses and understanding of the story they thought they knew.</li>\n<li node=\"[object Object]\">The Bayeux tapestry would have been hung at eye level to enable this.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The coherent chain is 3-5-2-4, all about how viewers physically experienced the tapestry: Neagley's claim about embodied interaction (3), the eye-level hanging that enables this (5), Owen-Crocker's square layout with viewers in the centre (2), and the resulting immersive space (4). Sentence 1 is about the tapestry's propaganda purpose (telling of the Norman conquest), a different theme, so it is the odd one out.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/23",
+      "passage_id": "passage_11"
+    },
+    {
+      "question_number": "24",
+      "section": "VARC",
+      "year": 2025,
+      "slot": "slot-1",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parajumbles",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The four sentences (labelled 1, 2, 3, and 4) given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the four numbers as your answer.</p>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">But man, woman or otherwise, there is no denying that the quality of our life and character will be significantly shaped by the way we handle our anger.</li>\n<li node=\"[object Object]\">Once the taboos have been broken, women usually experience letting their fists fly as intensely liberating.</li>\n<li node=\"[object Object]\">Though this might seem a stereotype, women—unlike men, who are frequently applauded for unbridled aggression—are often socialized to keep a lid on their ire.</li>\n<li node=\"[object Object]\">Many of them are so at odds with their aggressive feelings that, as a coach, I often have to stop them from pulling their punches and encourage them to extend their arms so their blows might actually reach their fleshy target.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "3421",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Order is 3-4-2-1. Sentence 3 introduces that women are socialized to suppress anger, 4 elaborates with the coach watching them pull punches, 2 describes the liberation once taboos break, and 1 closes with the general ‘man, woman or otherwise’ conclusion about handling anger.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2025/slot-1/VARC/24",
+      "passage_id": "passage_12"
+    }
+  ]
+}

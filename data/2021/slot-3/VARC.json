@@ -1,0 +1,901 @@
+{
+  "meta": {
+    "year": 2021,
+    "slot": "slot-3",
+    "section": "VARC",
+    "source_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+    "total_questions": 24,
+    "scraped_at": "2026-09-21T06:00:48Z"
+  },
+  "passages": {
+    "passage_1": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Back in the early 2000s, an awesome thing happened in the New X-Men comics. Our mutant heroes had been battling giant robots called Sentinels for years, but suddenly these mechanical overlords spawned a new threat: Nano-Sentinels! Not content to rule Earth with their metal fists, these tiny robots invaded our bodies at the microscopic level. Infected humans were slowly converted into machines, cell by cell.</p>\n<div style=\"height:10px\"></div>\n<p>Now, a new wave of extremely odd robots is making at least part of the Nano-Sentinels story come true. Using exotic fabrication materials like squishy hydro gels and elastic polymers, researchers are making autonomous devices that are often tiny and that could turn out to bemore powerful than an army of Terminators. Some are 1-centimetre blobs that can skate overwater. Others are flat sheets that can roll themselves into tubes, or matchstick-sized plastic coils that act as powerful muscles. No, they won't be invading our bodies and turning us into Sentinels – which I personally find a little disappointing – but some of them could one day swim through our bloodstream to heal us. They could also clean up pollutants in water or fold themselves into different kinds of vehicles for us to drive.</p>\n<div style=\"height:10px\"></div>\n<p>Unlike a traditional robot, which is made of mechanical parts, these new kinds of robots are made from molecular parts. The principle is the same: both are devices that can move around and do things independently. But a robot made from smart materials might be nothing more than a pink drop of hydrogel. Instead of gears and wires, it's assembled from two kinds of molecules – some that love water and some that avoid it – which interact to allow the bot to skate on top of a pond.</p>\n<div style=\"height:10px\"></div>\n<p>Sometimes these materials are used to enhance more conventional robots. One team of researchers, for example, has developed a different kind of hydrogel that becomes sticky when exposed to a low-voltage zap of electricity and then stops being sticky when the electricity is switched off. This putty-like gel can be pasted right onto the feet or wheels of a robot. When the robot wants to climb a sheer wall or scoot across the ceiling, it can activate its sticky feet with a few volts. Once it is back on a flat surface again, the robot turns off the adhesive like a light switch.</p>\n<div style=\"height:10px\"></div>\n<p>Robots that are wholly or partly made of gloop aren't the future that I was promised in science fiction. But it's definitely the future I want. I'm especially keen on the nanometer-scale \"soft robots\" that could one day swim through our bodies. Metin Sitti, a director at the Max Planck Institute for Intelligent Systems in Germany, worked with colleagues to prototype these tiny, synthetic beasts using various stretchy materials, such as simple rubber, and seeding them with magnetic micro particles. They are assembled into a finished shape by applying magnetic fields. The results look like flowers or geometric shapes made from Tinker toy ball and stick modelling kits. They're guided through tubes of fluid using magnets, and can even stop and cling to the sides of a tube.</p></div>",
+      "images": [],
+      "question_numbers": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    "passage_2": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Keeping time accurately comes with a price. The maximum accuracy of a clock is directly related to how much disorder, or entropy, it creates every time it ticks. Natalia Ares at the University of Oxford and her colleagues made this discovery using a tiny clock with an accuracy that can be controlled. The clock consists of a 50-nanometre-thick membrane of silicon nitride, vibrated by an electric current. Each time the membrane moved up and down once and then returned to its original position, the researchers counted a tick, and the regularity of the spacing between the ticks represented the accuracy of the clock. The researchers found that as they increased the clock's accuracy, the heat produced in the system grew, increasing the entropy of its surroundings by jostling nearby particles. \"If a clock is more accurate, you are paying for it somehow,\" says Ares. In this case, you pay for it by pouring more ordered energy into the clock, which is then converted into entropy. \"By measuring time, we are increasing the entropy of the universe,\" says Ares. The more entropy there is in the universe, the closer it may be to its eventual demise. \"Maybe we should stop measuring time,\" says Ares. The scale of the additional entropy is so small, though, that there is no need to worry about its effects, she says.</p>\n<div style=\"height:10px\"></div>\n<p>The increase in entropy in timekeeping may be related to the \"arrow of time\", says Marcus Huber at the Austrian Academy of Sciences in Vienna, who was part of the research team. It has been suggested that the reason that time only flows forward, not in reverse, is that the total amount of entropy in the universe is constantly increasing, creating disorder that cannot be put in order again.</p>\n<div style=\"height:10px\"></div>\n<p>The relationship that the researchers found is a limit on the accuracy of a clock, so it doesn't mean that a clock that creates the most possible entropy would be maximally accurate -hence a large, inefficient grandfather clock isn't more precise than an atomic clock. \"It's a bit like fuel use in a car. Just because I'm using more fuel doesn't mean that I'm going faster or further,\" says Huber.</p>\n<div style=\"height:10px\"></div>\n<p>When the researchers compared their results with theoretical models developed for clocks that rely on quantum effects, they were surprised to find that the relationship between accuracy and entropy seemed to be the same for both. We can't be sure yet that these results are actually universal, though, because there are many types of clocks for which the relationship between accuracy and entropy haven't been tested. \"It's still unclear how this principle plays out in real devices such as atomic clocks, which push the ultimate quantum limits of accuracy,\" says Mark Mitchison at Trinity College Dublin in Ireland. Understanding this relationship could be helpful for designing clocks in the future, particularly those used in quantum computers and other devices where both accuracy and temperature are crucial, says Ares. This finding could also help us understand more generally how the quantum world and the classical world are similar and different in terms of thermodynamics and the passage of time.</p></div>",
+      "images": [],
+      "question_numbers": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "passage_3": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Today we can hardly conceive of ourselves without an unconscious. Yet between <span class=\"katex\" node=\"[object Object]\"><span class=\"katex-mathml\" node=\"[object Object]\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>1700</mn></mrow><annotation encoding=\"application/x-tex\">1700</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\" node=\"[object Object]\"><span class=\"base\" node=\"[object Object]\"><span class=\"strut\" node=\"[object Object]\" style=\"height:0.6444em\"></span><span class=\"mord\" node=\"[object Object]\">1700</span></span></span></span> and <span class=\"katex\" node=\"[object Object]\"><span class=\"katex-mathml\" node=\"[object Object]\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>1900</mn></mrow><annotation encoding=\"application/x-tex\">1900</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\" node=\"[object Object]\"><span class=\"base\" node=\"[object Object]\"><span class=\"strut\" node=\"[object Object]\" style=\"height:0.6444em\"></span><span class=\"mord\" node=\"[object Object]\">1900</span></span></span></span>, this notion developed as a genuinely original thought. The \"unconscious\" burst the shell of conventional language, coined as it had been to embody the fleeting ideas and the shifting conceptions of several generations until, finally, it became fixed and defined in specialized terms within the realm of medical psychology and Freudian psycho analysis.</p>\n<div style=\"height:10px\"></div>\n<p>The vocabulary concerning the soul and the mind increased enormously in the course of the nineteenth century. The enrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honored expressions and traditional catchwords. At the same time, once coined, powerful new ideas attracted to themselves awhile host of seemingly unrelated issues, practices, and experiences, creating a peculiar network of preoccupations that as a group had not existed before. The drawn-out attempt to approach and define the unconscious brought together the spiritualist and the psychical researcher of borderline phenomena (such as apparitions, spectral illusions, haunted houses, mediums, trance, automatic writing); the psychiatrist or alienist probing the nature of mental disease, of abnormal ideation, hallucination, delirium, melancholia, mania; the surgeon performing operations with the aid of hypnotism; the magnetizer claiming to correct the disequilibrium in the universal flow of magnetic fluids but who soon came to be regarded as a clever manipulator of the imagination; the physiologist and the physician who puzzled oversleep, dreams, sleepwalking, anesthesia, the influence of the mind on the body in health and disease; the neurologist concerned with the functions of the brain and the physiological basis of mental life; the philosopher interested in the will, the emotions, consciousness, knowledge, imagination and the creative genius; and, last but not least, the psychologist.</p>\n<div style=\"height:10px\"></div>\n<p>Significantly, most if not all of these practices (for example, hypnotism in surgery or psychological magnetism) originated in the waning years of the eighteenth century and during the early decades of the nineteenth century, as did some of the disciplines (such as psychology and psychical research). The majority of topics too were either new or assumed hitherto unknown colors. Thus, before 1790, few if any spoke, in medical terms, of the affinity between creative genius and the hallucinations of the insane.</p>\n<div style=\"height:10px\"></div>\n<p>Striving vaguely and independently to give expression to a latent conception, various lines of thought can be brought together by some novel term. The new concept then serves as a kind of resting place or stocktaking in the development of ideas, giving satisfaction and a stimulus for further discussion or speculation. Thus, the massive introduction of the term unconscious by Hartmann in <span class=\"katex\" node=\"[object Object]\"><span class=\"katex-mathml\" node=\"[object Object]\"><math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mn>1869</mn></mrow><annotation encoding=\"application/x-tex\">1869</annotation></semantics></math></span><span aria-hidden=\"true\" class=\"katex-html\" node=\"[object Object]\"><span class=\"base\" node=\"[object Object]\"><span class=\"strut\" node=\"[object Object]\" style=\"height:0.6444em\"></span><span class=\"mord\" node=\"[object Object]\">1869</span></span></span></span> appeared to focalize many stray thoughts, affording a temporary feeling that a crucial step had been taken forward, a comprehensive knowledge gained, a knowledge that required only further elaboration, explication, and unfolding in order to bring in a bounty of higher understanding. Ultimately, Hartmann's attempt at defining the unconscious proved fruitless because he extended its reach into every realm of organic and inorganic, spiritual, intellectual, and instinctive existence, severely diluting the precision and compromising the impact of the concept.</p></div>",
+      "images": [],
+      "question_numbers": [
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "passage_4": {
+      "type": "RC",
+      "text": "<div class=\"latex-wrapper\"><p>Starting in 1957, Noam Chomsky proclaimed a new doctrine: Language, that most human of all attributes, was innate. The grammatical faculty was built into the infant brain, and your average 3-year-old was not a mere apprentice in the great enterprise of absorbing English from his or her parents, but a \"linguistic genius.\" Since this message was couched in terms of Chomskyan theoretical linguistics, in discourse so opaque that it was nearly incomprehensible even to some scholars, many people did not hear it. Now, in a brilliant, witty and altogether satisfying book, Mr. Chomsky's colleague Steven Pinker has brought Mr. Chomsky's findings to everyman. In \"The Language Instinct\" he has gathered persuasive data from such diverse fields as cognitive neuroscience, developmental psychology and speech therapy to make his points, and when he disagrees with Mr. Chomsky he tells you so.</p><p></p>\n<div style=\"height:10px\"></div>\n<p>For Mr. Chomsky and Mr. Pinker, somewhere in the human brain there is a complex set of neural circuits that have been programmed with \"super-rules\" (making up what Mr. Chomsky calls \"universal grammar\"), and that these rules are unconscious and instinctive. A half-century ago, this would have been pooh-poohed as a \"black box\" theory, since one could not actually pinpoint this grammatical faculty in a specific part of the brain, or describe its functioning. But now things are different. Neurosurgeons have now found that this \"black box\" is situated in and around Broca's area, on the left side of the forebrain.</p><p></p>\n<div style=\"height:10px\"></div>\n<p>Unlike Mr. Chomsky, Mr. Pinker firmly places the wiring of the brain for language within the framework of Darwinian natural selection and evolution. He effectively disposes of all claims that intelligent nonhuman primates like chimps have any abilities to learn and use language. It is not that chimps lack the vocal apparatus to speak; it is just that their brains are unable to produce or use grammar. On the other hand, the \"language instinct,\" when it first appeared among our most distant hominid ancestors, must have given them a selective reproductive advantage over their competitors (including the ancestral chimps).</p>\n<div style=\"height:10px\"></div>\n<p>So according to Mr. Pinker, the roots of language must be in the genes, but there cannot be a \"grammar gene\" any more than there can be a gene for the heart or any other complex body structure. This proposition will undoubtedly raise the hackles of some behavioral psychologists and anthropologists, for it apparently contradicts the liberal idea that human behavior may be changed for the better by improvements in culture and environment, and it might seem to invite the twin bugaboos of biological determinism and racism. Yet Mr. Pinker stresses one point that should allay such fears. Even though there are 4,000 to 6,000languages today, they are all sufficiently alike to be considered one language by an extraterrestrial observer. In other words, most of the diversity of the world's cultures, so beloved to anthropologists, is superficial and minor compared to the similarities. Racial differences are literally only \"skin deep.\" The fundamental unity of humanity is the theme of Mr. Chomsky's universal grammar, and of this exciting book.</p></div>",
+      "images": [],
+      "question_numbers": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    "passage_5": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        17
+      ]
+    },
+    "passage_6": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        18
+      ]
+    },
+    "passage_7": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        19
+      ]
+    },
+    "passage_8": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        20
+      ]
+    },
+    "passage_9": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        21
+      ]
+    },
+    "passage_10": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        22
+      ]
+    },
+    "passage_11": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        23
+      ]
+    },
+    "passage_12": {
+      "type": "Unknown",
+      "text": "",
+      "images": [],
+      "question_numbers": [
+        24
+      ]
+    }
+  },
+  "questions": [
+    {
+      "question_number": "1",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Easy",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following scenarios, if false, could be seen as supporting the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "There are two kinds of molecules used to make some nano-robots: one that reacts positively to water and the other negatively."
+        },
+        {
+          "label": "B",
+          "text": "Nano-Sentinel-like robots are likely to be used to inject people to convert them into robots, cell by cell."
+        },
+        {
+          "label": "C",
+          "text": "Some hydro gels turn sticky when an electric current is passed through them; this potentially has very useful applications."
+        },
+        {
+          "label": "D",
+          "text": "Robots made from smart materials are likely to become part of our everyday lives in the future"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>If that option were false, it would then support what the passage actually says.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"No, they won't be invading our bodies and turning us into Sentinels – which I personally find a little disappointing – but some of them could one day swim through our bloodstream to heal us.\"</p>\n<div style=\"height:10px\"></div>\n<p>The author clearly states that these new robots will NOT convert humans into machines like the fictional Nano-Sentinels did. They might help heal us, but won't turn us into robots.</p>\n<div style=\"height:10px\"></div>\n<p>Think step by step -&gt; Find what the passage says -&gt; Look for option that says opposite -&gt; If that opposite statement were false, it would match the passage.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 <b>Option 1</b> -&gt; matches passage -&gt; \"some that love water and some that avoid it\" - this is exactly what the passage describes for hydrogel robots</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 3</b> -&gt; matches passage -&gt; sticky hydrogels with electricity are described in paragraph 4</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; matches passage -&gt; author talks about future uses like cleaning water, folding into vehicles</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; contradicts passage -&gt; says nano-robots WILL convert people into robots cell by cell, but passage explicitly says they WON'T do this</p>\n<div style=\"height:10px\"></div>\n<p>If Option 2 were <i>false</i> (meaning robots won't convert people), that would perfectly support the passage's clear statement that \"they won't be invading our bodies and turning us into Sentinels.\"</p>\n<div style=\"height:10px\"></div>\n<p>The question asks which scenario, if false, supports the passage. Only Option 2 currently goes against what the author says, so making it false would align with the passage.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/1",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "2",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Easy",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following statements best summarises the central point of the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "There are two kinds of molecules used to make some nano-robots: one that reacts positively to water and the other negatively."
+        },
+        {
+          "label": "B",
+          "text": "Nano-robots made from molecules that react to water have become increasingly useful"
+        },
+        {
+          "label": "C",
+          "text": "The field of robotics is likely to be feature more and more in comics like the New X-Men."
+        },
+        {
+          "label": "D",
+          "text": "Once the stuff of science fiction, nano-robots now feature in cutting-edge scientific research"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The question asks us to find the <b>central point</b> of the entire passage. Let's trace the passage structure to understand its main message.</p>\n<div style=\"height:10px\"></div>\n<p>The passage starts with <i>science fiction</i> (X-Men comics and Nano-Sentinels) then transitions to <i>real science</i> (current research on tiny robots). This science fiction -&gt; reality pattern is the backbone of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Now, a new wave of extremely odd robots is making at least part of the Nano-Sentinels story come true.\"</p>\n<div style=\"height:10px\"></div>\n<p>This sentence in paragraph 2 is the <i>bridge</i> that connects fiction to reality -&gt; it's telling us that what was once imaginary is now becoming real through scientific research.</p>\n<div style=\"height:10px\"></div>\n<p>The rest of the passage gives <i>examples</i> of these real nano-robots -&gt; hydrogel blobs, sticky putty, magnetic micro-robots, etc.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟠 Option 1 -&gt; <i>scope-error</i> -&gt; focuses on just one tiny detail (water-loving vs water-avoiding molecules) but ignores the bigger picture about fiction becoming reality</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 2 -&gt; <i>partial-truth</i> -&gt; mentions usefulness of water-reactive nano-robots but misses the main theme about science fiction predictions coming true through research</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; <i>context-shift</i> -&gt; completely reverses the relationship! Passage shows comics predicted science, not that science will influence future comics</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 -&gt; <i>captures both scope and nuance</i> -&gt; perfectly shows the science fiction -&gt; cutting-edge research transition that runs through the entire passage</p>\n<div style=\"height:10px\"></div>\n<p>The key is recognizing that the X-Men reference isn't just a fun opening -&gt; it's the <b>foundation</b> for the whole argument that fictional nano-robots are now becoming real scientific achievements.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/2",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "3",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Easy",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following statements, if true, would be the most direct extension ofthe arguments in the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "X-Men may be created by injecting people with mutant nano-gels that will respond to the brain's magnetic field."
+        },
+        {
+          "label": "B",
+          "text": "In the future, robots will be used to search and destroy diseases even in the deepest recesses of the human body."
+        },
+        {
+          "label": "C",
+          "text": "Sentinel robots will be used in warfare to cause large-scale destructive mutations amongst civilians"
+        },
+        {
+          "label": "D",
+          "text": "-centimetre blobs of gel that have nano-robots in them will be used to send messages."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find which option <b>directly extends</b> the arguments made in the passage about these new soft robots.</p>\n<div style=\"height:10px\"></div>\n<p>Let us trace the key argument: The passage discusses soft robots made from materials like hydrogels -&gt; some are tiny nanometer-scale -&gt; they could swim through our bloodstream -&gt; <b>to heal us</b>.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"I'm especially keen on the nanometer-scale 'soft robots' that could one day swim through our bodies... some of them could one day swim through our bloodstream to heal us.\"</p>\n<div style=\"height:10px\"></div>\n<p>The thought process: Passage talks about medical healing applications -&gt; What's the logical next step? -&gt; More specific medical applications like fighting diseases.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 Option 1 -&gt; contradicts passage -&gt; The passage clearly states these robots \"won't be invading our bodies and turning us into Sentinels\" but this option talks about creating X-Men mutants, which goes against the text.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; direct extension -&gt; Takes the \"heal us\" concept and extends it logically to \"search and destroy diseases.\" Bloodstream access + healing purpose = fighting diseases in hard-to-reach places.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; contradicts passage -&gt; Again mentions Sentinels causing destruction, but passage says they won't turn us into Sentinels and focuses on <b>helpful</b> applications, not warfare.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 4 -&gt; scope-error -&gt; While passage mentions 1-centimeter blobs, it never discusses communication or messaging. This introduces a completely new application not hinted at in the text.</p>\n<div style=\"height:10px\"></div>\n<p>The confusion students might have: Options 1 and 3 reference the X-Men opening, making them seem relevant. But remember -&gt; the opening is just a <b>hook</b> to introduce the real topic. The actual argument is about beneficial soft robots, especially medical ones.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/3",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "4",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Easy",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following statements best captures the sense of the first paragraph?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "People who were infected by Nano-Sentinel robots became mutants who were called X-Men."
+        },
+        {
+          "label": "B",
+          "text": "Tiny sentinels called X-Men infected people, turning them into mutant robot overlords."
+        },
+        {
+          "label": "C",
+          "text": "None of the options listed here"
+        },
+        {
+          "label": "D",
+          "text": "The X-Men were mutant heroes who now had to battle tiny robots called Nano-Sentinels."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>To solve this question,we need to find the <b>main idea</b> of the first paragraph and match it to the right option.</p>\n<div style=\"height:10px\"></div>\n<p><b>Step 1:</b> Identify key elements in paragraph 1 -&gt; X-Men are mutant heroes -&gt; they fought big robots (Sentinels) -&gt; now facing new tiny threat (Nano-Sentinels) -&gt; these tiny robots infect humans and turn them into machines.</p>\n<div style=\"height:10px\"></div>\n<p><b>Step 2:</b> Look for option that captures <i>who fights who</i> and <i>what the main conflict is</i>.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Our mutant heroes had been battling giant robots called Sentinels for years, but suddenly these mechanical overlords spawned a new threat: Nano-Sentinels!\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought process:</b> X-Men = mutant heroes -&gt; they fight robots -&gt; new enemy = Nano-Sentinels (tiny robots) -&gt; main story = heroes vs new tiny robot threat.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Students often get confused between options 1 and 4 because both mention X-Men and Nano-Sentinels. Here's how to eliminate:</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 1</b> -&gt; reverses cause-effect -&gt; says infected people <i>became</i> X-Men, but passage shows X-Men were <i>already</i> heroes fighting the robots</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; name-confusion -&gt; calls tiny sentinels \"X-Men\" when passage clearly shows X-Men are the <i>heroes</i> and Nano-Sentinels are the <i>enemies</i></p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3</b> -&gt; elimination option -&gt; only pick if no other option works, but option 4 works perfectly</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; captures main story correctly -&gt; X-Men are heroes + they battle tiny robots called Nano-Sentinels</p>\n<div style=\"height:10px\"></div>\n<p><b>Key elimination tip:</b> When confused between options, ask yourself: <i>Who are the good guys and who are the bad guys?</i> X-Men = heroes, Nano-Sentinels = enemies.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/4",
+      "passage_id": "passage_1"
+    },
+    {
+      "question_number": "5",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>\"It's a bit like fuel use in a car. Just because I'm using more fuel doesn't mean that I'm going faster or further\" What is the purpose of this example?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "If you go faster in a car, you will tend to consume more fuel, but the converse is not necessarily true. In the same way, increased entropy does not necessarily mean greater accuracy of a clock."
+        },
+        {
+          "label": "B",
+          "text": "The further you go in a car, the more fuel you use. In the same way, the faster you go in a car, the less time you use."
+        },
+        {
+          "label": "C",
+          "text": "If you measure the speed of a car with a grandfather clock, the result will be different than if you measured it with an atomic clock."
+        },
+        {
+          "label": "D",
+          "text": "The further and faster you go in a car, the greater the amount of fuel you will use, the greater the amount of heat produced and, hence, the greater the entropy."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"The relationship that the researchers found is a limit on the accuracy of a clock, so it doesn't mean that a clock that creates the most possible entropy would be maximally accurate -hence a large, inefficient grandfather clock isn't more precise than an atomic clock.\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; Huber is explaining a <b>one-way relationship</b>. Accurate clocks need more entropy, but having more entropy doesn't guarantee accuracy.</p>\n<div style=\"height:10px\"></div>\n<p>Think of it this way: If you want to drive fast -&gt; you need more fuel. But if you just waste fuel -&gt; you don't go fast.</p>\n<div style=\"height:10px\"></div>\n<p>Same with clocks: If you want accuracy -&gt; you need more entropy. But if you just create entropy -&gt; you don't get accuracy.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Now let's eliminate the wrong options by understanding what each one is trying to say:</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> -&gt; <i>correct</i> -&gt; captures the one-way relationship perfectly. Fast driving needs more fuel, but wasting fuel doesn't make you fast. Accurate clocks need more entropy, but creating entropy doesn't make clocks accurate.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; <i>irrelevant</i> -&gt; talks about distance, speed, and time but completely ignores the accuracy/entropy relationship that the analogy was meant to explain.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> -&gt; <i>context-shift</i> -&gt; brings in grandfather clocks vs atomic clocks for measurement, which misses the point entirely. The analogy isn't about using clocks to measure things.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4</b> -&gt; <i>scope-error</i> -&gt; tries to make the car analogy literal by connecting fuel to heat to entropy, but that's not what Huber was doing. He was making a simple comparison about one-way relationships.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/5",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "6",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The author makes all of the following arguments in the passage, EXCEPT that:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The relationship between accuracy and entropy may not apply to all clocks."
+        },
+        {
+          "label": "B",
+          "text": "Researchers found that the heat produced in a system is the price paid for increased accuracy of measurement."
+        },
+        {
+          "label": "C",
+          "text": "There is no difference in accuracy between an inefficient grandfather clock and an atomic clock."
+        },
+        {
+          "label": "D",
+          "text": "In designing clocks for quantum computers, both precision and heat have to be taken into account."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Let us trace through the key claims step by step.</p>\n<div style=\"height:10px\"></div>\n<p>The passage discusses how clock accuracy relates to entropy creation. The main discovery is that more accurate clocks create more disorder (entropy) as the \"price\" for their precision.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The researchers found that as they increased the clock's accuracy, the heat produced in the system grew, increasing the entropy of its surroundings... In this case, you pay for it by pouring more ordered energy into the clock, which is then converted into entropy.\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Key insight:</b> Heat is produced -&gt; but entropy is the actual price paid. The passage makes a distinction between what happens (heat production) and what the cost actually is (entropy increase).</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟢 <b>Option 1</b> -&gt; <i>directly stated</i> -&gt; \"We can't be sure yet that these results are actually universal\" clearly shows uncertainty about applying this to all clocks</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; <i>misrepresents the argument</i> -&gt; Says heat is the \"price paid\" but passage argues entropy is the price, while heat just causes entropy increase</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 3</b> -&gt; <i>contradicts passage</i> -&gt; Passage says grandfather clock \"isn't more precise than an atomic clock\" meaning atomic clocks ARE more accurate</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; <i>directly stated</i> -&gt; \"both accuracy and temperature are crucial\" for quantum computer clocks</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The confusion often comes between options 2 and 3. Both seem wrong, but option 2 is the tricky one. Students might think: \"The passage mentions heat production, so isn't that the price?\"</p>\n<div style=\"height:10px\"></div>\n<p><b>The key distinction:</b> Heat production happens -&gt; this causes entropy increase -&gt; entropy is the actual cost. Heat is just the mechanism, not the price itself.</p>\n<div style=\"height:10px\"></div>\n<p>Option 3 is clearly contradicted, but option 2 subtly misrepresents the causal relationship the author establishes.</p>\n<div style=\"height:10px\"></div>\n<p>This was a highly controversial question. The official answer key says option 2 but we believe the right option is 3. However, we're keeping option 2 as the answer-key as CAT officials gave marks for option 2 only.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/6",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "7",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following sets of words and phrases serves best as keywords of the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Electric current; Heat; Quantum effects"
+        },
+        {
+          "label": "B",
+          "text": "Silicon Nitride; Energy; Grandfather Clocks"
+        },
+        {
+          "label": "C",
+          "text": "Measuring Time; Accuracy; Entropy"
+        },
+        {
+          "label": "D",
+          "text": "Membrane; Arrow of time; Entropy"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the set of keywords that <b>best captures the main ideas</b> discussed throughout the entire passage.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The maximum accuracy of a clock is directly related to how much disorder, or entropy, it creates every time it ticks\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"By measuring time, we are increasing the entropy of the universe\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage structure: Experiment setup -&gt; Main finding -&gt; Broader implications -&gt; Future applications</p>\n<div style=\"height:10px\"></div>\n<p>So the <b>three big ideas</b> are: measuring time, accuracy of clocks, and entropy creation.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Now let's check each option against these main themes:</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 1</b> -&gt; <i>scope-error</i> -&gt; focuses on <b>technical details</b> rather than main concepts. Electric current and heat are just <b>parts of the experiment</b>, not the big ideas being discussed.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; <i>scope-error</i> -&gt; silicon nitride is just the <b>material used</b> in one experiment, grandfather clocks are just a <b>comparison example</b>. These miss the core relationship being explored.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 3</b> -&gt; <i>perfect match</i> -&gt; captures all <b>three central themes</b>: measuring time (what we do), accuracy (what we want), entropy (what we pay). These words appear throughout and tie together the main argument.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 4</b> -&gt; <i>partial-truth</i> -&gt; entropy is right, but membrane is just <b>experimental equipment</b> and arrow of time is a <b>side discussion</b>, not the main focus.</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: keywords should reflect the <b>main argument</b>, not just words that appear in the text. Option 3 captures the core relationship the entire passage explores.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/7",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "8",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Science",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>None of the following statements can be inferred from the passage EXCEPT that:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "the arrow of time has not yet been tested for atomic clocks."
+        },
+        {
+          "label": "B",
+          "text": "quantum computers are likely to produce more heat and, hence, more entropy, because of the emphasis on their clocks' accuracy"
+        },
+        {
+          "label": "C",
+          "text": "grandfather clocks are likely to produce less heat and, hence, less entropy, because they are not as accurate."
+        },
+        {
+          "label": "D",
+          "text": "a clock with a 50-nanometre-thick membrane of silicon nitride has been made to vibrate, producing electric currents."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p><b>Key insight:</b> The passage establishes that more accurate clocks → more heat → more entropy</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"as they increased the clock's accuracy, the heat produced in the system grew, increasing the entropy of its surroundings\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Understanding this relationship could be helpful for designing clocks in the future, particularly those used in quantum computers and other devices where both accuracy and temperature are crucial\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought process:</b> Passage says accurate clocks make more heat/entropy → quantum computers need very accurate clocks → quantum computers will make more heat/entropy</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Elimination process:</b></p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 1 → <i>scope-error</i> → passage mentions uncertainty about atomic clocks but doesn't specifically discuss \"arrow of time\" testing for them</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 → <i>correct inference</i> → combines two clear facts: (1) accurate clocks produce more heat/entropy, (2) quantum computers emphasize clock accuracy → therefore quantum computers will produce more heat/entropy</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 3 → <i>logical-error</i> → passage says relationship is a \"limit\" on accuracy, not that less accurate automatically means less entropy. Uses car/fuel analogy to show this isn't always true</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 → <i>reversal-error</i> → passage says membrane is \"vibrated <b>by</b> an electric current,\" not that it <b>produces</b> electric currents - completely backwards</p>\n<div style=\"height:10px\"></div>\n<p><b>Student confusion:</b> You might think Option 3 makes sense since grandfather clocks are less accurate, but the passage specifically warns against this logic with the car analogy.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/8",
+      "passage_id": "passage_2"
+    },
+    {
+      "question_number": "9",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "History",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following statements best describes what the passage is about?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The discovery of the unconscious as a part of the human mind."
+        },
+        {
+          "label": "B",
+          "text": "The collating of diverse ideas under the single term: unconscious."
+        },
+        {
+          "label": "C",
+          "text": "The growing vocabulary of the soul and the mind, as diverse processes."
+        },
+        {
+          "label": "D",
+          "text": "The identification of the unconscious as an object of psychical research."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the <b>main theme</b> that runs through the entire passage. Let us trace the key ideas step by step.</p>\n<div style=\"height:10px\"></div>\n<p>The passage starts by saying the \"unconscious\" developed as a new concept between 1700-1900. Then it shows how this single term brought together <b>many different fields</b> - spiritualists, psychiatrists, surgeons, philosophers, psychologists, etc. Finally, it explains how Hartmann used this term in 1869 to \"focalize many stray thoughts\" under one concept.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Striving vaguely and independently to give expression to a latent conception, various lines of thought can be brought together by some novel term... Thus, the massive introduction of the term unconscious by Hartmann in 1869 appeared to focalize many stray thoughts\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; the passage shows how <b>one term</b> (unconscious) gathered <b>diverse, unrelated ideas</b> from different fields into a single concept.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 Option 1 -&gt; <i>scope-error</i> -&gt; focuses only on \"discovery of unconscious as part of mind\" but passage isn't about discovering it, it's about how the <b>term itself</b> brought together different ideas from many fields</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 3 -&gt; <i>too-broad</i> -&gt; talks about \"growing vocabulary\" in general, but passage specifically focuses on how <b>one term</b> (unconscious) unified different concepts, not vocabulary growth overall</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 4 -&gt; <i>too-narrow</i> -&gt; mentions only \"psychical research\" but passage covers <b>many different fields</b> - psychology, medicine, philosophy, neurology, etc. all coming together under this term</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; <i>perfect-match</i> -&gt; captures exactly what passage describes - how <b>diverse ideas from different fields</b> got brought together under the <b>single term \"unconscious\"</b></p>\n<div style=\"height:10px\"></div>\n<p>The confusion students have is between Options 1 and 2. But Option 1 talks about \"discovering\" the unconscious, while the passage is about how the <b>word itself</b> unified different ideas. Option 2 captures this unifying aspect perfectly.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/9",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "10",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "History",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following statements best describes what the passage is about?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The discovery of the unconscious as a part of the human mind"
+        },
+        {
+          "label": "B",
+          "text": "The collating of diverse ideas under the single term: unconscious"
+        },
+        {
+          "label": "C",
+          "text": "The growing vocabulary of the soul and the mind, as diverse processes"
+        },
+        {
+          "label": "D",
+          "text": "The identification of the unconscious as an object of psychical research"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the <i>main theme</i> that runs throughout all four paragraphs. Let us trace the author's focus step by step.</p>\n<div style=\"height:10px\"></div>\n<p>The passage starts by showing how \"unconscious\" developed as a new concept -&gt; then shows how this single term brought together many different fields and practices -&gt; finally explains how one term can collect \"stray thoughts\" from various areas.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Striving vaguely and independently to give expression to a latent conception, various lines of thought can be brought together by some novel term... Thus, the massive introduction of the term unconscious by Hartmann in 1869 appeared to focalize many stray thoughts\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: The passage isn't about <i>discovering</i> the unconscious or <i>studying</i> it - it's about how this single word became a <i>collecting point</i> for many different ideas and practices that existed separately before.</p>\n<div style=\"height:10px\"></div>\n<p>Think of it like a magnet -&gt; various metal pieces (different ideas) -&gt; magnet pulls them together -&gt; now they're organized under one concept.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 Option 1 -&gt; scope-error -&gt; focuses only on \"discovery\" but passage is about how the term organized existing ideas, not about finding something new in the mind</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; correct -&gt; captures exactly what passage describes - how diverse fields and ideas came together under the single term \"unconscious\"</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 3 -&gt; partial-truth -&gt; mentions vocabulary growth which is discussed, but misses the main point about how these diverse things got organized under one term</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; too-narrow -&gt; limits unconscious to just psychical research, but passage shows it brought together many different fields (surgery, philosophy, neurology, etc.)</p>\n<div style=\"height:10px\"></div>\n<p>The confusion students often have: Options 1 and 3 mention real things from the passage, but they miss the <i>organizing principle</i> - how one term collected many scattered ideas together.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/10",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "11",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "History",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>\"The enrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honored expressions and traditional catchwords.\" Which one of the following interpretations of this sentence would be closest in meaning to the original?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The meanings of time-honored expressions were changed by innovations in literary and intellectual language."
+        },
+        {
+          "label": "B",
+          "text": "Literary and intellectual language was altered by time-honored expressions and traditional catchwords."
+        },
+        {
+          "label": "C",
+          "text": "All of the options listed here."
+        },
+        {
+          "label": "D",
+          "text": "Time-honored expressions and traditional catchwords were enriched by literary and intellectual language."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"The enrichments of literary and intellectual language led to an altered understanding of the meanings that underlie time-honored expressions and traditional catchwords.\"</p>\n<div style=\"height:10px\"></div>\n<p>The sentence structure is: <i>X led to Y</i></p>\n<div style=\"height:10px\"></div>\n<p>X = enrichments of literary and intellectual language (innovations in language)</p>\n<p>Y = altered understanding of meanings (changed understanding of what old sayings meant)</p>\n<div style=\"height:10px\"></div>\n<p>So: Language innovations -&gt; caused people to understand old sayings differently</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Let's check each option for accuracy:</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 1</b> -&gt; correct -&gt; captures the cause-effect relationship perfectly. Language innovations changed how we understand old expressions' meanings.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; reverses cause-effect -&gt; says old expressions changed the language, but passage says language innovations changed our understanding of old expressions. Complete reversal.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> -&gt; impossible -&gt; can't be \"all options\" when options 1, 2, and 4 contradict each other directly.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 <b>Option 4</b> -&gt; scope-error -&gt; says expressions were \"enriched\" but passage says our <i>understanding</i> of their meanings was \"altered.\" Missing the key point about changed understanding.</p>\n<div style=\"height:10px\"></div>\n<p>The key confusion students face: Options 1 and 4 both mention language affecting old expressions. But Option 1 says meanings <i>changed</i>, while Option 4 says expressions were <i>enriched</i>. The passage clearly states \"altered understanding\" not \"enriched expressions.\"</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/11",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "12",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "History",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following sets of words is closest to mapping the main arguments of the passage?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Language; Unconscious; Psychoanalysis"
+        },
+        {
+          "label": "B",
+          "text": "Literary language; Unconscious; Insanity"
+        },
+        {
+          "label": "C",
+          "text": "Unconscious; Latent conception; Dreams"
+        },
+        {
+          "label": "D",
+          "text": "Imagination; Magnetism; Psychiatry"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the three words that best capture the <b>main arguments</b> of the entire passage. Let us trace the key themes step by step.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The passage has a clear structure: it starts with how the concept of \"unconscious\" developed, then explains how <b>language</b> evolved to accommodate new ideas, and ends with how it all culminated in <b>psychoanalysis</b>.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The 'unconscious' burst the shell of conventional language, coined as it had been to embody the fleeting ideas and the shifting conceptions of several generations until, finally, it became fixed and defined in specialized terms within the realm of medical psychology and Freudian psychoanalysis.\"</p>\n<div style=\"height:10px\"></div>\n<p>Thought process: Main theme = unconscious concept development -&gt; language had to evolve to express this -&gt; eventually became formal in psychoanalysis. These three elements run throughout the entire passage.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🟠 Option 2 -&gt; scope-error -&gt; \"Literary language\" is too narrow (passage talks about language evolution broadly), and \"insanity\" is just one example mentioned, not a main argument</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; partial-truth -&gt; \"Unconscious\" is correct, but \"latent conception\" and \"dreams\" are just supporting examples, not main themes that run through the whole passage</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; irrelevant -&gt; These are just <b>examples</b> of practices mentioned in paragraph 2, not the overarching arguments of the passage</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 1 is correct -&gt; captures all three main threads: <b>Language</b> (how conventional language had to evolve), <b>Unconscious</b> (the central concept being developed), and <b>Psychoanalysis</b> (where it finally became formalized)</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: don't get confused by specific examples mentioned in the passage. Look for the <b>big themes</b> that connect from beginning to end.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/12",
+      "passage_id": "passage_3"
+    },
+    {
+      "question_number": "13",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Psychology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>On the basis of the information in the passage, Pinker and Chomsky may disagree with each other on which one of the following points?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The possibility of a universal grammar."
+        },
+        {
+          "label": "B",
+          "text": "The language instinct"
+        },
+        {
+          "label": "C",
+          "text": "The inborn language acquisition skills of humans"
+        },
+        {
+          "label": "D",
+          "text": "The Darwinian explanatory paradigm for language"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"Unlike Mr. Chomsky, Mr. Pinker firmly places the wiring of the brain for language within the framework of Darwinian natural selection and evolution.\"</p>\n<div style=\"height:10px\"></div>\n<p>The word \"unlike\" signals a clear disagreement -&gt; Pinker uses Darwin's evolution to explain language origins, but Chomsky doesn't take this approach.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Elimination Process:</b></p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 1 -&gt; partial-truth -&gt; Both support universal grammar. Chomsky created the concept, Pinker builds on it. No disagreement here.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 2 -&gt; partial-truth -&gt; Both believe in language instinct. The passage shows Pinker supporting and expanding Chomsky's language instinct ideas.</p>\n<div style=\"height:10px\"></div>\n<p>🟠 Option 3 -&gt; partial-truth -&gt; Both agree humans have inborn language skills. This is the core belief they both share about babies being \"linguistic geniuses.\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 is correct -&gt; The passage directly states their disagreement. Pinker uses Darwin's evolution theory to explain language development, while Chomsky does not use this evolutionary framework.</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: When two experts agree on the <i>what</i> (language is innate), they can still disagree on the <i>why</i> (how it evolved). Pinker adds evolutionary explanation that Chomsky doesn't emphasize.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/13",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "14",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Psychology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>According to the passage, all of the following are true about the language instinct EXCEPT that:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "all intelligent primates are gifted with it."
+        },
+        {
+          "label": "B",
+          "text": "not all intelligent primates are gifted with it"
+        },
+        {
+          "label": "C",
+          "text": "developments in neuroscience have increased its acceptance"
+        },
+        {
+          "label": "D",
+          "text": "it confers an evolutionary reproductive advantage"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "1",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>This is an EXCEPT question, sowe need to find the false statement.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"He effectively disposes of all claims that intelligent nonhuman primates like chimps have any abilities to learn and use language. It is not that chimps lack the vocal apparatus to speak; it is just that their brains are unable to produce or use grammar.\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; Pinker argues that chimps (intelligent primates) do NOT have language abilities -&gt; their brains can't handle grammar -&gt; only humans have the language instinct.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 Option 1 -&gt; directly contradicts passage -&gt; says \"all intelligent primates\" have language instinct, but passage clearly states chimps (intelligent primates) don't have it</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; matches passage perfectly -&gt; \"not all intelligent primates\" means some do, some don't -&gt; humans yes, chimps no</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 -&gt; supported by passage -&gt; mentions how neurosurgery found Broca's area -&gt; moved from \"black box\" theory to accepted science</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 -&gt; directly stated -&gt; passage says language instinct \"gave them selective reproductive advantage over competitors\"</p>\n<div style=\"height:10px\"></div>\n<p>The confusion students might have: They might think Option 2 sounds negative and wonder if it's wrong. But remember -&gt; \"not all\" means \"some but not others\" -&gt; which is exactly what the passage says (humans have it, chimps don't).</p>\n<div style=\"height:10px\"></div>\n<p>Option 1 is the <b>only false statement</b> -&gt; it claims ALL intelligent primates have language ability, but the passage proves chimps don't have it at all.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/14",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "15",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Psychology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From the passage, it can be inferred that all of the following are true about Pinker 'book, \"The Language Instinct\", EXCEPT that Pinker:</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "writes in a different style from Chomsky"
+        },
+        {
+          "label": "B",
+          "text": "draws from behavioural psychology theories"
+        },
+        {
+          "label": "C",
+          "text": "disagrees with Chomsky on certain grounds"
+        },
+        {
+          "label": "D",
+          "text": "draws extensively from Chomsky's propositions"
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"Now, in a brilliant, witty and altogether satisfying book, Mr. Chomsky's colleague Steven Pinker has brought Mr. Chomsky's findings to everyman. In 'The Language Instinct' he has gathered persuasive data from such diverse fields as cognitive neuroscience, developmental psychology and speech therapy\"</p>\n<div style=\"height:10px\"></div>\n<p>The key insight -&gt; Passage lists specific fields Pinker draws from, and mentions behavioral psychologists would <i>oppose</i> his ideas, not support them.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Option Analysis:</b></p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 1 (writes in a different style) -&gt; <b>Can be inferred</b> -&gt; Chomsky wrote in \"opaque\" discourse \"nearly incomprehensible even to scholars\" while Pinker wrote for \"everyman\" in a \"witty\" style</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 2 (draws from behavioral psychology) -&gt; <b>Cannot be inferred</b> -&gt; Passage says behavioral psychologists would have their \"hackles raised\" by Pinker's ideas, meaning they'd disagree. Also, passage lists fields he draws from (neuroscience, developmental psychology, speech therapy) but excludes behavioral psychology</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 3 (disagrees with Chomsky) -&gt; <b>Can be inferred</b> -&gt; Passage directly states \"when he disagrees with Mr. Chomsky he tells you so\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 4 (draws from Chomsky's propositions) -&gt; <b>Can be inferred</b> -&gt; Passage says he \"brought Mr. Chomsky's findings to everyman\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Student confusion:</b> You might think Option 2 is possible since the passage mentions \"developmental psychology\" -&gt; But behavioral psychology is different from developmental psychology. The passage actually suggests behavioral psychologists would <i>oppose</i> Pinker's genetic view of language.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/15",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "16",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "Reading Comprehension",
+      "sub_topic_tag": "Psychology",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Which one of the following statements best summarises the author's position about Pinker's book?</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "The evolutionary and deterministic framework of Pinker's book makes it racist."
+        },
+        {
+          "label": "B",
+          "text": "The universality of the \"language instinct\" counters claims that Pinker's book is racist."
+        },
+        {
+          "label": "C",
+          "text": "Culture and environment play a key role in shaping our acquisition of language"
+        },
+        {
+          "label": "D",
+          "text": "Anatomical developments like the voice box play a key role in determining language acquisition skills."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "2",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: \"This proposition will undoubtedly raise the hackles of some behavioral psychologists and anthropologists, for it apparently contradicts the liberal idea that human behavior may be changed for the better by improvements in culture and environment, and it might seem to invite the twin bugaboos of biological determinism and racism. Yet Mr. Pinker stresses one point that should allay such fears.\"</p>\n<div style=\"height:10px\"></div>\n<p>The author acknowledges potential concerns about Pinker's evolutionary approach -&gt; but then shows how Pinker addresses these concerns -&gt; concludes that the book demonstrates human unity rather than division.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Racial differences are literally only 'skin deep.' The fundamental unity of humanity is the theme of Mr. Chomsky's universal grammar, and of this exciting book.\"</p>\n<div style=\"height:10px\"></div>\n<p>Author's final verdict: Pinker's book actually proves human unity, not racism.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Students often get confused between what critics <i>might say</i> versus what the author <i>actually believes</i>. The passage structure shows: concern raised -&gt; concern addressed -&gt; positive conclusion.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 1 -&gt; context-shift -&gt; takes the <i>potential criticism</i> as the author's final view, ignoring how author says Pinker \"allays such fears\"</p>\n<div style=\"height:10px\"></div>\n<p>🟢 Option 2 -&gt; correct -&gt; captures exactly how author sees Pinker countering racism concerns through universality argument</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 3 -&gt; contradicts-passage -&gt; Pinker argues <i>against</i> culture/environment shaping language acquisition, saying it's innate instead</p>\n<div style=\"height:10px\"></div>\n<p>🔴 Option 4 -&gt; scope-error -&gt; mentions anatomical features but passage says chimps' problem isn't vocal apparatus but brain's inability to handle grammar</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/16",
+      "passage_id": "passage_4"
+    },
+    {
+      "question_number": "17",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>Brazil's growth rate has been low, yet most Brazilians say their financial situation has improved, and they expect it to get even better. This is because most incomes are rising fast, with higher minimum wages and very low unemployment. The result is falling inequality and a growing middle class the result of economic stabilization, improved social security and universal primary education. But despite recent improvements the Brazilian economy is still painfully unequal, with poor Brazilian spaying the biggest share of their income in taxes and getting the least back in government services.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Economic reforms have benefitted many Brazilians, but they are unaware of the impending problems from rising inequalities in their society."
+        },
+        {
+          "label": "B",
+          "text": "With rising incomes and falling unemployment, most Brazilians are being misled into thinking that their economy is doing well."
+        },
+        {
+          "label": "C",
+          "text": "Good economic indicators have masked the unfair taxation of the poor that is likely to destabilise the Brazilian economy in the next few years."
+        },
+        {
+          "label": "D",
+          "text": "Most Brazilians feel they have benefitted from recent economic events, but the poor continue to be dealt unfairly by the state."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the main message. The passage has two key parts connected by \"yet\" and \"but\" - this tells me there's a contrastwe need to capture.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Brazil's growth rate has been low, yet most Brazilians say their financial situation has improved, and they expect it to get even better.\"</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"But despite recent improvements the Brazilian economy is still painfully unequal, with poor Brazilian spaying the biggest share of their income in taxes and getting the least back in government services.\"</p>\n<div style=\"height:10px\"></div>\n<p>The thought process: <i>Most people doing better</i> -&gt; <i>BUT poor still treated unfairly</i> -&gt; <i>Need summary that shows both sides</i></p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>Let's check each option for common traps:</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 1</b> -&gt; degree-error -&gt; Says inequality is \"rising\" but passage clearly states \"falling inequality.\" Also adds \"impending problems\" not mentioned anywhere. Wrong direction completely.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; context-shift -&gt; Calls improvements \"misleading\" when passage shows they're real (higher wages, low unemployment). Suggests people are wrong to feel optimistic, but passage supports their optimism.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> -&gt; overstates -&gt; Predicts \"destabilization in next few years\" - pure speculation not in passage. Also says indicators \"masked\" problems, but passage openly discusses inequality alongside improvements.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; correct -&gt; Perfectly captures both halves: \"most Brazilians feel they have benefitted\" (matches first part) + \"but the poor continue to be dealt unfairly\" (matches second part about taxes/services). No extra predictions or wrong claims.</p>\n<div style=\"height:10px\"></div>\n<p>The key insight: Don't get confused by options that add dramatic predictions or claim people are wrong about their own experiences. Stick to what the passage actually says - improvements for most, ongoing unfairness for poor.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/17",
+      "passage_id": "passage_5"
+    },
+    {
+      "question_number": "18",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parajumbles",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The sentences given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the numbers as your answer.</p>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">Businesses find automation, such as robotic employees, a big asset in terms of productivity and efficiency.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">But in recent years, robotics has had increasing impacts on unemployment, not just of manual labour, as computers are rapidly handling some white-collar and service-sector work.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">For years politicians have promised workers that they would bring back their jobs by clamping down on trade, off shoring and immigration.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">Economists, based on their research, say that the bigger threat to jobs now is not globalisation but automation.</li></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "3412",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the <b>logical flow</b> that connects ideas about job threats from politicians vs economists.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"For years politicians have promised workers that they would bring back their jobs by clamping down on trade, off shoring and immigration\" and \"Economists, based on their research, say that the bigger threat to jobs now is not globalisation but automation.\"</p>\n<div style=\"height:10px\"></div>\n<p>The thought process: <i>Politicians blame one thing</i> -&gt; <i>Economists disagree and blame something else</i> -&gt; <i>Explain what that \"something else\" does</i> -&gt; <i>Show the full impact</i></p>\n<div style=\"height:10px\"></div>\n<p>Step 1: Find the <b>opening</b> -&gt; Sentence 3 introduces the topic by showing what politicians think</p>\n<div style=\"height:10px\"></div>\n<p>Step 2: Find the <b>contrast</b> -&gt; Sentence 4 counters with \"but economists say...\"</p>\n<div style=\"height:10px\"></div>\n<p>Step 3: <b>Explain automation</b> -&gt; Sentence 1 shows what automation does for businesses</p>\n<div style=\"height:10px\"></div>\n<p>Step 4: <b>Complete the picture</b> -&gt; Sentence 2 shows automation's broader impact on jobs</p>\n<div style=\"height:10px\"></div>\n<p><i>Note: Sentence 5 about China Inc is completely unrelated and doesn't fit this paragraph at all.</i></p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>The logical flow: Politicians' view on job losses (3) -&gt; Economists' counter-argument (4) -&gt; What automation does for businesses (1) -&gt; Automation's broader employment impact (2).</p>\n<div style=\"height:10px\"></div>\n<p><b>Correct Answer: 3412</b></p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/18",
+      "passage_id": "passage_6"
+    },
+    {
+      "question_number": "19",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Odd One Out",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">A typical example is Wikipedia, where the overwhelming majority of contributors are male and so the available content is skewed to reflect their interests.</li>\n<li node=\"[object Object]\">Without diversity of thought and representation, society is left with a distorted picture of future options, which are likely to result in augmenting existing inequalities.</li>\n<li node=\"[object Object]\">Gross gender inequality in the technology sector is problematic, not only for the industry-wide marginalization of women, but because technology designs embody the values of their makers.</li>\n<li node=\"[object Object]\">While redressing unequal representation in the workplace is a step in the right direction, broader social change is needed to address the structural inequalities embedded within the current organization of work and employment.</li>\n<li node=\"[object Object]\">If technology merely reflects the perspectives of the male stereotype, then new technologies are unlikely to accommodate the diverse social contexts within which they operate.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Let's check what each sentence talks about:</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Sentences 1, 2, 3, 5 → all about <i>technology sector</i> and gender bias</li>\n<li node=\"[object Object]\">Sentence 4 → about <i>workplace in general</i> and employment issues</li>\n</ul>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>From passage: \"Gross gender inequality in the technology sector is problematic...\" (sentence 3) vs \"broader social change is needed to address the structural inequalities embedded within the current organization of work and employment\" (sentence 4)</p>\n<div style=\"height:10px\"></div>\n<p>The key insight → sentences 1, 2, 3, 5 all focus specifically on <b>technology</b> while sentence 4 shifts to talking about <b>workplace in general</b>.</p>\n<div style=\"height:10px\"></div>\n<p>Flow of coherent paragraph (3-1-5-2):</p>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Sentence 3 → opens the argument about tech sector problems</li>\n<li node=\"[object Object]\">Sentence 1 → gives Wikipedia example of male bias</li>\n<li node=\"[object Object]\">Sentence 5 → explains consequence (tech reflects male perspectives)</li>\n<li node=\"[object Object]\">Sentence 2 → broader impact on society from lack of diversity</li>\n</ul>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 <strong>Sentence 4 is the odd one out</strong> → <i>scope-shift</i> → moves from specific technology sector discussion to general workplace issues. While others talk about \"technology sector,\" \"Wikipedia,\" \"new technologies,\" sentence 4 talks about \"workplace,\" \"work and employment\" in broad terms that don't connect to the tech-focused theme.</p>\n<div style=\"height:10px\"></div>\n<p>The other four sentences connect smoothly through shared concepts like \"reflect their interests\" (sentence 1) linking to \"reflects the perspectives\" (sentence 5), and all staying within the technology domain.</p>\n<div style=\"height:10px\"></div>\n<p><strong>Answer: 4</strong></p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/19",
+      "passage_id": "passage_7"
+    },
+    {
+      "question_number": "20",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parajumbles",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The sentences given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the numbers as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">Restitution of artefacts to original cultures could faces legal obstacles, as many Western museums are legally prohibited from disposing off their collections.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">This is in response to countries like Nigeria, which are pressurising European museums to return their precious artefacts looted by colonisers in the past.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">Museums in Europe today are struggling to come to terms with their colonial legacy, some taking steps to return artefacts but not wanting to lose their prized collections.</li>\n<div style=\"height:10px\"></div>\n<li node=\"[object Object]\">Legal hurdles notwithstanding, politicians and institutions in France and Germany would now like to defuse the colonial time bombs, and are now backing the return of part of their holdings.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "3214",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p><b>Step 1:</b> Find the <i>opening sentence</i> - one that introduces the topic without needing prior context.</p>\n<div style=\"height:10px\"></div>\n<p><b>Step 2:</b> Look for <i>connecting words</i> like \"this,\" \"legal hurdles notwithstanding\" that show which sentences must follow others.</p>\n<div style=\"height:10px\"></div>\n<p><b>Step 3:</b> Build the logical chain of ideas.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>From passage: \"Museums in Europe today are struggling to come to terms with their colonial legacy\" and \"This is in response to countries like Nigeria\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought Process:</b></p>\n<p>Sentence 3 introduces the main problem -&gt; Sentence 2 explains <i>why</i> this is happening (starts with \"This is\") -&gt; Sentence 1 discusses the legal challenges -&gt; Sentence 4 shows politicians' response <i>despite</i> these legal hurdles.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 <b>Starting with 1 or 4</b> -&gt; <i>context-shift</i> -&gt; jumps into legal details or political responses without establishing what the main issue is</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Starting with 2</b> -&gt; <i>reference-error</i> -&gt; begins with \"This is in response\" but there's nothing before it to respond to</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Putting 4 before 1</b> -&gt; <i>sequence-error</i> -&gt; mentions \"legal hurdles notwithstanding\" before actually explaining what those legal hurdles are</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>3214 is correct</b> -&gt; establishes topic -&gt; explains cause -&gt; presents obstacle -&gt; shows solution despite obstacle</p>\n<div style=\"height:10px\"></div>\n<p>The key is recognizing that <b>sentence 2's \"This is\"</b> must refer to sentence 3's struggle, and <b>sentence 4's \"Legal hurdles notwithstanding\"</b> must come after sentence 1 explains those hurdles.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/20",
+      "passage_id": "passage_8"
+    },
+    {
+      "question_number": "21",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>People view idleness as a sin and industriousness as a virtue, and in the process have developed an unsatisfactory relationship with their jobs. Work has become a way for them to keep busy, even though many find their work meaningless. In their need for activity people undertake what was once considered work (fishing, gardening) as hobbies. The opposing view is that hard work has made us prosperous and improved our levels of health and education. It has also brought innovation and labour and time-saving devices, which have lessened life's drudgery.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Despite some detractors, hard work is essential in today's world to enable economic progress, for education and health and to propel innovations that make life easier."
+        },
+        {
+          "label": "B",
+          "text": "Some believe that hard work has been glorified to the extent that it has become meaningless, and led to greater idleness, but it has also had enormous positive impacts on everyday life."
+        },
+        {
+          "label": "C",
+          "text": "Hard work has overtaken all aspects of our lives and has enabled economic prosperity, but it is important that people reserve their leisure time for some idleness."
+        },
+        {
+          "label": "D",
+          "text": "While the idealisation of hard work has propelled people into meaningless jobs and endless activity, it has also led to tremendous social benefits from prosperity and innovation."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "4",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>We need to find the option that captures <b>both sides</b> of the argument about hard work.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Work has become a way for them to keep busy, even though many find their work meaningless\" and \"hard work has made us prosperous and improved our levels of health and education.\"</p>\n<div style=\"height:10px\"></div>\n<p>The passage shows two views -&gt; First view says obsession with hard work creates problems (meaningless work, bad job relationships) -&gt; Second view says hard work brings benefits (prosperity, health, education, innovation).</p>\n<div style=\"height:10px\"></div>\n<p>I need an option that includes <b>both negative and positive aspects</b> without adding extra ideas.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 <b>Option 1</b> -&gt; scope-error -&gt; Only talks about the <i>positive</i> side of hard work (prosperity, education, innovation) but completely ignores the <i>negative</i> side (meaningless jobs, unsatisfactory relationships). Also says hard work is \"essential\" which the passage never concludes.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; context-shift -&gt; Says hard work \"led to greater idleness\" but the passage actually says people do former work activities (fishing, gardening) as <i>hobbies</i> now, not that they became more idle. This twists the meaning.</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 3</b> -&gt; overstates -&gt; Adds a recommendation that \"people should reserve leisure time for idleness\" which isn't in the passage at all. The passage just <i>presents</i> two views, it doesn't give advice.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 4</b> -&gt; correct -&gt; Captures both sides perfectly. \"Idealisation of hard work\" matches the passage's idea of viewing it as a \"virtue.\" Shows the negative side (meaningless jobs, endless activity) <b>and</b> the positive side (prosperity, innovation) without adding extra ideas.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/21",
+      "passage_id": "passage_9"
+    },
+    {
+      "question_number": "22",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Odd One Out",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Five jumbled up sentences (labelled 1, 2, 3, 4 and 5), related to a topic, are given below. Four of them can be put together to form a coherent paragraph. Identify the odd sentence and key in the number of that sentence as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">They often include a foundation course on navigating capitalism with Chinese characteristics and have replaced typical cases from US corporates with a focus on how Western theories apply to China's buzzing local firms.</li>\n<li node=\"[object Object]\">The best Chinese business schools look like their Western rivals but are now growing distinct in terms of what they teach and the career boost they offer.</li>\n<li node=\"[object Object]\">Western schools have enhanced their offerings with double degrees, popular with domestic and overseas students alike—and boosted the prestige of their Chinese partners.</li>\n<li node=\"[object Object]\">For students, a big draw is the chance to rub shoulders with captains of China's private sector.</li>\n<li node=\"[object Object]\">Their business courses now largely cater to the growing demand from China Inc which has become more global, richer and ready to recruit from this sinocentric student body.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>Let us trace the <i>main topic</i> -&gt; Chinese business schools and how they're different from Western ones.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"The best Chinese business schools look like their Western rivals but are now growing distinct in terms of what they teach and the career boost they offer.\"</p>\n<div style=\"height:10px\"></div>\n<p>This sentence (2) sets up the <i>main idea</i> -&gt; Chinese schools <i>look similar</i> but are <i>becoming different</i>.</p>\n<div style=\"height:10px\"></div>\n<ul node=\"[object Object]\">\n<li node=\"[object Object]\">Sentence 1 -&gt; explains <i>how</i> they're different (Chinese capitalism courses, local firm focus)</li>\n<li node=\"[object Object]\">Sentence 4 -&gt; explains what <i>attracts students</i> (networking with Chinese business leaders)</li>\n<li node=\"[object Object]\">Sentence 5 -&gt; explains their <i>target market</i> (China Inc, global Chinese companies)</li>\n</ul>\n<div style=\"height:10px\"></div>\n<p>These all focus on <b>Chinese schools' unique features</b>.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>But sentence 3 talks about something completely different -&gt; <b>what Western schools are doing</b> (double degrees, partnerships).</p>\n<div style=\"height:10px\"></div>\n<p>The flow should be: Chinese schools look similar -&gt; but here's how they're <i>different</i> -&gt; specific examples of differences -&gt; what attracts students.</p>\n<div style=\"height:10px\"></div>\n<p>Sentence 3 breaks this flow by shifting focus to <i>Western schools' actions</i> instead of <i>Chinese schools' distinctiveness</i>.</p>\n<div style=\"height:10px\"></div>\n<p><b>Answer: 3</b></p>\n<div style=\"height:10px\"></div>\n<p>The odd sentence is 3 because it discusses Western schools' strategies rather than Chinese schools' unique characteristics, which is what the other four sentences focus on.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/22",
+      "passage_id": "passage_10"
+    },
+    {
+      "question_number": "23",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parasummary",
+      "difficulty": "Medium",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The passage given below is followed by four alternate summaries. Choose the option that best captures the essence of the passage.</p>\n<div style=\"height:10px\"></div>\n<p>The human mind is wired to see patterns. Not only does the brain process information as it comes in, it also stores insights from all our past experiences. Every interaction, happy or sad, is catalogued in our memory. Intuition draws from that deep memory well to inform our decisions going forward. In other words, intuitive decisions are based on data, and not contrary to data as many would like to assume. When we subconsciously spot patterns, the body starts firing neuro chemicals in both the brain and gut. These \"somatic markers\" are what give us that instant sense that something is right or that it's off. Not only are these automatic processes faster than rational thought, but our intuition draws from decades of diverse qualitative experience (sights, sounds, interactions, etc.) a wholly human feature that big data alone could never accomplish.</p></div></div></div>",
+      "options": [
+        {
+          "label": "A",
+          "text": "Intuition draws from deep memory, and may not be related to data, but to decades of diverse qualitative experience."
+        },
+        {
+          "label": "B",
+          "text": "Intuition is infinitely richer than big data which is based on rational thought and accomplishes more than what big data can."
+        },
+        {
+          "label": "C",
+          "text": "Intuitions are neuro-chemical firings based on pattern recognition and draw upon a rich and vast database of experiences."
+        },
+        {
+          "label": "D",
+          "text": "Intuitions are automatic processes and are therefore faster than rational thought, and so decisions based on them are better."
+        }
+      ],
+      "question_type": "MCQ",
+      "correct_answer": "3",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>To solve this,we need to find which option best captures the <b>main idea</b> about how intuition works.</p>\n<div style=\"height:10px\"></div>\n<p>The passage explains intuition step-by-step: mind sees patterns -&gt; stores experiences in memory -&gt; uses this data for decisions -&gt; body fires chemicals -&gt; gives us gut feelings.</p>\n<div style=\"height:10px\"></div>\n<p>From passage: \"Intuition draws from that deep memory well to inform our decisions going forward. In other words, intuitive decisions are based on data\" and \"When we subconsciously spot patterns, the body starts firing neuro chemicals\"</p>\n<div style=\"height:10px\"></div>\n<p><b>Thought process:</b> Pattern recognition -&gt; stored experiences -&gt; neurochemical response -&gt; gut feeling</p>\n<div style=\"height:10px\"></div>\n<p>The key is understanding that intuition = pattern recognition + memory database + neurochemical firing.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p>🔴 <b>Option 1</b> -&gt; <i>contradicts passage</i> -&gt; says intuition \"may not be related to data\" but passage clearly states intuitive decisions <b>are based on data</b></p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 2</b> -&gt; <i>scope-error</i> -&gt; focuses too much on big data comparison when passage only mentions it briefly at the end. Also misses the core mechanism of how intuition works.</p>\n<div style=\"height:10px\"></div>\n<p>🟢 <b>Option 3</b> -&gt; <i>captures all key elements</i> -&gt; mentions neurochemical firing ✓, pattern recognition ✓, and drawing from experience database ✓</p>\n<div style=\"height:10px\"></div>\n<p>🔴 <b>Option 4</b> -&gt; <i>partial-truth</i> -&gt; only talks about speed but ignores the <b>main mechanism</b> (pattern recognition, memory, neurochemicals). Also adds \"better decisions\" which isn't the passage's focus.</p>\n<div style=\"height:10px\"></div>\n<p><b>Option 3</b> is correct because it includes all three core components: the neurochemical process, pattern recognition, and the experience database that makes intuition work.</p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/23",
+      "passage_id": "passage_11"
+    },
+    {
+      "question_number": "24",
+      "section": "VARC",
+      "year": 2021,
+      "slot": "slot-3",
+      "category_tag": "VA",
+      "sub_topic_tag": "Parajumbles",
+      "difficulty": "Hard",
+      "question_text": "<div class=\"md:px-3\"><div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>The sentences given below, when properly sequenced, would yield a coherent paragraph. Decide on the proper sequencing of the order of the sentences and key in the sequence of the numbers as your answer.</p>\n<div style=\"height:10px\"></div>\n<ol node=\"[object Object]\">\n<li node=\"[object Object]\">It is regimes of truth that make certain relationships speak able - relationships, like subjectivities, are constituted through discursive formations, which sustain regimes of truth.</li>\n<li node=\"[object Object]\">Relationships are nothing without the communication that brings them into being; interpersonal communication is connected to knowledge shared by interlocutors, and scholars should attend to relational histories in their analyses.</li>\n<li node=\"[object Object]\">A Foucauldian approach to relationships goes beyond these conceptions of discourse and history to macro level regimes of truth as constituting relationships.</li>\n<li node=\"[object Object]\">Reconsidering micro practices within relationships that are constituted within and simultaneously contributors to regimes of truth acknowledges the central position of power/knowledge in the constitution of what has come to be considered true and real.</li>\n</ol></div></div></div><div class=\"mt-5 flex items-end\"></div>",
+      "options": [],
+      "question_type": "TITA",
+      "correct_answer": "2314",
+      "images": [],
+      "explanation_text": "<div class=\"responsive-latex-container\"><div class=\"latex-wrapper\"><p>From passage: The sentences discuss relationships, communication, and Foucauldian approaches to understanding how relationships are formed through regimes of truth.</p>\n<div style=\"height:10px\"></div>\n<p><b>Step-by-step thought process:</b></p>\n<div style=\"height:10px\"></div>\n<p><i>Start by finding the opening sentence</i> -&gt; Look for a sentence that introduces the topic without referring back to previous ideas -&gt; Sentence 2 talks about relationships and communication in general terms and mentions what \"scholars should attend to\" - this sounds like an introduction.</p>\n<div style=\"height:10px\"></div>\n<p><i>Find the connecting thread</i> -&gt; Sentence 3 uses \"these conceptions\" which must refer back to ideas already mentioned -&gt; It introduces \"Foucauldian approach\" that goes <b>beyond</b> what was mentioned before -&gt; This naturally follows sentence 2.</p>\n<div style=\"height:10px\"></div>\n<p><i>Follow the logical progression</i> -&gt; Sentence 4 continues the Foucauldian theme by discussing \"micro practices\" after sentence 3 mentioned \"macro level\" -&gt; This creates a macro-to-micro flow.</p>\n<div style=\"height:10px\"></div>\n<p><i>Find the concluding explanation</i> -&gt; Sentence 1 starts with \"It is regimes of truth that...\" which sounds like it's explaining something already introduced -&gt; This explains <b>how</b> the regimes of truth work.</p>\n<hr class=\"my-[18px]\" node=\"[object Object]\"/>\n<p><b>Flow pattern:</b> General concept (2) -&gt; Foucauldian approach introduction (3) -&gt; Specific micro practices (4) -&gt; Detailed explanation of how it works (1)</p>\n<div style=\"height:10px\"></div>\n<p>The sequence <b>2-3-1-4</b> creates logical flow: basic understanding -&gt; new approach -&gt; explanation -&gt; application.</p>\n<div style=\"height:10px\"></div>\n<p><b>Correct Answer: 2314</b></p></div></div>",
+      "explanation_images": [],
+      "source_listing_url": "https://www.aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/",
+      "source_explanation_url": "https://aftergrad.in/past-year-questions/cat/2021/slot-3/VARC/24",
+      "passage_id": "passage_12"
+    }
+  ]
+}
