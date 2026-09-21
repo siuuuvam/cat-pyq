@@ -1,14 +1,16 @@
 {
   "version": 2,
   "builds": [
-    { "src": "site/**/*", "use": "@vercel/static" }
+    { "src": "site/**/*", "use": "@vercel/static" },
+    { "src": "data/**/*", "use": "@vercel/static" },
+    { "src": "assets/**/*", "use": "@vercel/static" }
   ],
   "routes": [
-    { "src": "/data/(.*)", "dest": "/data/$1" },
-    { "src": "/assets/(.*)", "dest": "/assets/$1" },
-    { "src": "/lib/(.*)", "dest": "/site/lib/$1" },
-    { "src": "/css/(.*)", "dest": "/site/css/$1" },
-    { "src": "/js/(.*)", "dest": "/site/js/$1" },
-    { "src": "/(.*)", "dest": "/site/index.html" }
+    { "src": "/data/(.*)", "dest": "data/$1" },
+    { "src": "/assets/(.*)", "dest": "assets/$1" },
+    { "src": "/lib/(.*)", "dest": "site/lib/$1" },
+    { "src": "/css/(.*)", "dest": "site/css/$1" },
+    { "src": "/js/(.*)", "dest": "site/js/$1" },
+    { "src": "/(.*)", "dest": "site/index.html" }
   ]
 }
