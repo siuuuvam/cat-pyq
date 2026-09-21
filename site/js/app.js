@@ -2,6 +2,28 @@ let currentPaper = null;
 let currentQuestionIndex = 0;
 let allPapers = [];
 
+function hideLoading() {
+  const el = document.getElementById('loading');
+  if (el) el.classList.add('hidden');
+}
+
+function showLoading() {
+  const el = document.getElementById('loading');
+  if (el) el.classList.remove('hidden');
+}
+
+function lazyLoadImages() {
+  const imgs = document.querySelectorAll('.question-card img[data-src], .split-question img[data-src], .passage-block img[data-src], .explanation-text img[data-src]');
+  imgs.forEach(img => {
+    const src = img.getAttribute('data-src');
+    if (src) {
+      img.src = src;
+      img.onload = () => img.classList.add('loaded');
+      img.onerror = () => img.classList.add('loaded');
+    }
+  });
+}
+
 async function init() {
   const params = new URLSearchParams(window.location.search);
   const year = params.get('year');
@@ -16,6 +38,7 @@ async function init() {
   } else if (year && !slot && !section) {
     await loadSlotList(year);
   } else {
+    hideLoading();
     renderLanding();
   }
 }
@@ -24,12 +47,14 @@ async function loadPaperView(year, slot, section, qNum) {
   try {
     currentPaper = await loadPaper(year, slot, section);
   } catch (e) {
+    hideLoading();
     document.getElementById('app').innerHTML = `<div class="container"><p>Error loading paper: ${e.message}</p></div>`;
     return;
   }
   const questions = currentPaper.questions;
   currentQuestionIndex = qNum ? questions.findIndex(q => String(q.question_number) === String(qNum)) : 0;
   if (currentQuestionIndex < 0) currentQuestionIndex = 0;
+  hideLoading();
   renderPaperView(year, slot, section);
 }
 
@@ -44,6 +69,7 @@ async function loadSectionList(year, slot) {
       sectionData.push({ section, paper: null, error: e.message });
     }
   }
+  hideLoading();
   renderSectionList(year, slot, sectionData);
 }
 
@@ -62,6 +88,7 @@ async function loadSlotList(year) {
     }
     slotData.push({ slot, sections });
   }
+  hideLoading();
   renderSlotList(year, slotData);
 }
 
@@ -110,7 +137,7 @@ function renderPaperView(year, slot, section) {
   const passageHtml = passage ? `
     <div class="passage-block">
       ${renderContent(passage.text)}
-      ${passage.images && passage.images.length ? passage.images.map(img => `<img src="${fixImgPath(img)}" alt="">`).join('') : ''}
+      ${passage.images && passage.images.length ? passage.images.map(img => `<img data-src="${fixImgPath(img)}" alt="" class="lazy-img">`).join('') : ''}
     </div>
   ` : '';
 
@@ -156,7 +183,7 @@ function renderPaperView(year, slot, section) {
 
     <div class="question-text">
       ${renderContent(q.question_text)}
-      ${q.images && q.images.length ? q.images.map(img => `<img src="${fixImgPath(img)}" alt="">`).join('') : ''}
+      ${q.images && q.images.length ? q.images.map(img => `<img data-src="${fixImgPath(img)}" alt="" class="lazy-img">`).join('') : ''}
     </div>
 
     ${optionsHtml}
@@ -175,7 +202,7 @@ function renderPaperView(year, slot, section) {
     <div id="explanation" class="explanation-section hidden">
       <div class="explanation-heading">✅ Solution</div>
       <div class="explanation-text">${renderContent(q.explanation_text)}
-        ${q.explanation_images && q.explanation_images.length ? q.explanation_images.map(img => `<img src="${fixImgPath(img)}" alt="">`).join('') : ''}
+        ${q.explanation_images && q.explanation_images.length ? q.explanation_images.map(img => `<img data-src="${fixImgPath(img)}" alt="" class="lazy-img">`).join('') : ''}
       </div>
     </div>
   `;
@@ -234,6 +261,7 @@ function renderPaperView(year, slot, section) {
 
       <script>
         renderMath(document.querySelector('.split-question, .question-card'));
+        lazyLoadImages();
       </script>
     </div>
   `;
@@ -241,7 +269,12 @@ function renderPaperView(year, slot, section) {
 
 function toggleExplanation() {
   const el = document.getElementById('explanation');
-  if (el) el.classList.toggle('hidden');
+  if (el) {
+    el.classList.toggle('hidden');
+    if (!el.classList.contains('hidden')) {
+      lazyLoadImages();
+    }
+  }
 }
 
 function selectOption(radio) {
