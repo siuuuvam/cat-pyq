@@ -704,7 +704,7 @@
       "options": [
         {
           "label": "A",
-          "text": "2 2\\sqrt{2} 2 2 ​"
+          "text": "\\sqrt{2}"
         },
         {
           "label": "B",
@@ -716,7 +716,7 @@
         },
         {
           "label": "D",
-          "text": "\\sqrt{2} 2 ​"
+          "text": "\\sqrt{2}"
         }
       ],
       "question_type": "MCQ",
@@ -776,19 +776,19 @@
       "options": [
         {
           "label": "A",
-          "text": "s 2 3 \\frac{2 \\mathrm{~s}^{2}}{\\sqrt{3}} 3 ​ 2 s 2 ​"
+          "text": "\\frac{2 \\mathrm{~s}^{2}}{\\sqrt{3}}"
         },
         {
           "label": "B",
-          "text": "s 2 2 3 \\frac{s^{2}}{2 \\sqrt{3}} 2 3 ​ s 2 ​"
+          "text": "\\frac{s^{2}}{2 \\sqrt{3}}"
         },
         {
           "label": "C",
-          "text": "s 2 2 \\frac{\\sqrt{3} \\mathrm{~s}^{2}}{2} 2 3 ​ s 2 ​"
+          "text": "\\frac{\\sqrt{3} \\mathrm{~s}^{2}}{2}"
         },
         {
           "label": "D",
-          "text": "s 2 3 \\frac{\\mathrm{s}^{2}}{\\sqrt{3}} 3 ​ s 2 ​"
+          "text": "\\frac{\\mathrm{s}^{2}}{\\sqrt{3}}"
         }
       ],
       "question_type": "MCQ",
@@ -884,11 +884,11 @@
       "options": [
         {
           "label": "A",
-          "text": "2 \\frac{1}{\\sqrt{2}} 2 ​ 1 ​"
+          "text": "\\frac{1}{\\sqrt{2}}"
         },
         {
           "label": "B",
-          "text": "2 \\frac{1}{2} 2 1 ​"
+          "text": "\\frac{1}{2}"
         },
         {
           "label": "C",
@@ -896,7 +896,7 @@
         },
         {
           "label": "D",
-          "text": "3 \\frac{1}{\\sqrt{3}} 3 ​ 1 ​"
+          "text": "\\frac{1}{\\sqrt{3}}"
         }
       ],
       "question_type": "MCQ",

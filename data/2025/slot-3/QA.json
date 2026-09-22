@@ -236,19 +236,19 @@
       "options": [
         {
           "label": "A",
-          "text": "( − ∞ , 1 8 ] ∪ [ 1 , ∞ ) \\left(-\\infty,\\frac{1}{8}\\right]\\cup[1,\\infty) ( − ∞ , 8 1 ​ ] ∪ [ 1 , ∞ )"
+          "text": "\\left(-\\infty,\\frac{1}{8}\\right]\\cup[1,\\infty"
         },
         {
           "label": "B",
-          "text": "( − ∞ , 1 8 ] ∪ [ 1 2 , ∞ ) \\left(-\\infty,\\frac{1}{8}\\right]\\cup\\left[\\frac{1}{2},\\infty\\right) ( − ∞ , 8 1 ​ ] ∪ [ 2 1 ​ , ∞ )"
+          "text": "\\left(-\\infty,\\frac{1}{8}\\right]\\cup\\left[\\frac{1}{2},\\infty\\right"
         },
         {
           "label": "C",
-          "text": "( − ∞ , 1 4 ] ∪ [ 1 , ∞ ) \\left(-\\infty,\\frac{1}{4}\\right]\\cup[1,\\infty) ( − ∞ , 4 1 ​ ] ∪ [ 1 , ∞ )"
+          "text": "\\left(-\\infty,\\frac{1}{4}\\right]\\cup[1,\\infty"
         },
         {
           "label": "D",
-          "text": "( − ∞ , 1 4 ] ∪ [ 1 2 , ∞ ) \\left(-\\infty,\\frac{1}{4}\\right]\\cup\\left[\\frac{1}{2},\\infty\\right) ( − ∞ , 4 1 ​ ] ∪ [ 2 1 ​ , ∞ )"
+          "text": "\\left(-\\infty,\\frac{1}{4}\\right]\\cup\\left[\\frac{1}{2},\\infty\\right"
         }
       ],
       "question_type": "MCQ",
@@ -695,7 +695,7 @@
         },
         {
           "label": "B",
-          "text": "2 36\\sqrt{2} 36 2 ​"
+          "text": "\\sqrt{2}"
         },
         {
           "label": "C",
@@ -703,7 +703,7 @@
         },
         {
           "label": "D",
-          "text": "3 30\\sqrt{3} 30 3 ​"
+          "text": "\\sqrt{3}"
         }
       ],
       "question_type": "MCQ",
@@ -735,11 +735,11 @@
         },
         {
           "label": "C",
-          "text": "+ 33 2 \\frac{3+\\sqrt{33}}{2} 2 3 + 33 ​ ​"
+          "text": "\\frac{3+\\sqrt{33}}{2}"
         },
         {
           "label": "D",
-          "text": "\\sqrt{33} 33 ​"
+          "text": "\\sqrt{33}"
         }
       ],
       "question_type": "MCQ",
@@ -818,19 +818,19 @@
       "options": [
         {
           "label": "A",
-          "text": "3 44850\\sqrt{3} 44850 3 ​"
+          "text": "\\sqrt{3}"
         },
         {
           "label": "B",
-          "text": "3 44859\\sqrt{3} 44859 3 ​"
+          "text": "\\sqrt{3}"
         },
         {
           "label": "C",
-          "text": "3 44856\\sqrt{3} 44856 3 ​"
+          "text": "\\sqrt{3}"
         },
         {
           "label": "D",
-          "text": "3 44853\\sqrt{3} 44853 3 ​"
+          "text": "\\sqrt{3}"
         }
       ],
       "question_type": "MCQ",

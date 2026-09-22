@@ -306,19 +306,19 @@
       "options": [
         {
           "label": "A",
-          "text": "31 3\\sqrt{31} 3 31 ​"
+          "text": "\\sqrt{31}"
         },
         {
           "label": "B",
-          "text": "7 3\\sqrt{7} 3 7 ​"
+          "text": "\\sqrt{7}"
         },
         {
           "label": "C",
-          "text": "7 2\\sqrt{7} 2 7 ​"
+          "text": "\\sqrt{7}"
         },
         {
           "label": "D",
-          "text": "5 4\\sqrt{5} 4 5 ​"
+          "text": "\\sqrt{5}"
         }
       ],
       "question_type": "MCQ",
@@ -399,7 +399,7 @@
       "options": [
         {
           "label": "A",
-          "text": "11 \\frac{24}{11} 11 24 ​"
+          "text": "\\frac{24}{11}"
         },
         {
           "label": "B",
@@ -411,7 +411,7 @@
         },
         {
           "label": "D",
-          "text": "11 \\frac{36}{11} 11 36 ​"
+          "text": "\\frac{36}{11}"
         }
       ],
       "question_type": "MCQ",
@@ -543,19 +543,19 @@
       "options": [
         {
           "label": "A",
-          "text": "% 42\\% 42%"
+          "text": "\\%"
         },
         {
           "label": "B",
-          "text": "% 49\\% 49%"
+          "text": "\\%"
         },
         {
           "label": "C",
-          "text": "% 47\\% 47%"
+          "text": "\\%"
         },
         {
           "label": "D",
-          "text": "% 45\\% 45%"
+          "text": "\\%"
         }
       ],
       "question_type": "MCQ",
@@ -579,19 +579,19 @@
       "options": [
         {
           "label": "A",
-          "text": "% 26\\% 26%"
+          "text": "\\%"
         },
         {
           "label": "B",
-          "text": "% 25\\% 25%"
+          "text": "\\%"
         },
         {
           "label": "C",
-          "text": "% 28\\% 28%"
+          "text": "\\%"
         },
         {
           "label": "D",
-          "text": "% 30\\% 30%"
+          "text": "\\%"
         }
       ],
       "question_type": "MCQ",
@@ -763,19 +763,19 @@
       "options": [
         {
           "label": "A",
-          "text": "y , x \\mathrm{y}, \\mathrm{x} y , x and z are in arithmetic progression"
+          "text": "\\mathrm{y}, \\mathrm{x}"
         },
         {
           "label": "B",
-          "text": "x , y x, \\mathrm{y} x , y and z z z are in geometric progression"
+          "text": "\\mathrm{y}"
         },
         {
           "label": "C",
-          "text": "x , z \\sqrt{\\mathrm{x}}, \\sqrt{\\mathrm{z}} x ​ , z ​ and y \\sqrt{\\mathrm{y}} y ​ are in arithmetic progression"
+          "text": "\\sqrt{\\mathrm{x}}, \\sqrt{\\mathrm{z}} x  , z  and y \\sqrt{\\mathrm{y}}"
         },
         {
           "label": "D",
-          "text": "x , z \\sqrt{\\mathrm{x}}, \\sqrt{\\mathrm{z}} x ​ , z ​ and z \\sqrt{\\mathrm{z}} z ​ are in arithmetic progression"
+          "text": "\\sqrt{\\mathrm{x}}, \\sqrt{\\mathrm{z}} x  , z  and z \\sqrt{\\mathrm{z}}"
         }
       ],
       "question_type": "MCQ",

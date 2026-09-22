@@ -361,19 +361,19 @@
       "options": [
         {
           "label": "A",
-          "text": "+ 12 \\sqrt{13}+\\sqrt{12} 13 ​ + 12 ​"
+          "text": "\\sqrt{13}+\\sqrt{12}"
         },
         {
           "label": "B",
-          "text": "+ 13 \\sqrt{37}+\\sqrt{13} 37 ​ + 13 ​"
+          "text": "\\sqrt{37}+\\sqrt{13}"
         },
         {
           "label": "C",
-          "text": "+ 12 2 \\frac{\\sqrt{13}+\\sqrt{12}}{2} 2 13 ​ + 12 ​ ​"
+          "text": "\\frac{\\sqrt{13}+\\sqrt{12}}{2}"
         },
         {
           "label": "D",
-          "text": "+ 13 2 \\frac{\\sqrt{37}+\\sqrt{13}}{2} 2 37 ​ + 13 ​ ​"
+          "text": "\\frac{\\sqrt{37}+\\sqrt{13}}{2}"
         }
       ],
       "question_type": "MCQ",
@@ -581,19 +581,19 @@
       "options": [
         {
           "label": "A",
-          "text": "[ 3 7 , 1 2 ] [\\frac{3}{7}, \\frac{1}{2}] [ 7 3 ​ , 2 1 ​ ]"
+          "text": "\\frac{3}{7}, \\frac{1}{2}"
         },
         {
           "label": "B",
-          "text": "[ 3 7 , 1 2 ) [\\frac{3}{7}, \\frac{1}{2}) [ 7 3 ​ , 2 1 ​ )"
+          "text": "\\frac{3}{7}, \\frac{1}{2}"
         },
         {
           "label": "C",
-          "text": "[ 3 7 , 9 2 ) [\\frac{3}{7}, \\frac{9}{2}) [ 7 3 ​ , 2 9 ​ )"
+          "text": "\\frac{3}{7}, \\frac{9}{2}"
         },
         {
           "label": "D",
-          "text": "[ 4 9 , 8 9 ] [\\frac{4}{9}, \\frac{8}{9}] [ 9 4 ​ , 9 8 ​ ]"
+          "text": "\\frac{4}{9}, \\frac{8}{9}"
         }
       ],
       "question_type": "MCQ",

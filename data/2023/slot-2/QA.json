@@ -198,7 +198,7 @@
       "options": [
         {
           "label": "A",
-          "text": "x y < y x \\frac{x}{y} < \\frac{y}{x} y x ​ < x y ​"
+          "text": "\\frac{x}{y} < \\frac{y}{x}"
         },
         {
           "label": "B",
@@ -270,15 +270,15 @@
       "options": [
         {
           "label": "A",
-          "text": "2 \\frac{3}{2} 2 3 ​"
+          "text": "\\frac{3}{2}"
         },
         {
           "label": "B",
-          "text": "2 \\frac{5}{2} 2 5 ​"
+          "text": "\\frac{5}{2}"
         },
         {
           "label": "C",
-          "text": "2 \\frac{1}{2} 2 1 ​"
+          "text": "\\frac{1}{2}"
         },
         {
           "label": "D",
@@ -435,19 +435,19 @@
       "options": [
         {
           "label": "A",
-          "text": "25 % 31.25\\% 31.25%"
+          "text": "\\%"
         },
         {
           "label": "B",
-          "text": "% 26\\% 26%"
+          "text": "\\%"
         },
         {
           "label": "C",
-          "text": "% 52\\% 52%"
+          "text": "\\%"
         },
         {
           "label": "D",
-          "text": "42 % 35.42\\% 35.42%"
+          "text": "\\%"
         }
       ],
       "question_type": "MCQ",
@@ -689,19 +689,19 @@
       "options": [
         {
           "label": "A",
-          "text": "a b r 2 a 2 + b 2 \\frac{abr^2}{a^2+b^2} a 2 + b 2 ab r 2 ​"
+          "text": "\\frac{abr^2}{a^2+b^2}"
         },
         {
           "label": "B",
-          "text": "a b r 2 2 ( a 2 + b 2 ) \\frac{abr^2}{2(a^2+b^2)} 2 ( a 2 + b 2 ) ab r 2 ​"
+          "text": "\\frac{abr^2}{2(a^2+b^2)}"
         },
         {
           "label": "C",
-          "text": "a b r 2 a 2 + b 2 \\frac{2abr^2}{a^2+b^2} a 2 + b 2 2 ab r 2 ​"
+          "text": "\\frac{2abr^2}{a^2+b^2}"
         },
         {
           "label": "D",
-          "text": "a b r 2 a 2 + b 2 \\frac{4abr^2}{a^2+b^2} a 2 + b 2 4 ab r 2 ​"
+          "text": "\\frac{4abr^2}{a^2+b^2}"
         }
       ],
       "question_type": "MCQ",

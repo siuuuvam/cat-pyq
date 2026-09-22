@@ -304,19 +304,19 @@
       "options": [
         {
           "label": "A",
-          "text": "− log ⁡ 2 ( 1 / 5 ) -\\log _{2}(1 / 5) − lo g 2 ​ ( 1/5 )"
+          "text": "\\log"
         },
         {
           "label": "B",
-          "text": "log ⁡ 2 ( 1 / 5 ) \\log _{2}(1 / 5) lo g 2 ​ ( 1/5 )"
+          "text": "\\log"
         },
         {
           "label": "C",
-          "text": "− log ⁡ 2 ( 1 / 3 ) -\\log _{2}(1 / 3) − lo g 2 ​ ( 1/3 )"
+          "text": "\\log"
         },
         {
           "label": "D",
-          "text": "log ⁡ 2 ( 1 / 3 ) \\log _{2}(1 / 3) lo g 2 ​ ( 1/3 )"
+          "text": "\\log"
         }
       ],
       "question_type": "MCQ",
@@ -649,19 +649,19 @@
       "options": [
         {
           "label": "A",
-          "text": "π 15 \\frac{2\\pi}{15} 15 2 π ​"
+          "text": "\\frac{2\\pi}{15}"
         },
         {
           "label": "B",
-          "text": "π 25 \\frac{3\\pi}{25} 25 3 π ​"
+          "text": "\\frac{3\\pi}{25}"
         },
         {
           "label": "C",
-          "text": "π 25 \\frac{6\\pi}{25} 25 6 π ​"
+          "text": "\\frac{6\\pi}{25}"
         },
         {
           "label": "D",
-          "text": "π 18 \\frac{5\\pi}{18} 18 5 π ​"
+          "text": "\\frac{5\\pi}{18}"
         }
       ],
       "question_type": "MCQ",
@@ -685,19 +685,19 @@
       "options": [
         {
           "label": "A",
-          "text": "π 15 \\frac{2 \\pi}{15} 15 2 π ​"
+          "text": "\\frac{2 \\pi}{15}"
         },
         {
           "label": "B",
-          "text": "π 25 \\frac{3 \\pi}{25} 25 3 π ​"
+          "text": "\\frac{3 \\pi}{25}"
         },
         {
           "label": "C",
-          "text": "π 25 \\frac{6 \\pi}{25} 25 6 π ​"
+          "text": "\\frac{6 \\pi}{25}"
         },
         {
           "label": "D",
-          "text": "π 18 \\frac{5 \\pi}{18} 18 5 π ​"
+          "text": "\\frac{5 \\pi}{18}"
         }
       ],
       "question_type": "MCQ",
@@ -721,19 +721,19 @@
       "options": [
         {
           "label": "A",
-          "text": "x 7 x 2 3 \\frac{x^{7}}{x^{2 \\sqrt{3}}} x 2 3 ​ x 7 ​"
+          "text": "\\frac{x^{7}}{x^{2 \\sqrt{3}}}"
         },
         {
           "label": "B",
-          "text": "x 7 2 x 4 3 \\frac{x^{\\frac{7}{2}}}{x^{\\frac{4}{\\sqrt{3}}}} x 3 ​ 4 ​ x 2 7 ​ ​"
+          "text": "\\frac{x^{\\frac{7}{2}}}{x^{\\frac{4}{\\sqrt{3}}}}"
         },
         {
           "label": "C",
-          "text": "x 7 2 x 2 3 \\frac{x^{\\frac{7}{2}}}{x^{2\\sqrt{3}}} x 2 3 ​ x 2 7 ​ ​"
+          "text": "\\frac{x^{\\frac{7}{2}}}{x^{2\\sqrt{3}}}"
         },
         {
           "label": "D",
-          "text": "x 7 x 4 3 \\frac{x^{7}}{x^{4 \\sqrt{3}}} x 4 3 ​ x 7 ​"
+          "text": "\\frac{x^{7}}{x^{4 \\sqrt{3}}}"
         }
       ],
       "question_type": "MCQ",
@@ -757,19 +757,19 @@
       "options": [
         {
           "label": "A",
-          "text": "π ( 5 + 12 π ) 3 \\sqrt{\\pi}\\left(5+\\frac{12}{\\pi}\\right) 3 π ​ ( 5 + π 12 ​ )"
+          "text": "\\sqrt{\\pi}\\left(5+\\frac{12}{\\pi}\\right"
         },
         {
           "label": "B",
-          "text": "π ( 5 2 + 6 π ) 3 \\sqrt{\\pi}\\left(\\frac{5}{2}+\\frac{6}{\\pi}\\right) 3 π ​ ( 2 5 ​ + π 6 ​ )"
+          "text": "\\sqrt{\\pi}\\left(\\frac{5}{2}+\\frac{6}{\\pi}\\right"
         },
         {
           "label": "C",
-          "text": "π ( 3 + 9 π ) 5 \\sqrt{\\pi}\\left(3+\\frac{9}{\\pi}\\right) 5 π ​ ( 3 + π 9 ​ )"
+          "text": "\\sqrt{\\pi}\\left(3+\\frac{9}{\\pi}\\right"
         },
         {
           "label": "D",
-          "text": "π ( 3 + 9 π ) 4 \\sqrt{\\pi}\\left(3+\\frac{9}{\\pi}\\right) 4 π ​ ( 3 + π 9 ​ )"
+          "text": "\\sqrt{\\pi}\\left(3+\\frac{9}{\\pi}\\right"
         }
       ],
       "question_type": "MCQ",

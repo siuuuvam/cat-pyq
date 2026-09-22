@@ -418,19 +418,19 @@
       "options": [
         {
           "label": "A",
-          "text": "( 5 + 15 ) 25(\\sqrt{5}+\\sqrt{15}) 25 ( 5 ​ + 15 ​ )"
+          "text": "\\sqrt{5}+\\sqrt{15}"
         },
         {
           "label": "B",
-          "text": "( 3 + 15 ) 25(\\sqrt{3}+\\sqrt{15}) 25 ( 3 ​ + 15 ​ )"
+          "text": "\\sqrt{3}+\\sqrt{15}"
         },
         {
           "label": "C",
-          "text": "( 5 + 15 ) 2 \\frac{25(\\sqrt{5}+\\sqrt{15})}{2} 2 25 ( 5 ​ + 15 ​ ) ​"
+          "text": "\\frac{25(\\sqrt{5}+\\sqrt{15})}{2}"
         },
         {
           "label": "D",
-          "text": "( 3 + 15 ) 2 \\frac{25(\\sqrt{3}+\\sqrt{15})}{2} 2 25 ( 3 ​ + 15 ​ ) ​"
+          "text": "\\frac{25(\\sqrt{3}+\\sqrt{15})}{2}"
         }
       ],
       "question_type": "MCQ",
@@ -617,11 +617,11 @@
       "options": [
         {
           "label": "A",
-          "text": "3 \\frac{8}{3} 3 8 ​"
+          "text": "\\frac{8}{3}"
         },
         {
           "label": "B",
-          "text": "− 4 3 -\\frac{4}{3} − 3 4 ​"
+          "text": "\\frac{4}{3}"
         },
         {
           "label": "C",

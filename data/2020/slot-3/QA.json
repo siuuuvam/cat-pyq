@@ -230,19 +230,19 @@
       "options": [
         {
           "label": "A",
-          "text": "% 90\\% 90%"
+          "text": "\\%"
         },
         {
           "label": "B",
-          "text": "% 92\\% 92%"
+          "text": "\\%"
         },
         {
           "label": "C",
-          "text": "% 94\\% 94%"
+          "text": "\\%"
         },
         {
           "label": "D",
-          "text": "% 89\\% 89%"
+          "text": "\\%"
         }
       ],
       "question_type": "MCQ",
@@ -410,11 +410,11 @@
       "options": [
         {
           "label": "A",
-          "text": "A + B − 3 \\frac{2}{A+B} - 3 A + B 2 ​ − 3"
+          "text": "\\frac{2}{A+B}"
         },
         {
           "label": "B",
-          "text": "A + B − 3 \\frac{2}{A+B-3} A + B − 3 2 ​"
+          "text": "\\frac{2}{A+B-3}"
         },
         {
           "label": "C",
@@ -422,7 +422,7 @@
         },
         {
           "label": "D",
-          "text": "A + B − 3 2 \\frac{A+B-3}{2} 2 A + B − 3 ​"
+          "text": "\\frac{A+B-3}{2}"
         }
       ],
       "question_type": "MCQ",
@@ -721,19 +721,19 @@
       "options": [
         {
           "label": "A",
-          "text": "π 5 \\frac{12 \\pi}{5} 5 12 π ​"
+          "text": "\\frac{12 \\pi}{5}"
         },
         {
           "label": "B",
-          "text": "π 5 \\frac{14 \\pi}{5} 5 14 π ​"
+          "text": "\\frac{14 \\pi}{5}"
         },
         {
           "label": "C",
-          "text": "π 9 \\frac{205 \\pi}{9} 9 205 π ​"
+          "text": "\\frac{205 \\pi}{9}"
         },
         {
           "label": "D",
-          "text": "π 7 \\frac{123 \\pi}{7} 7 123 π ​"
+          "text": "\\frac{123 \\pi}{7}"
         }
       ],
       "question_type": "MCQ",

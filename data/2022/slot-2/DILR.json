@@ -295,19 +295,19 @@
       "options": [
         {
           "label": "A",
-          "text": "24 % 3.24\\% 3.24%"
+          "text": "\\%"
         },
         {
           "label": "B",
-          "text": "% 30\\% 30%"
+          "text": "\\%"
         },
         {
           "label": "C",
-          "text": "% 18\\% 18%"
+          "text": "\\%"
         },
         {
           "label": "D",
-          "text": "4 % 5.4\\% 5.4%"
+          "text": "\\%"
         }
       ],
       "question_type": "MCQ",

@@ -566,19 +566,19 @@
       "options": [
         {
           "label": "A",
-          "text": "6 6\\sqrt{6} 6 6 ​"
+          "text": "\\sqrt{6}"
         },
         {
           "label": "B",
-          "text": "6 2\\sqrt{6} 2 6 ​"
+          "text": "\\sqrt{6}"
         },
         {
           "label": "C",
-          "text": "\\sqrt{6} 6 ​"
+          "text": "\\sqrt{6}"
         },
         {
           "label": "D",
-          "text": "6 4\\sqrt{6} 4 6 ​"
+          "text": "\\sqrt{6}"
         }
       ],
       "question_type": "MCQ",
@@ -765,19 +765,19 @@
       "options": [
         {
           "label": "A",
-          "text": "\\sqrt{13} 13 ​"
+          "text": "\\sqrt{13}"
         },
         {
           "label": "B",
-          "text": "\\sqrt{15} 15 ​"
+          "text": "\\sqrt{15}"
         },
         {
           "label": "C",
-          "text": "\\sqrt{14} 14 ​"
+          "text": "\\sqrt{14}"
         },
         {
           "label": "D",
-          "text": "\\sqrt{12} 12 ​"
+          "text": "\\sqrt{12}"
         }
       ],
       "question_type": "MCQ",

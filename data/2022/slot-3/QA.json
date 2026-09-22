@@ -344,7 +344,7 @@
       "options": [
         {
           "label": "A",
-          "text": "2 \\frac{1}{2} 2 1 ​"
+          "text": "\\frac{1}{2}"
         },
         {
           "label": "B",
@@ -356,7 +356,7 @@
         },
         {
           "label": "D",
-          "text": "2 \\frac{1}{2} 2 1 ​"
+          "text": "\\frac{1}{2}"
         }
       ],
       "question_type": "MCQ",
@@ -418,15 +418,15 @@
       "options": [
         {
           "label": "A",
-          "text": "x ≤ r x \\le r x ≤ r"
+          "text": "\\le"
         },
         {
           "label": "B",
-          "text": "x ≥ r x \\ge r x ≥ r"
+          "text": "\\ge"
         },
         {
           "label": "C",
-          "text": "x ≠ r x \\ne r x  = r"
+          "text": "\\ne"
         },
         {
           "label": "D",
@@ -454,19 +454,19 @@
       "options": [
         {
           "label": "A",
-          "text": "( π − 1 ) 32 (\\pi - 1) 32 ( π − 1 )"
+          "text": "\\pi"
         },
         {
           "label": "B",
-          "text": "π 32\\pi 32 π"
+          "text": "\\pi"
         },
         {
           "label": "C",
-          "text": "( π − 1 ) 16 (\\pi - 1) 16 ( π − 1 )"
+          "text": "\\pi"
         },
         {
           "label": "D",
-          "text": "π 16\\pi 16 π"
+          "text": "\\pi"
         }
       ],
       "question_type": "MCQ",

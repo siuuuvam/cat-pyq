@@ -238,19 +238,19 @@
       "options": [
         {
           "label": "A",
-          "text": "( 4 π 3 + 3 ) 20 \\left(\\frac{4\\pi}{\\sqrt{3}} + \\sqrt{3}\\right) 20 ( 3 ​ 4 π ​ + 3 ​ )"
+          "text": "\\left(\\frac{4\\pi}{\\sqrt{3}} + \\sqrt{3}\\right"
         },
         {
           "label": "B",
-          "text": "( 4 π 3 − 3 ) 20 \\left(\\frac{4\\pi}{\\sqrt{3}} - \\sqrt{3}\\right) 20 ( 3 ​ 4 π ​ − 3 ​ )"
+          "text": "\\left(\\frac{4\\pi}{\\sqrt{3}} - \\sqrt{3}\\right"
         },
         {
           "label": "C",
-          "text": "( 4 π 3 − 3 ) 25 \\left(\\frac{4\\pi}{3} - \\sqrt{3}\\right) 25 ( 3 4 π ​ − 3 ​ )"
+          "text": "\\left(\\frac{4\\pi}{3} - \\sqrt{3}\\right"
         },
         {
           "label": "D",
-          "text": "( 4 π 3 + 3 ) 25 \\left(\\frac{4\\pi}{3} + \\sqrt{3}\\right) 25 ( 3 4 π ​ + 3 ​ )"
+          "text": "\\left(\\frac{4\\pi}{3} + \\sqrt{3}\\right"
         }
       ],
       "question_type": "MCQ",
@@ -516,19 +516,19 @@
       "options": [
         {
           "label": "A",
-          "text": "log ⁡ 10 2 \\log_{10} 2 lo g 10 ​ 2"
+          "text": "\\log_{10}"
         },
         {
           "label": "B",
-          "text": "log ⁡ 10 2 3\\log_{10} 2 3 lo g 10 ​ 2"
+          "text": "\\log_{10}"
         },
         {
           "label": "C",
-          "text": "log ⁡ 10 2 2\\log_{10} 2 2 lo g 10 ​ 2"
+          "text": "\\log_{10}"
         },
         {
           "label": "D",
-          "text": "log ⁡ 10 2 4\\log_{10} 2 4 lo g 10 ​ 2"
+          "text": "\\log_{10}"
         }
       ],
       "question_type": "MCQ",
@@ -753,19 +753,19 @@
       "options": [
         {
           "label": "A",
-          "text": "20 \\frac{3}{20} 20 3 ​"
+          "text": "\\frac{3}{20}"
         },
         {
           "label": "B",
-          "text": "10 \\frac{3}{10} 10 3 ​"
+          "text": "\\frac{3}{10}"
         },
         {
           "label": "C",
-          "text": "5 \\frac{1}{5} 5 1 ​"
+          "text": "\\frac{1}{5}"
         },
         {
           "label": "D",
-          "text": "20 \\frac{1}{20} 20 1 ​"
+          "text": "\\frac{1}{20}"
         }
       ],
       "question_type": "MCQ",
@@ -789,19 +789,19 @@
       "options": [
         {
           "label": "A",
-          "text": "( 2 + 2 ) 36(2+\\sqrt{2}) 36 ( 2 + 2 ​ )"
+          "text": "\\sqrt{2}"
         },
         {
           "label": "B",
-          "text": "( 1 + 2 ) 72(1+\\sqrt{2}) 72 ( 1 + 2 ​ )"
+          "text": "\\sqrt{2}"
         },
         {
           "label": "C",
-          "text": "( 1 + 2 ) 36(1+\\sqrt{2}) 36 ( 1 + 2 ​ )"
+          "text": "\\sqrt{2}"
         },
         {
           "label": "D",
-          "text": "( 2 + 2 ) 72(2+\\sqrt{2}) 72 ( 2 + 2 ​ )"
+          "text": "\\sqrt{2}"
         }
       ],
       "question_type": "MCQ",
@@ -835,11 +835,11 @@
         },
         {
           "label": "C",
-          "text": "a + k ≠ 0 2a + k\\neq 0 2 a + k  = 0"
+          "text": "\\neq"
         },
         {
           "label": "D",
-          "text": "k p + 12 ≠ 0 kp + 12 \\neq 0 k p + 12  = 0"
+          "text": "\\neq"
         }
       ],
       "question_type": "MCQ",

@@ -1,32 +1,76 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>CAT Past Year Questions</title>
+  <title>CAT PYQs — Past Year Question Practice</title>
+  <meta name="description" content="Practice CAT (Common Admission Test) previous year questions from 2020–2025. Filter by year, slot, and section. Track progress, bookmark questions, and more.">
+  <meta property="og:title" content="CAT PYQs — Past Year Question Practice">
+  <meta property="og:description" content="Practice real CAT past year questions from 2020–2025 with answers, explanations, and progress tracking.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://cat-pyq.vercel.app">
+  <meta name="theme-color" content="#ea580c">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📝</text></svg>">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/styles.css">
   <link rel="stylesheet" href="lib/katex.min.css">
 </head>
 <body>
   <header class="site-header">
     <div class="header-inner">
-      <a href="index.html" class="logo">CAT PYQs</a>
-      <nav class="header-nav">
-        <a href="index.html">PYQs</a>
-        <a href="?year=2025">2025</a>
-        <a href="?year=2024">2024</a>
-        <a href="?year=2023">2023</a>
-        <a href="?year=2022">2022</a>
-        <a href="?year=2021">2021</a>
-        <a href="?year=2020">2020</a>
+      <a href="index.html" class="logo" onclick="event.preventDefault(); window.__appNav('index.html')">CAT PYQs</a>
+
+      <nav class="header-nav" aria-label="Main navigation">
+        <a href="index.html" data-year="" onclick="event.preventDefault(); window.__appNav('index.html')">Home</a>
+        <a href="?year=2025" data-year="2025" onclick="event.preventDefault(); window.__appNav('?year=2025')">2025</a>
+        <a href="?year=2024" data-year="2024" onclick="event.preventDefault(); window.__appNav('?year=2024')">2024</a>
+        <a href="?year=2023" data-year="2023" onclick="event.preventDefault(); window.__appNav('?year=2023')">2023</a>
+        <a href="?year=2022" data-year="2022" onclick="event.preventDefault(); window.__appNav('?year=2022')">2022</a>
+        <a href="?year=2021" data-year="2021" onclick="event.preventDefault(); window.__appNav('?year=2021')">2021</a>
+        <a href="?year=2020" data-year="2020" onclick="event.preventDefault(); window.__appNav('?year=2020')">2020</a>
       </nav>
+
+      <div class="header-actions">
+        <div class="search-wrapper" id="search-wrapper">
+          <svg class="search-icon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          <input type="text" id="search-input" class="search-input" placeholder="Search questions..." aria-label="Search questions">
+        </div>
+        <button id="timer-toggle" class="icon-btn" title="Toggle timer (T)" aria-label="Toggle timer">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </button>
+        <button id="print-btn" class="icon-btn" title="Print questions (P)" aria-label="Print questions">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
+        </button>
+        <button id="theme-toggle" class="icon-btn" title="Toggle dark mode" aria-label="Toggle dark mode">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+        </button>
+        <button id="mobile-menu-btn" class="mobile-menu-btn" aria-label="Toggle menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+
+    <div id="mobile-menu" class="mobile-menu">
+      <a href="index.html" onclick="event.preventDefault(); window.__appNav('index.html')">Home</a>
+      <a href="?view=bookmarks" onclick="event.preventDefault(); window.__appNav('?view=bookmarks')">Bookmarks</a>
+      <a href="?view=progress" onclick="event.preventDefault(); window.__appNav('?view=progress')">Progress</a>
+      <a href="?view=random" onclick="event.preventDefault(); window.__appNav('?view=random')">Quick Practice</a>
+      <hr>
+      <a href="?year=2025" onclick="event.preventDefault(); window.__appNav('?year=2025')">2025</a>
+      <a href="?year=2024" onclick="event.preventDefault(); window.__appNav('?year=2024')">2024</a>
+      <a href="?year=2023" onclick="event.preventDefault(); window.__appNav('?year=2023')">2023</a>
+      <a href="?year=2022" onclick="event.preventDefault(); window.__appNav('?year=2022')">2022</a>
+      <a href="?year=2021" onclick="event.preventDefault(); window.__appNav('?year=2021')">2021</a>
+      <a href="?year=2020" onclick="event.preventDefault(); window.__appNav('?year=2020')">2020</a>
     </div>
   </header>
 
   <main id="app" aria-label="Main content">
     <div id="loading" class="loading-overlay">
       <div class="loading-spinner"></div>
-      <p>Loading questions...</p>
+      <p>Loading...</p>
     </div>
   </main>
 

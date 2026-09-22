@@ -527,19 +527,19 @@
       "options": [
         {
           "label": "A",
-          "text": "% 60\\% 60%"
+          "text": "\\%"
         },
         {
           "label": "B",
-          "text": "% 64\\% 64%"
+          "text": "\\%"
         },
         {
           "label": "C",
-          "text": "% 40\\% 40%"
+          "text": "\\%"
         },
         {
           "label": "D",
-          "text": "% 36\\% 36%"
+          "text": "\\%"
         }
       ],
       "question_type": "MCQ",
@@ -563,19 +563,19 @@
       "options": [
         {
           "label": "A",
-          "text": "% 32\\% 32%"
+          "text": "\\%"
         },
         {
           "label": "B",
-          "text": "% 40\\% 40%"
+          "text": "\\%"
         },
         {
           "label": "C",
-          "text": "% 36\\% 36%"
+          "text": "\\%"
         },
         {
           "label": "D",
-          "text": "% 38\\% 38%"
+          "text": "\\%"
         }
       ],
       "question_type": "MCQ",

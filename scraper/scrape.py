@@ -93,6 +93,16 @@ def file_hash(filepath: Path) -> str:
     return h.hexdigest()
 
 
+def clean_katex_annotations(element: BeautifulSoup) -> None:
+    """Remove KaTeX MathML annotation elements that duplicate rendered text."""
+    for mathml in element.find_all("span", class_="katex-mathml"):
+        mathml.decompose()
+    for annotation in element.find_all("annotation"):
+        annotation.decompose()
+    for mrow in element.find_all("mrow"):
+        mrow.decompose()
+
+
 # ---------------------------------------------------------------------------
 # Image Downloading
 # ---------------------------------------------------------------------------
@@ -290,6 +300,8 @@ def parse_passage(article: BeautifulSoup, dest_dir: Path) -> Tuple[str, str, Lis
                 image_paths.append(local)
             img.decompose()
 
+        clean_katex_annotations(passage_div)
+
         latex_container = passage_div.find("div", class_="responsive-latex-container")
         if latex_container:
             passage_html = inner_html(latex_container)
@@ -335,6 +347,8 @@ def parse_question_text(article: BeautifulSoup) -> str:
     for h in soup.find_all(["h1", "h2", "h3"]):
         h.decompose()
 
+    clean_katex_annotations(soup)
+
     main_container = soup.find("div", attrs={"aria-labelledby": re.compile(r"question-(?!cat\d+-title)", re.I)})
     if not main_container:
         main_container = soup.find("div", class_=re.compile(r"question-content|question-body|latex-wrapper", re.I))
@@ -362,9 +376,17 @@ def parse_options(article: BeautifulSoup) -> Tuple[List[Dict[str, str]], str]:
     if fieldset:
         labels = fieldset.find_all("label")
         for i, label in enumerate(labels):
-            label_text = label.get_text(separator=" ", strip=True)
-            label_text = re.sub(r"^\s*(?:[A-Da-d][.)]\s*|[\d]+[.)]?\s*)", "", label_text, count=1).strip()
-            if not label_text or len(label_text) < 3:
+            katex = label.find("span", class_="katex")
+            if katex:
+                annotation = katex.find("annotation", encoding="application/x-tex")
+                if annotation and annotation.get_text(strip=True):
+                    label_text = annotation.get_text(strip=True)
+                else:
+                    label_text = katex.get_text(separator=" ", strip=True)
+            else:
+                label_text = label.get_text(separator=" ", strip=True)
+                label_text = re.sub(r"^\s*(?:[A-Da-d][.)]\s*|[\d]+[.)]?\s*)", "", label_text, count=1).strip()
+            if not label_text or len(label_text) < 1:
                 label_text = label.get_text(separator=" ", strip=True)
             options.append({"label": chr(65 + i), "text": label_text})
         return options, "MCQ"
@@ -528,6 +550,8 @@ def parse_explanation_page(html: str, q_data: Dict[str, Any]) -> Dict[str, Any]:
             img.decompose()
 
         q_data["explanation_images"] = expl_images
+
+        clean_katex_annotations(solution_section)
 
         expl_div = solution_section.find("div", attrs={"aria-label": "Solution explanation"})
         if expl_div:

@@ -236,19 +236,19 @@
       "options": [
         {
           "label": "A",
-          "text": "5 % 62.5 \\% 62.5%"
+          "text": "\\%"
         },
         {
           "label": "B",
-          "text": "% 40 \\% 40%"
+          "text": "\\%"
         },
         {
           "label": "C",
-          "text": "% 60 \\% 60%"
+          "text": "\\%"
         },
         {
           "label": "D",
-          "text": "5 % 37.5 \\% 37.5%"
+          "text": "\\%"
         }
       ],
       "question_type": "MCQ",
@@ -437,19 +437,19 @@
       "options": [
         {
           "label": "A",
-          "text": "P 2 2 − 2 P R 16 \\frac{P^2}{2} - \\frac{2PR}{16} 2 P 2 ​ − 16 2 PR ​"
+          "text": "\\frac{P^2}{2} - \\frac{2PR}{16}"
         },
         {
           "label": "B",
-          "text": "P 2 16 − R 2 \\frac{P^2}{16} - R^2 16 P 2 ​ − R 2"
+          "text": "\\frac{P^2}{16}"
         },
         {
           "label": "C",
-          "text": "P 2 8 − 2 R 2 \\frac{P^2}{8} - 2R^2 8 P 2 ​ − 2 R 2"
+          "text": "\\frac{P^2}{8}"
         },
         {
           "label": "D",
-          "text": "P 2 8 − R 2 2 \\frac{P^2}{8} - \\frac{R^2}{2} 8 P 2 ​ − 2 R 2 ​"
+          "text": "\\frac{P^2}{8} - \\frac{R^2}{2}"
         }
       ],
       "question_type": "MCQ",

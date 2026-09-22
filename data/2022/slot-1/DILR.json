@@ -620,19 +620,19 @@
       "options": [
         {
           "label": "A",
-          "text": ": 39 p m 11: 39 \\mathrm{pm} 11 : 39 pm"
+          "text": "\\mathrm{pm}"
         },
         {
           "label": "B",
-          "text": ": 43 p m 11: 43 \\mathrm{pm} 11 : 43 pm"
+          "text": "\\mathrm{pm}"
         },
         {
           "label": "C",
-          "text": ": 49 p m 11:49 \\mathrm{pm} 11 : 49 pm"
+          "text": "\\mathrm{pm}"
         },
         {
           "label": "D",
-          "text": ": 35 p m 11: 35 \\mathrm{pm} 11 : 35 pm"
+          "text": "\\mathrm{pm}"
         }
       ],
       "question_type": "MCQ",

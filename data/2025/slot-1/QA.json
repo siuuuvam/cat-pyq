@@ -234,19 +234,19 @@
       "options": [
         {
           "label": "A",
-          "text": "( 3 2 + 7 ) 4(3\\sqrt{2}+\\sqrt{7}) 4 ( 3 2 ​ + 7 ​ )"
+          "text": "\\sqrt{2}+\\sqrt{7}"
         },
         {
           "label": "B",
-          "text": "( 3 + 14 ) 4(3+\\sqrt{14}) 4 ( 3 + 14 ​ )"
+          "text": "\\sqrt{14}"
         },
         {
           "label": "C",
-          "text": "( 3 + 14 ) 20(3+\\sqrt{14}) 20 ( 3 + 14 ​ )"
+          "text": "\\sqrt{14}"
         },
         {
           "label": "D",
-          "text": "( 3 2 + 7 ) 20(3\\sqrt{2}+\\sqrt{7}) 20 ( 3 2 ​ + 7 ​ )"
+          "text": "\\sqrt{2}+\\sqrt{7}"
         }
       ],
       "question_type": "MCQ",
@@ -270,19 +270,19 @@
       "options": [
         {
           "label": "A",
-          "text": "[ 3 , 10 ] ∪ [ 5 , 26 ] [3,\\sqrt{10}]\\cup[5,\\sqrt{26}] [ 3 , 10 ​ ] ∪ [ 5 , 26 ​ ]"
+          "text": "\\sqrt{10}]\\cup[5,\\sqrt{26}"
         },
         {
           "label": "B",
-          "text": "[ 3 , 10 ] ∪ [ 4 , 17 ] ∪ { 6 } [3,\\sqrt{10}]\\cup[4,\\sqrt{17}]\\cup\\{6\\} [ 3 , 10 ​ ] ∪ [ 4 , 17 ​ ] ∪ { 6 }"
+          "text": "\\sqrt{10}]\\cup[4,\\sqrt{17}]\\cup\\{6\\}"
         },
         {
           "label": "C",
-          "text": "[ 3 , 10 ) ∪ [ 5 , 26 ) ∪ { 6 } [3,\\sqrt{10})\\cup[5,\\sqrt{26})\\cup\\{6\\} [ 3 , 10 ​ ) ∪ [ 5 , 26 ​ ) ∪ { 6 }"
+          "text": "\\sqrt{10})\\cup[5,\\sqrt{26})\\cup\\{6\\}"
         },
         {
           "label": "D",
-          "text": "( 4 , 18 ) ∪ [ 5 , 27 ) ∪ { 6 } (4,\\sqrt{18})\\cup[5,\\sqrt{27})\\cup\\{6\\} ( 4 , 18 ​ ) ∪ [ 5 , 27 ​ ) ∪ { 6 }"
+          "text": "\\sqrt{18})\\cup[5,\\sqrt{27})\\cup\\{6\\}"
         }
       ],
       "question_type": "MCQ",
@@ -344,19 +344,19 @@
       "options": [
         {
           "label": "A",
-          "text": "3 \\frac{10}{3} 3 10 ​"
+          "text": "\\frac{10}{3}"
         },
         {
           "label": "B",
-          "text": "4 \\frac{13}{4} 4 13 ​"
+          "text": "\\frac{13}{4}"
         },
         {
           "label": "C",
-          "text": "9 \\frac{29}{9} 9 29 ​"
+          "text": "\\frac{29}{9}"
         },
         {
           "label": "D",
-          "text": "7 \\frac{27}{7} 7 27 ​"
+          "text": "\\frac{27}{7}"
         }
       ],
       "question_type": "MCQ",
@@ -471,7 +471,7 @@
       "options": [
         {
           "label": "A",
-          "text": "− 1 2 -\\frac{1}{2} − 2 1 ​"
+          "text": "\\frac{1}{2}"
         },
         {
           "label": "B",
@@ -479,7 +479,7 @@
         },
         {
           "label": "C",
-          "text": "2 \\frac{1}{2} 2 1 ​"
+          "text": "\\frac{1}{2}"
         },
         {
           "label": "D",

@@ -198,19 +198,19 @@
       "options": [
         {
           "label": "A",
-          "text": "log ⁡ 4 ( 7 2 ) \\log_4 (\\frac{7}{2}) lo g 4 ​ ( 2 7 ​ )"
+          "text": "\\log_4 (\\frac{7}{2}"
         },
         {
           "label": "B",
-          "text": "log ⁡ 4 ( 3 2 ) \\log_4 (\\frac{3}{2}) lo g 4 ​ ( 2 3 ​ )"
+          "text": "\\log_4 (\\frac{3}{2}"
         },
         {
           "label": "C",
-          "text": "log ⁡ 4 ( 23 2 ) \\log_4 (\\frac{23}{2}) lo g 4 ​ ( 2 23 ​ )"
+          "text": "\\log_4 (\\frac{23}{2}"
         },
         {
           "label": "D",
-          "text": "log ⁡ 4 7 \\log_4 7 lo g 4 ​ 7"
+          "text": "\\log_4"
         }
       ],
       "question_type": "MCQ",
@@ -234,19 +234,19 @@
       "options": [
         {
           "label": "A",
-          "text": "5 30\\sqrt{5} 30 5 ​"
+          "text": "\\sqrt{5}"
         },
         {
           "label": "B",
-          "text": "5 34\\sqrt{5} 34 5 ​"
+          "text": "\\sqrt{5}"
         },
         {
           "label": "C",
-          "text": "5 40\\sqrt{5} 40 5 ​"
+          "text": "\\sqrt{5}"
         },
         {
           "label": "D",
-          "text": "5 36\\sqrt{5} 36 5 ​"
+          "text": "\\sqrt{5}"
         }
       ],
       "question_type": "MCQ",
@@ -579,19 +579,19 @@
       "options": [
         {
           "label": "A",
-          "text": "( 5 − 1 ) 3(\\sqrt{5}-1) 3 ( 5 ​ − 1 )"
+          "text": "\\sqrt{5}"
         },
         {
           "label": "B",
-          "text": "( 5 − 2 ) 12(\\sqrt{5}-2) 12 ( 5 ​ − 2 )"
+          "text": "\\sqrt{5}"
         },
         {
           "label": "C",
-          "text": "( 3 + 5 ) 3(3+\\sqrt{5}) 3 ( 3 + 5 ​ )"
+          "text": "\\sqrt{5}"
         },
         {
           "label": "D",
-          "text": "( 3 − 5 ) 3(3-\\sqrt{5}) 3 ( 3 − 5 ​ )"
+          "text": "\\sqrt{5}"
         }
       ],
       "question_type": "MCQ",
@@ -672,19 +672,19 @@
       "options": [
         {
           "label": "A",
-          "text": "cos ⁡ 15 ∘ \\cos 15^\\circ cos 1 5 ∘"
+          "text": "\\cos 15^\\circ"
         },
         {
           "label": "B",
-          "text": "sin ⁡ 15 ∘ 2 \\sin 15^\\circ 2 sin 1 5 ∘"
+          "text": "\\sin 15^\\circ"
         },
         {
           "label": "C",
-          "text": "cos ⁡ 15 ∘ 2 \\cos 15^\\circ 2 cos 1 5 ∘"
+          "text": "\\cos 15^\\circ"
         },
         {
           "label": "D",
-          "text": "sin ⁡ 15 ∘ \\sin 15^\\circ sin 1 5 ∘"
+          "text": "\\sin 15^\\circ"
         }
       ],
       "question_type": "MCQ",
@@ -708,7 +708,7 @@
       "options": [
         {
           "label": "A",
-          "text": ": 1 \\sqrt{5}:1 5 ​ : 1"
+          "text": "\\sqrt{5}"
         },
         {
           "label": "B",
@@ -716,7 +716,7 @@
         },
         {
           "label": "C",
-          "text": ": 1 \\sqrt{2}:1 2 ​ : 1"
+          "text": "\\sqrt{2}"
         },
         {
           "label": "D",
@@ -763,19 +763,19 @@
       "options": [
         {
           "label": "A",
-          "text": "12 \\frac{27}{12} 12 27 ​"
+          "text": "\\frac{27}{12}"
         },
         {
           "label": "B",
-          "text": "8 \\frac{15}{8} 8 15 ​"
+          "text": "\\frac{15}{8}"
         },
         {
           "label": "C",
-          "text": "11 \\frac{16}{11} 11 16 ​"
+          "text": "\\frac{16}{11}"
         },
         {
           "label": "D",
-          "text": "13 \\frac{15}{13} 13 15 ​"
+          "text": "\\frac{15}{13}"
         }
       ],
       "question_type": "MCQ",

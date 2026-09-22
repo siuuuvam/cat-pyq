@@ -488,19 +488,19 @@
       "options": [
         {
           "label": "A",
-          "text": "408 \\frac{5}{408} 408 5 ​"
+          "text": "\\frac{5}{408}"
         },
         {
           "label": "B",
-          "text": "816 \\frac{7}{816} 816 7 ​"
+          "text": "\\frac{7}{816}"
         },
         {
           "label": "C",
-          "text": "408 \\frac{7}{408} 408 7 ​"
+          "text": "\\frac{7}{408}"
         },
         {
           "label": "D",
-          "text": "816 \\frac{5}{816} 816 5 ​"
+          "text": "\\frac{5}{816}"
         }
       ],
       "question_type": "MCQ",
@@ -562,19 +562,19 @@
       "options": [
         {
           "label": "A",
-          "text": "+ 2 3 : 1 4+2\\sqrt{3}:1 4 + 2 3 ​ : 1"
+          "text": "\\sqrt{3}"
         },
         {
           "label": "B",
-          "text": "+ 4 3 : 1 7+4\\sqrt{3}:1 7 + 4 3 ​ : 1"
+          "text": "\\sqrt{3}"
         },
         {
           "label": "C",
-          "text": "+ 3 : 1 2+\\sqrt{3}:1 2 + 3 ​ : 1"
+          "text": "\\sqrt{3}"
         },
         {
           "label": "D",
-          "text": "+ 3 : 1 4+\\sqrt{3}:1 4 + 3 ​ : 1"
+          "text": "\\sqrt{3}"
         }
       ],
       "question_type": "MCQ",
@@ -670,19 +670,19 @@
       "options": [
         {
           "label": "A",
-          "text": "− 5 < x < 3 2 -5<x<\\frac{3}{2} − 5 < x < 2 3 ​ or x < 8 x<8 x < 8"
+          "text": "\\frac{3}{2}"
         },
         {
           "label": "B",
-          "text": "− 5 < x < 3 2 -5<x<\\frac{3}{2} − 5 < x < 2 3 ​ or x > 8 x>8 x > 8"
+          "text": "\\frac{3}{2}"
         },
         {
           "label": "C",
-          "text": "x < − 5 x<-5 x < − 5 or x > 3 2 x>\\frac{3}{2} x > 2 3 ​"
+          "text": "\\frac{3}{2}"
         },
         {
           "label": "D",
-          "text": "x < − 5 x<-5 x < − 5 or 3 2 < x ≤ 8 \\frac{3}{2}<x \\leq 8 2 3 ​ < x ≤ 8"
+          "text": "\\frac{3}{2}<x \\leq"
         }
       ],
       "question_type": "MCQ",

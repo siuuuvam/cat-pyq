@@ -454,19 +454,19 @@
       "options": [
         {
           "label": "A",
-          "text": "\\sqrt{7} 7 ​"
+          "text": "\\sqrt{7}"
         },
         {
           "label": "B",
-          "text": "\\sqrt{5} 5 ​"
+          "text": "\\sqrt{5}"
         },
         {
           "label": "C",
-          "text": "\\sqrt{8} 8 ​"
+          "text": "\\sqrt{8}"
         },
         {
           "label": "D",
-          "text": "\\sqrt{6} 6 ​"
+          "text": "\\sqrt{6}"
         }
       ],
       "question_type": "MCQ",
@@ -530,11 +530,11 @@
         },
         {
           "label": "B",
-          "text": "− 9 2 -\\frac{9}{2} − 2 9 ​"
+          "text": "\\frac{9}{2}"
         },
         {
           "label": "C",
-          "text": "2 \\frac{9}{2} 2 9 ​"
+          "text": "\\frac{9}{2}"
         },
         {
           "label": "D",
@@ -634,7 +634,7 @@
       "options": [
         {
           "label": "A",
-          "text": "cos ⁡ θ \\sqrt{2} \\cos \\theta 2 ​ cos θ"
+          "text": "\\sqrt{2} \\cos \\theta"
         },
         {
           "label": "B",
@@ -642,11 +642,11 @@
         },
         {
           "label": "C",
-          "text": "( sin ⁡ θ + cos ⁡ θ ) 2 \\frac{(\\sin \\theta + \\cos \\theta)}{\\sqrt{2}} 2 ​ ( s i n θ + c o s θ ) ​"
+          "text": "\\frac{(\\sin \\theta + \\cos \\theta)}{\\sqrt{2}}"
         },
         {
           "label": "D",
-          "text": "sin ⁡ θ \\sqrt{2} \\sin \\theta 2 ​ sin θ"
+          "text": "\\sqrt{2} \\sin \\theta"
         }
       ],
       "question_type": "MCQ",
