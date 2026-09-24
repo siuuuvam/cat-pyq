@@ -332,11 +332,11 @@
     const app = document.getElementById('app');
     if (type === 'cards') {
       return `<div class="skeleton-grid">${Array(6).fill('').map(() =>
-        `<div class="skeleton-card"><div class="skeleton-line skeleton-line-lg"></div><div class="skeleton-line skeleton-line-sm"></div></div>`
+        `<div class="card skeleton-card"><div class="skeleton-line skeleton-line-lg"></div><div class="skeleton-line skeleton-line-sm"></div></div>`
       ).join('')}</div>`;
     }
     if (type === 'question') {
-      return `<div class="skeleton-question">
+      return `<div class="card skeleton-question">
         <div class="skeleton-line skeleton-line-md"></div>
         <div class="skeleton-line skeleton-line-lg"></div>
         <div class="skeleton-line skeleton-line-lg"></div>
@@ -346,7 +346,7 @@
       </div>`;
     }
     return `<div class="skeleton-grid">${Array(3).fill('').map(() =>
-      `<div class="skeleton-card"><div class="skeleton-line skeleton-line-lg"></div><div class="skeleton-line skeleton-line-sm"></div></div>`
+      `<div class="card skeleton-card"><div class="skeleton-line skeleton-line-lg"></div><div class="skeleton-line skeleton-line-sm"></div></div>`
     ).join('')}</div>`;
   }
 
@@ -443,12 +443,12 @@
         <h1>CAT Past Year Questions</h1>
         <p>Practice with real CAT papers from 2020–2025</p>
         <div class="mode-switch" role="navigation" aria-label="Choose a mode">
-          <a class="mode-card mode-card-review active" href="index.html">
+          <a class="card mode-card mode-card-review active" href="index.html">
             <span class="mode-card-tag">Current</span>
             <h3>Review Mode</h3>
             <p>Solve questions with instant answers, detailed explanations and progress tracking.</p>
           </a>
-          <a class="mode-card mode-card-exam" href="exam.html">
+          <a class="card mode-card mode-card-exam" href="exam.html">
             <span class="mode-card-tag tag-new">New</span>
             <h3>Mock Exam Mode</h3>
             <p>Full TCS iON-style test player — section timers, question palette, real marking. Answers hidden until you submit.</p>
@@ -463,7 +463,7 @@
       <div class="container">
         <div class="year-grid">
           ${YEARS.map(y => `
-            <a class="year-card" href="?year=${y}" onclick="event.preventDefault(); window.__appNav('?year=${y}')">
+            <a class="card year-card" href="?year=${y}" onclick="event.preventDefault(); window.__appNav('?year=${y}')">
               <div class="year-num">${y}</div>
               <div class="year-meta">CAT ${y}</div>
             </a>
@@ -506,7 +506,7 @@
         <div class="slot-grid">
           ${slotData.map(s => {
             const count = s.sections.filter(x => x.paper).length;
-            return `<a class="slot-card ${count === 0 ? 'empty' : ''}" href="?year=${year}&slot=${s.slot}" onclick="event.preventDefault(); window.__appNav('?year=${year}&slot=${s.slot}')">
+            return `<a class="card slot-card ${count === 0 ? 'empty' : ''}" href="?year=${year}&slot=${s.slot}" onclick="event.preventDefault(); window.__appNav('?year=${year}&slot=${s.slot}')">
               <div class="slot-name">${s.slot.replace('slot-', 'Slot ')}</div>
               <div class="slot-meta">${count > 0 ? count + ' sections available' : 'No data'}</div>
             </a>`;
@@ -544,7 +544,7 @@
         </div>
         <div class="slot-grid">
           ${sectionData.map(s => `
-            <a class="slot-card ${s.paper ? '' : 'empty'}" href="?year=${year}&slot=${slot}&section=${s.section}" onclick="event.preventDefault(); window.__appNav('?year=${year}&slot=${slot}&section=${s.section}')">
+            <a class="card slot-card ${s.paper ? '' : 'empty'}" href="?year=${year}&slot=${slot}&section=${s.section}" onclick="event.preventDefault(); window.__appNav('?year=${year}&slot=${slot}&section=${s.section}')">
               <div class="slot-name">${s.section}</div>
               <div class="slot-meta">${s.paper ? s.paper.questions.length + ' questions' : 'Not available'}</div>
             </a>
@@ -696,7 +696,7 @@
         <div class="split-passage">${passageHtml}</div>
         <div class="split-question">${questionContentHtml}</div>
       </div>` : `
-      <div class="question-card">${passageHtml}${questionContentHtml}</div>`;
+      <div class="card question-card">${passageHtml}${questionContentHtml}</div>`;
 
     app.innerHTML = `
       <div class="container">
@@ -770,7 +770,7 @@
         </div>
         <div class="bookmark-list">
           ${items.map(item => `
-            <a class="bookmark-item" href="?year=${item.year}&slot=${item.slot}&section=${item.section}&q=${item.qNum}" onclick="event.preventDefault(); window.__appNav('?year=${item.year}&slot=${item.slot}&section=${item.section}&q=${item.qNum}')">
+            <a class="card bookmark-item" href="?year=${item.year}&slot=${item.slot}&section=${item.section}&q=${item.qNum}" onclick="event.preventDefault(); window.__appNav('?year=${item.year}&slot=${item.slot}&section=${item.section}&q=${item.qNum}')">
               <span class="bookmark-item-info">
                 <span class="bookmark-item-q">Q${item.qNum}</span>
                 <span class="bookmark-item-meta">${item.year} ${item.slot.replace('slot-', 'Slot ')} ${item.section}</span>
@@ -820,9 +820,9 @@
           <p class="page-subtitle">${allProgress.length} questions attempted across ${setEntries.length} sets</p>
         </div>
         <div class="progress-summary">
-          <div class="progress-stat correct"><span class="stat-num">${allProgress.filter(([, p]) => p.status === 'correct').length}</span><span class="stat-label">Correct</span></div>
-          <div class="progress-stat incorrect"><span class="stat-num">${allProgress.filter(([, p]) => p.status === 'incorrect').length}</span><span class="stat-label">Incorrect</span></div>
-          <div class="progress-stat flagged"><span class="stat-num">${allProgress.filter(([, p]) => p.flagged).length}</span><span class="stat-label">Flagged</span></div>
+          <div class="card progress-stat correct"><span class="stat-num">${allProgress.filter(([, p]) => p.status === 'correct').length}</span><span class="stat-label">Correct</span></div>
+          <div class="card progress-stat incorrect"><span class="stat-num">${allProgress.filter(([, p]) => p.status === 'incorrect').length}</span><span class="stat-label">Incorrect</span></div>
+          <div class="card progress-stat flagged"><span class="stat-num">${allProgress.filter(([, p]) => p.flagged).length}</span><span class="stat-label">Flagged</span></div>
         </div>
         <div class="progress-sets">
           ${setEntries.map(s => {
@@ -830,7 +830,7 @@
             const accuracy = graded > 0 ? Math.round(s.correct / graded * 100) : 0;
             const correctW = s.total > 0 ? (s.correct / s.total * 100) : 0;
             const incorrectW = s.total > 0 ? (s.incorrect / s.total * 100) : 0;
-            return `<a class="progress-set-item" href="?year=${s.year}&slot=${s.slot}&section=${s.section}" onclick="event.preventDefault(); window.__appNav('?year=${s.year}&slot=${s.slot}&section=${s.section}')">
+            return `<a class="card progress-set-item" href="?year=${s.year}&slot=${s.slot}&section=${s.section}" onclick="event.preventDefault(); window.__appNav('?year=${s.year}&slot=${s.slot}&section=${s.section}')">
               <div class="progress-set-info">
                 <span class="progress-set-name">${s.year} ${s.slot.replace('slot-', 'Slot ')} ${s.section}</span>
                 <span class="progress-set-stats">${s.correct}/${graded} correct (${accuracy}%)</span>
@@ -967,7 +967,7 @@
           <span class="quiz-progress">${state.quizIndex + 1} / ${state.quizQuestions.length}</span>
           ${state.timerEnabled ? `<span class="timer-display" id="timer-display">${formatTime(state.timerSeconds)}</span>` : ''}
         </div>
-        <div class="question-card">
+        <div class="card question-card">
           <div class="question-header">
             <span class="q-number">Q${q.question_number}:</span>
             <span class="pill pill-blue">${escapeHtml(q.section)}</span>
@@ -1024,10 +1024,10 @@
         <div class="quiz-summary">
           <h2>Practice Complete!</h2>
           <div class="summary-stats">
-            <div class="progress-stat correct"><span class="stat-num">${correct}</span><span class="stat-label">Correct</span></div>
-            <div class="progress-stat incorrect"><span class="stat-num">${total - correct}</span><span class="stat-label">Incorrect</span></div>
-            <div class="progress-stat"><span class="stat-num">${accuracy}%</span><span class="stat-label">Accuracy</span></div>
-            ${state.timerEnabled ? `<div class="progress-stat"><span class="stat-num">${formatTime(elapsed)}</span><span class="stat-label">Time</span></div>` : ''}
+            <div class="card progress-stat correct"><span class="stat-num">${correct}</span><span class="stat-label">Correct</span></div>
+            <div class="card progress-stat incorrect"><span class="stat-num">${total - correct}</span><span class="stat-label">Incorrect</span></div>
+            <div class="card progress-stat"><span class="stat-num">${accuracy}%</span><span class="stat-label">Accuracy</span></div>
+            ${state.timerEnabled ? `<div class="card progress-stat"><span class="stat-num">${formatTime(elapsed)}</span><span class="stat-label">Time</span></div>` : ''}
           </div>
           <div class="quiz-review">
             ${state.quizAnswers.map((a, i) => `
