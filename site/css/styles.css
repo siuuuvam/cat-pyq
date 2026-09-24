@@ -341,6 +341,80 @@ img { max-width: 100%; height: auto; }
   flex-wrap: wrap;
 }
 
+/* ── Mode Switcher (Review vs Mock Exam) ── */
+.mode-switch {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(240px, 340px));
+  gap: 16px;
+  justify-content: center;
+  margin: 0 auto 28px;
+}
+
+.mode-card {
+  position: relative;
+  display: block;
+  text-align: left;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 18px 20px 16px;
+  box-shadow: var(--shadow-sm);
+  transition: transform var(--transition), box-shadow var(--transition), border-color var(--transition);
+}
+
+.mode-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  border-color: var(--border-hover);
+}
+
+.mode-card h3 {
+  font-size: 17px;
+  font-weight: 800;
+  margin-bottom: 6px;
+}
+
+.mode-card p {
+  font-size: 13.5px;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.mode-card-tag {
+  position: absolute;
+  top: 14px;
+  right: 14px;
+  font-size: 10px;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  background: var(--bg-tertiary);
+  color: var(--text-secondary);
+  padding: 3px 8px;
+  border-radius: var(--radius-full);
+}
+
+.mode-card-tag.tag-new { background: var(--blue-bg); color: var(--blue-text); }
+
+.mode-card-review {
+  border-color: var(--accent-subtle);
+}
+
+.mode-card-review h3 { color: var(--accent); }
+
+.mode-card-exam {
+  border-color: #bfdbfe;
+  background: linear-gradient(160deg, #ffffff, #eff6ff);
+}
+
+.mode-card-exam h3 { color: #1d4ed8; }
+
+[data-theme="dark"] .mode-card-exam {
+  border-color: #1e3a5f;
+  background: linear-gradient(160deg, #1e293b, #17233c);
+}
+
 .year-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
@@ -1031,6 +1105,7 @@ img.loaded { opacity: 1; }
   .progress-stat { padding: 16px 20px; min-width: 100px; }
   .stat-num { font-size: 22px; }
   .landing-actions { flex-direction: column; align-items: center; }
+  .mode-switch { grid-template-columns: 1fr; max-width: 420px; }
 }
 
 @media (max-width: 1100px) and (min-width: 769px) {

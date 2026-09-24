@@ -434,6 +434,18 @@
       <div class="landing-hero">
         <h1>CAT Past Year Questions</h1>
         <p>Practice with real CAT papers from 2020–2025</p>
+        <div class="mode-switch" role="navigation" aria-label="Choose a mode">
+          <a class="mode-card mode-card-review active" href="index.html">
+            <span class="mode-card-tag">Current</span>
+            <h3>Review Mode</h3>
+            <p>Solve questions with instant answers, detailed explanations and progress tracking.</p>
+          </a>
+          <a class="mode-card mode-card-exam" href="exam.html">
+            <span class="mode-card-tag tag-new">New</span>
+            <h3>Mock Exam Mode</h3>
+            <p>Full TCS iON-style test player — section timers, question palette, real marking. Answers hidden until you submit.</p>
+          </a>
+        </div>
         <div class="landing-actions">
           <a href="?view=random" class="btn btn-primary" onclick="event.preventDefault(); window.__appNav('?view=random')">Quick Practice</a>
           <a href="?view=bookmarks" class="btn btn-outline" onclick="event.preventDefault(); window.__appNav('?view=bookmarks')">My Bookmarks</a>
@@ -529,6 +541,10 @@
               <div class="slot-meta">${s.paper ? s.paper.questions.length + ' questions' : 'Not available'}</div>
             </a>
           `).join('')}
+        </div>
+        <div class="page-header" style="margin-top:28px">
+          <a class="btn btn-primary" href="exam.html?year=${year}&amp;slot=${slot}">▶ Take Mock Exam — ${year} ${slot.replace('slot-', 'Slot ')}</a>
+          <p class="page-subtitle" style="margin-top:8px">Full test-player experience with timers, palette and scoring — answers revealed after submit.</p>
         </div>
       </div>`;
   }

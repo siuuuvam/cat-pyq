@@ -11,6 +11,8 @@
     { "src": "/lib/(.*)", "dest": "site/lib/$1" },
     { "src": "/css/(.*)", "dest": "site/css/$1" },
     { "src": "/js/(.*)", "dest": "site/js/$1" },
+    { "src": "/exam-mode/(.*)", "dest": "site/exam-mode/$1" },
+    { "src": "/exam.html", "dest": "site/exam.html" },
     { "src": "/(.*)", "dest": "site/index.html" }
   ]
 }
