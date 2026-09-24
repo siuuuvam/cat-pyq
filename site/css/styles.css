@@ -761,6 +761,8 @@ img { max-width: 100%; height: auto; }
 .q-nav-btn.active { background: var(--accent); color: white; border-color: var(--accent); }
 .q-nav-btn.q-nav-correct { background: var(--green-bg); border-color: var(--green-border); color: var(--green-text); }
 .q-nav-btn.q-nav-incorrect { background: var(--red-bg); border-color: var(--red-border); color: var(--red-text); }
+.q-nav-btn.active.q-nav-correct,
+.q-nav-btn.active.q-nav-incorrect { box-shadow: 0 0 0 2px var(--accent); }
 .q-nav-btn.q-nav-flagged { border-color: var(--amber-text); }
 
 /* ── Split Layout ── */
