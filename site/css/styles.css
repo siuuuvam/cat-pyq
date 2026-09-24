@@ -982,14 +982,16 @@ img { max-width: 100%; height: auto; }
   background: var(--bg-tertiary);
   border-radius: 3px;
   overflow: hidden;
+  display: flex;
 }
 
-.progress-bar-fill {
+.progress-seg {
   height: 100%;
-  background: var(--accent);
-  border-radius: 3px;
   transition: width 0.5s ease;
 }
+
+.progress-seg.correct { background: var(--green-text); }
+.progress-seg.incorrect { background: var(--red-text); }
 
 /* ── Random Practice ── */
 .random-setup {

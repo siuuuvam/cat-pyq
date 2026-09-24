@@ -826,13 +826,19 @@
         </div>
         <div class="progress-sets">
           ${setEntries.map(s => {
-            const accuracy = s.correct + s.incorrect > 0 ? Math.round(s.correct / (s.correct + s.incorrect) * 100) : 0;
+            const graded = s.correct + s.incorrect;
+            const accuracy = graded > 0 ? Math.round(s.correct / graded * 100) : 0;
+            const correctW = s.total > 0 ? (s.correct / s.total * 100) : 0;
+            const incorrectW = s.total > 0 ? (s.incorrect / s.total * 100) : 0;
             return `<a class="progress-set-item" href="?year=${s.year}&slot=${s.slot}&section=${s.section}" onclick="event.preventDefault(); window.__appNav('?year=${s.year}&slot=${s.slot}&section=${s.section}')">
               <div class="progress-set-info">
                 <span class="progress-set-name">${s.year} ${s.slot.replace('slot-', 'Slot ')} ${s.section}</span>
-                <span class="progress-set-stats">${s.correct}/${s.correct + s.incorrect} correct (${accuracy}%)</span>
+                <span class="progress-set-stats">${s.correct}/${graded} correct (${accuracy}%)</span>
               </div>
-              <div class="progress-bar"><div class="progress-bar-fill" style="width:${accuracy}%"></div></div>
+              <div class="progress-bar" title="${s.correct} correct, ${s.incorrect} incorrect, ${s.total - graded} ungraded">
+                <div class="progress-seg correct" style="width:${correctW}%"></div>
+                <div class="progress-seg incorrect" style="width:${incorrectW}%"></div>
+              </div>
             </a>`;
           }).join('')}
         </div>
