@@ -371,8 +371,16 @@
   }
 
   function updateNavActive() {
-    document.querySelectorAll('.header-nav a[data-year]').forEach(a => {
-      a.classList.toggle('active', a.getAttribute('data-year') === String(state.currentYear));
+    const params = new URLSearchParams(window.location.search);
+    const view = params.get('view');
+    const year = params.get('year');
+    let target = 'index.html';
+    if (view === 'bookmarks') target = '?view=bookmarks';
+    else if (view === 'progress') target = '?view=progress';
+    else if (view === 'random') target = '?view=random';
+    else if (year) target = '?year=' + year;
+    document.querySelectorAll('.header-nav a, #mobile-menu a').forEach(a => {
+      a.classList.toggle('active', a.getAttribute('href') === target);
     });
   }
 
